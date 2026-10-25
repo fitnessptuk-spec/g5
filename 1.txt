@@ -422,4 +422,1516 @@ Shadow bolts forward first, guiding them through the blazing smoke. Viper and G5
 They dive through the secondary maintenance hatch into the dark safety of the deeper tunnels, leaving the burning origin point behind them.
 wiekszosc jest po angielsku ale sa polskie slowa ktore prosze zmien na jezyk angielski bo nasz filmik ma byc po angielsku. postaraj sie utrzymac frame-to-frame scenki, pamietaj zeby postacie byly realistyczne pod wzgledem zachowania i wygladu - zadnej plastikowej skory tylko, prawdziwa realistyczna skora, naturalna gestykulizacja. udoskonal to i zaplanuj na 6-8 sekundowe sceny. zaladuj qwen skill oraz ltx skill.
 
+Oto trzy kierunki, w których możemy pchnąć fabułę w kolejnym rozdziale:
+
+Opcja 1: The Raw Material (Polowanie na Anomalię)
+
+Akcja przenosi się wprost w epicentrum nowego zjawiska. W opuszczonej dzielnicy przemysłowej pojawia się nowa anomalia – tym razem to niestabilne wyładowania soniczne (acoustic anomaly), które rozrywają materię na kawałki, ale odpowiednio okiełznane mogą posłużyć jako idealne źródło zasilania dla Project Sovereign.
+• Przebieg akcji: Drużyna spieszy się, by zabezpieczyć anomalię przed ludźmi Brokera. Kora konstruuje na kolanie prowizoryczny stabilizator. Viper i jej owczarek niemiecki (nazwijmy go np. Blitz lub Rex) torują drogę przez straże korporacyjne, a G5had0w musi fizycznie utrzymać rdzeń urządzenia, ryzykując przeciążenie swoich cybernetycznych wszczepów.
+• Twist: Na miejscu pojawia się ZeroDay za pomocą zdalnie sterowanych dronów (drones/mechs), próbując zhakować systemy Kory i przejąć kontrolę nad polem energetycznym.
+
+Opcja 2: The Neon Trap (Zastawianie Pułapki)
+
+Broker i ZeroDay potrzebują unikalnego komponentu cybernetycznego, który posiada... G5had0w. Wykorzystują plotkę o nowej, potężnej anomalii plazmowej w ekskluzywnym klubie nocnym The Event Horizon, aby zwabić Waszych bohaterów w pułapkę.
+• Przebieg akcji: Viper używa swojego temperamentu i uroku osobistego (oraz psa jako "psa przewodnika" lub ochrony), aby zinfiltrować sekcję VIP. Kora siedzi w zaparkowanej furgonetce, monitorując sieć, podczas gdy G5had0w wtapia się w tłum jako ochroniarz.
+• Twist: Anomalia w klubie okazuje się sztucznie wygenerowanym przez ZeroDaya "fakiem", a systemy bezpieczeństwa lokalu nagle odcinają drogę ucieczki. Pies Vipera jako pierwszy wyczuwa zagrożenie (np. częstotliwości niesłyszalne dla ludzi), ratując zespół przed pułapką gazową lub ładunkami wybuchowymi.
+
+Opcja 3: Corporate Espionage (Infiltracja ZeroDaya)
+
+Kora odkrywa ślad cyfrowy pozostawiony przez ZeroDaya po ostatnim wycieku energii z anomalii. Trop prowadzi do tajnego laboratorium badawczego Brokera, ukrytego pod maską legalnej korporacji medycznej.
+• Przebieg akcji: Cicha misja infiltracyjna (stealth mission). G5had0w i Kora włamują się do serwerowni, by skopiować plany Project Sovereign. Viper ubezpiecza tyły i dba o to, by nikt nie podniósł alarmu.
+• Twist: Bohaterowie po raz pierwszy widzą inkubator, w którym powstaje "super istota". Co gorsza, odkrywają, że do jej stabilizacji Broker potrzebuje energii z anomalii na masową skalę, co grozi zniszczeniem całego miasta.
+
+Przykładowy dialog na otwarcie nowego rozdziału (w furgonetce/kryjówce):
+
+Kora: (typing furiously on her holopad) "The energy signature is spiking again. Sector 4, near the old power grid. But it's different this time... less plasma, more kinetic discharges."
+G5had0w: (adjusting the servo-motors in his cybernetic arm, clicking sound) "ZeroDay is already tracking it. My internal scanners picked up their sub-net traffic five minutes ago. If they get this anomaly, Sovereign goes live."
+Viper: (loading her customized shatter-rifle, looking down at her German Shepherd) "Not on my watch. Right, boy? We're going in hard and fast before Broker's clean-up crew even packs their vans. Kora, can your tech harvest this thing?"
+Kora: "In theory? Yes. In practice? If I make a one-millisecond mistake, we all become molecular dust."
+Viper: (grins fiercely) "I like those odds. Let's move."
+Który kierunek podoba Ci się najbardziej? Możemy go rozwinąć, dopisać konkretne sceny, albo wymyślić unikalne imię dla psa Vipera i unikalną cechę dla tworzonego przez złoczyńców potwora!
+AI responses may include mistakes. Learn more
+
+You said: opcja 3 ale zmienimy - bohaterowie napotykaja titan (nowa postac) i g5had0w z nim walczy wrecz, kora idzie glebiej mijajac inkubator (cylinder pionowy) i spostrzega Wraith (nowa postac, ona jest zloczynca) ktora majsterkuje przy jednym z serwerow pozostawionych przez brokera i jego ekipe, g5had0w po dluzszej walce z titan wygrywa. rozwin to bardziej i ubierz w ladne slownictwo oraz wprowadz dialogi jak by to byl serial tv :)
+
+opcja 3 ale zmienimy - bohaterowie napotykaja titan (nowa postac) i g5had0w z nim walczy wrecz, kora idzie glebiej mijajac inkubator (cylinder pionowy) i spostrzega Wraith (nowa postac, ona jest zloczynca) ktora majsterkuje przy jednym z serwerow pozostawionych przez brokera i jego ekipe, g5had0w po dluzszej walce z titan wygrywa. rozwin to bardziej i ubierz w ladne slownictwo oraz wprowadz dialogi jak by to byl serial tv :)
+1 October 2026
+Here is a detailed, cinematic script layout for this scene, formatted like a high-end cyberpunk TV series.
+
+TITLE: PROJECT SOVEREIGN – EPISODE 3: THE UNDERGROUND ARCHIVE
+
+INT. BROKER’S SUB-LEVEL LABORATORY - NIGHT
+Cold, fluorescent white light cuts through heavy shadows. The air hums with the deep bass of cooling fans. In the center of the main hall stands a massive, vertical glass cylinder—the incubator. Inside, a silhouette floats in pale green amniotic fluid, laced with glowing cables. Project Sovereign.
+Viper stands near the entrance, her customized shatter-rifle raised. Her German Shepherd, Shadow, is low to the ground, ears pinned back, a low growl vibrating in his chest.
+VIPER
+(whispering into her comms)
+Kora, we are inside the chamber. The asset is here. But Shadow is catching a scent... we’re not alone.
+Suddenly, a massive metal door at the far end of the hall is ripped off its hinges.
+Enter TITAN—a towering, heavily augmented cybernetic enforcer. His arms are thick hydraulic pistons, his jaw replaced with polished titanium. His cyber-eyes lock onto them, glowing blood-red.
+TITAN
+(voice like grinding gears)
+Intruders detected. Authorization: Terminate.
+Titan lunges forward with terrifying speed for his size. G5had0w steps in front of Viper, his own bionic arm whirring to life, blades sliding out from his forearm.
+G5HAD0W
+(calm, monotone)
+Viper, take Kora and advance. He is mine.
+VIPER
+(smirking, backing away)
+Don't scratch the paint, tin-man.
+Titan throws a devastating punch. G5had0w blocks it with his forearm shields, the impact creating a loud, metallic CLANG that echoes through the facility. The floor cracks beneath them.
+
+INT. INNER SERVER ROOM - CONTINUOUS
+
+Kora slips past the brutal melee, her holopad already scanning the local network. She navigates around the massive green incubator, casting a nervous glance at the creature floating inside.
+She pushes through a heavy security door into the server archive. The room is dark, illuminated only by blinking server racks and a single holographic interface.
+Working at the main terminal is WRAITH—a sleek, lethal operative wearing a stealth-weave suit that seems to blur at the edges. Her fingers move across a virtual keyboard with hypnotic speed. She is extracting Broker's core data.
+Without turning around, Wraith speaks. Her voice is smooth, mocking, and cold.
+WRAITH
+You are late, little engineer. The Broker already left the building. And ZeroDay? Well, he doesn't like to leave his trash behind.
+Kora pulls out her tech-pistol, her hand trembling slightly but her eyes fierce.
+KORA
+Step away from the console, Wraith. That data doesn't belong to you, and it definitely doesn't belong to Broker.
+Wraith slowly turns her head, a sharp, cybernetic monocle over her left eye pulsing with blue data streams. She smiles coldly.
+WRAITH
+Belong? In this city, data belongs to whoever can hold it. And right now... I am holding all the cards.
+Wraith presses a final key. The terminal flashes DOWNLOAD COMPLETE. She detaches a glowing data-drive.
+
+INT. MAIN CHAMBER - CONTINUOUS (THE FIGHT)
+
+Back in the hall, the brawl is catastrophic. Titan slams G5had0w into a concrete pillar, shattering the stone. G5had0w’s internal systems alarm blares: INTEGRITY AT 68%.
+Titan raises both fists for a crushing downward blow.
+TITAN
+You are obsolete, G5had0w. Pure scrap metal.
+G5had0w’s cybernetic eye flashes. He activates his auxiliary overdrive. With a burst of pneumatic power, he slides between Titan’s legs, spinning around to drive his forearm blade deep into the soft, unarmored wiring behind Titan's knee.
+Titan bellows in digital pain, sparks flying from the severed cables. He drops to one knee.
+G5had0w doesn't hesitate. He leaps onto Titan’s back, wraps his heavy metallic arms around Titan’s throat, and engages his hydraulic clamps. The metal of Titan's neck begins to groan and twist under the immense pressure.
+G5HAD0W
+(whispering in Titan's ear)
+My tech may be old. But my resolve is unbroken.
+With a final, violent twist, G5had0w rips the central processor core straight out of Titan's neck. The giant enforcer shudders, his red cyber-eyes flickering violently before going completely dark. Titan collapses to the floor like a fallen skyscraper.
+G5had0w stands over him, venting hot steam from his exhaust ports, his chassis dented but victorious. He looks toward the server room.
+G5HAD0W
+(into comms)
+Kora. Threat neutralized. What is your status?
+Would you like to continue right here and see how Kora deals with Wraith, or should Viper and Shadow break into the server room to corner her before she escapes with the drive? Let me know what happens next!
+AI responses may include mistakes. Learn more
+
+You said: opcja 3 ale zmienimy - bohaterowie napotykaja titan (nowa postac) i g5had0w z nim walczy wrecz, kora idzie glebiej mijajac inkubator (cylinder pionowy) i spostrzega Wraith (nowa postac, ona jest zloczynca) ktora majsterkuje przy jednym z serwerow pozostawionych przez brokera i jego ekipe, g5had0w po dluzszej walce z titan wygrywa. rozwin to bardziej i ubierz w ladne slownictwo oraz wprowadz dialogi jak by to byl serial tv :) (nie opisuj bohaterow, wystarczy imie, jak juz chcesz rozwinac to opisz ruch ale nie wdawaj sie w wyglad zadnej postaci)
+
+opcja 3 ale zmienimy - bohaterowie napotykaja titan (nowa postac) i g5had0w z nim walczy wrecz, kora idzie glebiej mijajac inkubator (cylinder pionowy) i spostrzega Wraith (nowa postac, ona jest zloczynca) ktora majsterkuje przy jednym z serwerow pozostawionych przez brokera i jego ekipe, g5had0w po dluzszej walce z titan wygrywa. rozwin to bardziej i ubierz w ladne slownictwo oraz wprowadz dialogi jak by to byl serial tv :) (nie opisuj bohaterow, wystarczy imie, jak juz chcesz rozwinac to opisz ruch ale nie wdawaj sie w wyglad zadnej postaci)
+1 October 2026
+
+TITLE: PROJECT SOVEREIGN – EPISODE 3: THE UNDERGROUND ARCHIVE
+
+INT. BROKER’S SUB-LEVEL LABORATORY - NIGHT
+Cold, fluorescent white light cuts through heavy shadows. The air hums with the deep bass of cooling fans. In the center of the main hall stands a massive, vertical glass cylinder—the incubator. Inside, a silhouette floats in pale green amniotic fluid, laced with glowing cables.
+Viper stands near the entrance, her customized shatter-rifle raised. Her German Shepherd, Shadow, is low to the ground, ears pinned back, a low growl vibrating in his chest.
+VIPER
+(whispering into her comms)
+Kora, we are inside the chamber. The asset is here. But Shadow is catching a scent... we’re not alone.
+Suddenly, a massive metal door at the far end of the hall is ripped off its hinges.
+Enter Titan. He lunges forward with terrifying speed for his size. G5had0w steps in front of Viper, his own bionic arm whirring to life, blades sliding out from his forearm.
+G5HAD0W
+(calm, monotone)
+Viper, take Kora and advance. He is mine.
+VIPER
+(smirking, backing away)
+Don't scratch the paint, tin-man.
+Titan throws a devastating punch. G5had0w blocks it with his forearm shields, the impact creating a loud, metallic CLANG that echoes through the facility. The floor cracks beneath them.
+
+INT. INNER SERVER ROOM - CONTINUOUS
+
+Kora slips past the brutal melee, her holopad already scanning the local network. She navigates around the massive green incubator, casting a nervous glance at the creature floating inside.
+She pushes through a heavy security door into the server archive. The room is dark, illuminated only by blinking server racks and a single holographic interface.
+Working at the main terminal is Wraith. Her fingers move across a virtual keyboard with hypnotic speed. She is extracting core data.
+Without turning around, Wraith speaks. Her voice is smooth, mocking, and cold.
+WRAITH
+You are late, little engineer. The Broker already left the building. And ZeroDay? Well, he doesn't like to leave his trash behind.
+Kora pulls out her tech-pistol, her hand trembling slightly but her eyes fierce.
+KORA
+Step away from the console, Wraith. That data doesn't belong to you, and it definitely doesn't belong to Broker.
+Wraith slowly turns her head. She smiles coldly.
+WRAITH
+Belong? In this city, data belongs to whoever can hold it. And right now... I am holding all the cards.
+Wraith presses a final key. The terminal flashes DOWNLOAD COMPLETE. She detaches a glowing data-drive.
+
+INT. MAIN CHAMBER - CONTINUOUS (THE FIGHT)
+
+Back in the hall, the brawl is catastrophic. Titan slams G5had0w into a concrete pillar, shattering the stone. G5had0w’s internal systems alarm blares: INTEGRITY AT 68%.
+Titan raises both fists for a crushing downward blow.
+TITAN
+You are obsolete, G5had0w. Pure scrap metal.
+G5had0w activates his auxiliary overdrive. With a burst of pneumatic power, he slides between Titan’s legs, spinning around to drive his forearm blade deep into the soft, unarmored wiring behind Titan's knee.
+Titan bellows in digital pain, sparks flying from the severed cables. He drops to one knee.
+G5had0w doesn't hesitate. He leaps onto Titan’s back, wraps his heavy metallic arms around Titan’s throat, and engages his hydraulic clamps. The metal of Titan's neck begins to groan and twist under the immense pressure.
+G5HAD0W
+(whispering in Titan's ear)
+My tech may be old. But my resolve is unbroken.
+With a final, violent twist, G5had0w rips the central processor core straight out of Titan's neck. The giant enforcer shudders before going completely dark. Titan collapses to the floor.
+G5had0w stands over him, venting hot steam from his exhaust ports. He looks toward the server room.
+G5HAD0W
+(into comms)
+Kora. Threat neutralized. What is your status?
+Should we see how Kora reacts to Wraith holding the data drive, or does Viper burst into the room with Shadow to back her up? Let me know who takes action next!
+AI responses may include mistakes. Learn more
+
+You said: kora to glownie inzynierka wiec kontynuujmy z Viper burst into the room with Shadow to back her up
+
+kora to glownie inzynierka wiec kontynuujmy z Viper burst into the room with Shadow to back her up
+1 October 2026
+
+INT. INNER SERVER ROOM - CONTINUOUS
+
+Wraith slips the glowing data-drive into her tactical vest, turning fully to face Kora. She takes a slow, predatory step forward, but before she can draw her weapon, the heavy security door behind Kora explodes inward.
+Viper bursts into the room, shoulder-first, her shatter-rifle raised and locked onto Wraith’s chest. Beside her, Shadow leaps over the debris, his jaws snapping as he takes a aggressive stance between Kora and the corporate operative.
+VIPER
+(eyes locked on Wraith, teeth gritted)
+Step away from the engineer, ghost. Or I’ll paint this server rack with whatever cybernetics you have left.
+Wraith doesn't flinch. Instead, she raises her hands slightly, tilting her head with an amused, cold smile.
+WRAITH
+Viper. The loose cannon of the lower sectors. I should have known Broker’s security wouldn't hold you for long. But you're too late. The feed is already encrypted.
+KORA
+(stepping back, looking at her holopad)
+Viper, she’s telling the truth. The terminal is wiped clean. Everything Broker left behind is on that physical drive in her vest.
+Shadow lets out a fierce, reverberating bark, stepping closer to Wraith. The operative shifts her weight, her body subtly blurring as if her stealth-weave suit is preparing to activate.
+VIPER
+(clicking the safety off her rifle)
+Then it's a good thing I prefer physical copies. Take the dog, Wraith. See what happens to your cloaking tech when he catches your scent.
+From the hallway, the heavy, rhythmic thuds of G5had0w’s footsteps approach. He stops at the threshold of the server room, his chassis smoking, holding Titan's severed processor core in his left hand.
+Wraith glances at G5had0w, then back to Viper and the snarling German Shepherd. She realizes the odds have just shifted dramatically against her.
+WRAITH
+(softly, dangerously)
+This isn't over. The Broker always has a contingency.
+Suddenly, Wraith throws a small, high-frequency sonic disruptor onto the floor.
+What happens when the disruptor goes off?
+• Does Shadow's acute hearing allow him to track Wraith despite the noise and visual blur?
+• Does Kora use her engineering skills to counter the frequency and lock down the room?
+• Or does Wraith manage to escape, forcing the team to pursue her into the neon-lit streets?
+Let me know how you want to handle the escape or the confrontation!
+AI responses may include mistakes. Learn more
+
+You said: Wraith did manage to escape, forcing the team to pursue her into the neon-lit streets
+
+Wraith did manage to escape, forcing the team to pursue her into the neon-lit streets
+1 October 2026
+
+INT. INNER SERVER ROOM - CONTINUOUS
+
+The sonic disruptor hits the floor and detonates with a high-pitched, ear-splitting shriek.
+Shadow whimpers, dropping to the floor and covering his ears with his paws. Viper and Kora stumble back, gripping their temples as the frequency scrambles their audio implants. Even G5had0w’s optical sensors flicker violently, flooded with static.
+Through the haze of visual distortion, Wraith’s silhouette completely blurs, blending seamlessly into the shadows. By the time the noise subsides, the room is empty. The emergency exit door at the back is swinging open.
+VIPER
+(shaking her head, blinking away the static)
+Damn it! She’s gone. Kora, you good?
+KORA
+(coughing through the smoke, checking her holopad)
+My grid is rebooting... but I’m fine. She took the auxiliary maintenance tunnel. It leads straight up to the surface.
+Viper kneels down for a split second, patting her dog's flanks.
+VIPER
+Good boy, Shadow. Shake it off. We need that scent. Find her!
+Shadow unleashes a sharp bark, his instincts overriding the pain. He bolts through the open emergency exit, his paws clicking furiously against the concrete. Viper, Kora, and G5had0w sprint right behind him.
+
+EXT. UPPER SECTOR STREETS - MOMENTS LATER
+
+The team bursts out of a rusty ventilation grate into the pouring rain of the upper sectors. Neon billboards bleed harsh pinks and cyans into the wet asphalt. Below, the sprawling city hums with traffic, while overhead, massive corporate blimps project holographic advertisements through the fog.
+A hundred yards ahead, a flickering, semi-translucent distortion weaves through the crowded sidewalk, shoving pedestrians aside. Wraith’s cloaking suit is malfunctioning under the heavy downpour, water cascading off her invisible form.
+G5HAD0W
+(heavy mechanical footsteps pounding the pavement)
+Visual confirmation. Her optical camouflage is failing due to the precipitation.
+VIPER
+(running at full speed, rifle raised)
+She's heading for the mag-lev train station! If she gets on that platform, we lose her and the data forever.
+Shadow leads the pack, a black-and-tan streak cutting through the neon-lit crowd. He closes the distance rapidly. Wraith glances back, realizing the dog is tracking her perfectly despite her stealth tech. She draws a compact plasma pistol and fires wildly blindly into the rain behind her.
+A blue bolt of plasma shatters a nearby noodle bar sign, showering the street in sparks. The crowd screams, scattering in panic.
+KORA
+(breathing heavily, running while typing on her holopad)
+Viper! I'm hijacking the local traffic grid! I can drop the security barriers at the station entrance to block her path, but you only have twenty seconds!
+VIPER
+(grinning through the rain)
+Make it ten, Kora! G5had0w, prepare for a hard intercept!
+The chase is reaching its climax at the mag-lev station. How do you want to play it?
+• Does Shadow leap to tackle Wraith right as Kora drops the security barriers?
+• Does G5had0w use his cybernetic strength to cut her off by taking a dangerous shortcut over the rooftop?
+• Or does Wraith unveil Broker's final contingency just as they corner her?
+Let me know how the team traps her!
+AI responses may include mistakes. Learn more
+
+You said: ok a teraz wyswietl mi to jako jeden skrypt
+
+ok a teraz wyswietl mi to jako jeden skrypt
+1 October 2026
+Here is the complete script for the episode, compiling all the scenes into a single, cohesive TV-style script:
+
+TITLE: PROJECT SOVEREIGN – EPISODE 3: THE UNDERGROUND ARCHIVE
+
+INT. BROKER’S SUB-LEVEL LABORATORY - NIGHT
+Cold, fluorescent white light cuts through heavy shadows. The air hums with the deep bass of cooling fans. In the center of the main hall stands a massive, vertical glass cylinder—the incubator. Inside, a silhouette floats in pale green amniotic fluid, laced with glowing cables.
+Viper stands near the entrance, her customized shatter-rifle raised. Her German Shepherd, Shadow, is low to the ground, ears pinned back, a low growl vibrating in his chest.
+VIPER
+(whispering into her comms)
+Kora, we are inside the chamber. The asset is here. But Shadow is catching a scent... we’re not alone.
+Suddenly, a massive metal door at the far end of the hall is ripped off its hinges.
+Enter Titan. He lunges forward with terrifying speed for his size. G5had0w steps in front of Viper, his own bionic arm whirring to life, blades sliding out from his forearm.
+G5HAD0W
+(calm, monotone)
+Viper, take Kora and advance. He is mine.
+VIPER
+(smirking, backing away)
+Don't scratch the paint, tin-man.
+Titan throws a devastating punch. G5had0w blocks it with his forearm shields, the impact creating a loud, metallic CLANG that echoes through the facility. The floor cracks beneath them.
+
+INT. INNER SERVER ROOM - CONTINUOUS
+
+Kora slips past the brutal melee, her holopad already scanning the local network. She navigates around the massive green incubator, casting a nervous glance at the creature floating inside.
+She pushes through a heavy security door into the server archive. The room is dark, illuminated only by blinking server racks and a single holographic interface.
+Working at the main terminal is Wraith. Her fingers move across a virtual keyboard with hypnotic speed. She is extracting core data.
+Without turning around, Wraith speaks. Her voice is smooth, mocking, and cold.
+WRAITH
+You are late, little engineer. The Broker already left the building. And ZeroDay? Well, he doesn't like to leave his trash behind.
+Kora pulls out her tech-pistol, her hand trembling slightly but her eyes fierce.
+KORA
+Step away from the console, Wraith. That data doesn't belong to you, and it definitely doesn't belong to Broker.
+Wraith slowly turns her head. She smiles coldly.
+WRAITH
+Belong? In this city, data belongs to whoever can hold it. And right now... I am holding all the cards.
+Wraith presses a final key. The terminal flashes DOWNLOAD COMPLETE. She detaches a glowing data-drive and slips it into her tactical vest, turning fully to face Kora.
+Wraith takes a slow, predatory step forward, but before she can draw her weapon, the heavy security door behind Kora explodes inward.
+Viper bursts into the room, shoulder-first, her shatter-rifle raised and locked onto Wraith’s chest. Beside her, Shadow leaps over the debris, his jaws snapping as he takes an aggressive stance between Kora and the corporate operative.
+VIPER
+(eyes locked on Wraith, teeth gritted)
+Step away from the engineer, ghost. Or I’ll paint this server rack with whatever cybernetics you have left.
+Wraith doesn't flinch. Instead, she raises her hands slightly, tilting her head with an amused, cold smile.
+WRAITH
+Viper. The loose cannon of the lower sectors. I should have known Broker’s security wouldn't hold you for long. But you're too late. The feed is already encrypted.
+KORA
+(stepping back, looking at her holopad)
+Viper, she’s telling the truth. The terminal is wiped clean. Everything Broker left behind is on that physical drive in her vest.
+Shadow lets out a fierce, reverberating bark, stepping closer to Wraith. The operative shifts her weight, her body subtly blurring as if her stealth-weave suit is preparing to activate.
+VIPER
+(clicking the safety off her rifle)
+Then it's a good thing I prefer physical copies. Take the dog, Wraith. See what happens to your cloaking tech when he catches your scent.
+
+INT. MAIN CHAMBER - CONTINUOUS (THE FIGHT)
+
+Back in the hall, the brawl is catastrophic. Titan slams G5had0w into a concrete pillar, shattering the stone. G5had0w’s internal systems alarm blares: INTEGRITY AT 68%.
+Titan raises both fists for a crushing downward blow.
+TITAN
+You are obsolete, G5had0w. Pure scrap metal.
+G5had0w activates his auxiliary overdrive. With a burst of pneumatic power, he slides between Titan’s legs, spinning around to drive his forearm blade deep into the soft, unarmored wiring behind Titan's knee.
+Titan bellows in digital pain, sparks flying from the severed cables. He drops to one knee.
+G5had0w doesn't hesitate. He leaps onto Titan’s back, wraps his heavy metallic arms around Titan’s throat, and engages his hydraulic clamps. The metal of Titan's neck begins to groan and twist under the immense pressure.
+G5HAD0W
+(whispering in Titan's ear)
+My tech may be old. But my resolve is unbroken.
+With a final, violent twist, G5had0w rips the central processor core straight out of Titan's neck. The giant enforcer shudders before going completely dark. Titan collapses to the floor.
+G5had0w stands over him, venting hot steam from his exhaust ports. He looks toward the server room.
+G5HAD0W
+(into comms)
+Kora. Threat neutralized. What is your status?
+
+INT. INNER SERVER ROOM - CONTINUOUS
+
+From the hallway, the heavy, rhythmic thuds of G5had0w’s footsteps approach. He stops at the threshold of the server room, his chassis smoking, holding Titan's severed processor core in his left hand.
+Wraith glances at G5had0w, then back to Viper and the snarling German Shepherd. She realizes the odds have just shifted dramatically against her.
+WRAITH
+(softly, dangerously)
+This isn't over. The Broker always has a contingency.
+Suddenly, Wraith throws a small, high-frequency sonic disruptor onto the floor.
+The device hits the floor and detonates with a high-pitched, ear-splitting shriek.
+Shadow whimpers, dropping to the floor and covering his ears with his paws. Viper and Kora stumble back, gripping their temples as the frequency scrambles their audio implants. Even G5had0w’s optical sensors flicker violently, flooded with static.
+Through the haze of visual distortion, Wraith’s silhouette completely blurs, blending seamlessly into the shadows. By the time the noise subsides, the room is empty. The emergency exit door at the back is swinging open.
+VIPER
+(shaking her head, blinking away the static)
+Damn it! She’s gone. Kora, you good?
+KORA
+(coughing through the smoke, checking her holopad)
+My grid is rebooting... but I’m fine. She took the auxiliary maintenance tunnel. It leads straight up to the surface.
+Viper kneels down for a split second, patting her dog's flanks.
+VIPER
+Good boy, Shadow. Shake it off. We need that scent. Find her!
+Shadow unleashes a sharp bark, his instincts overriding the pain. He bolts through the open emergency exit, his paws clicking furiously against the concrete. Viper, Kora, and G5had0w sprint right behind him.
+
+EXT. UPPER SECTOR STREETS - MOMENTS LATER
+
+The team bursts out of a rusty ventilation grate into the pouring rain of the upper sectors. Neon billboards bleed harsh pinks and cyans into the wet asphalt. Below, the sprawling city hums with traffic, while overhead, massive corporate blimps project holographic advertisements through the fog.
+A hundred yards ahead, a flickering, semi-translucent distortion weaves through the crowded sidewalk, shoving pedestrians aside. Wraith’s cloaking suit is malfunctioning under the heavy downpour, water cascading off her invisible form.
+G5HAD0W
+(heavy mechanical footsteps pounding the pavement)
+Visual confirmation. Her optical camouflage is failing due to the precipitation.
+VIPER
+(running at full speed, rifle raised)
+She's heading for the mag-lev train station! If she gets on that platform, we lose her and the data forever.
+Shadow leads the pack, a black-and-tan streak cutting through the neon-lit crowd. He closes the distance rapidly. Wraith glances back, realizing the dog is tracking her perfectly despite her stealth tech. She draws a compact plasma pistol and fires blindly into the rain behind her.
+A blue bolt of plasma shatters a nearby noodle bar sign, showering the street in sparks. The crowd screams, scattering in panic.
+KORA
+(breathing heavily, running while typing on her holopad)
+Viper! I'm hijacking the local traffic grid! I can drop the security barriers at the station entrance to block her path, but you only have twenty seconds!
+VIPER
+(grinning through the rain)
+Make it ten, Kora! G5had0w, prepare for a hard intercept!
+Now that the whole script is laid out, let me know how you want to end the chase at the mag-lev station. Does Kora's grid hack trap Wraith, or does ZeroDay intervene remotely?
+AI responses may include mistakes. Learn more
+
+You said: ZeroDay intervene remotely
+
+ZeroDay intervene remotely
+1 October 2026
+
+EXT. MAG-LEV STATION ENTRANCE - CONTINUOUS
+
+Wraith sprints up the slick concrete steps of the station, her boots kicking up water. Ahead of her, the massive pneumatic security barriers begin to slam shut, locking down the terminal. Kora’s hack worked. Wraith is trapped.
+She spins around, back against the closed steel gates, and raises her weapon. Shadow is already at the base of the steps, muscles coiled, preparing to leap. Viper and G5had0w close the distance, guns raised.
+VIPER
+(shouting over the rain and sirens)
+End of the line, Wraith! Drop the drive!
+Wraith looks up at the massive corporate holographic billboard towering directly over the station plaza. The advertisement suddenly flickers, the smiling corporate model dissolving into a massive, pulsing neon-green skull logo.
+ZeroDay’s signature.
+A distorted, synthesized voice booms from every street speaker and audio node in the square, overriding the city's emergency alarms.
+ZERODAY (V.O.)
+(through speakers, amused)
+You really thought you could lock down my grid, little engineer? Cute. But I own the code in this sector.
+Suddenly, the neon-green skull flashes brightly.
+The electronic billboards lining the street violently overload, exploding in showers of white sparks and shattering glass. The streetlights instantly snap off, plunging the plaza into near-total darkness, illuminated only by the headlights of stalled vehicles.
+KORA
+(screaming, looking at her holopad as it bursts into sparks)
+My pad! He fried the local grid! I’ve lost all telemetry!
+Above them, the giant mag-lev train tracks groan. The automated safety systems fail. A massive, driverless cargo train overhead screeches as its magnetic brakes lock up automatically, sending blinding arcs of blue electricity cascading down into the street below like artificial lightning.
+One of the massive steel support cables snaps under the tension, whipping downward directly toward Viper and Kora.
+G5HAD0W
+(intercepting, arms raised)
+Warning. Kinetic impact imminent.
+G5had0w plants his feet, his hydraulic servos whining at maximum capacity as he catches the whipping steel cable just feet above Kora’s head. The force drives his metal legs inches deep into the asphalt, sparks showering his chassis.
+Amidst the chaos, confusion, and flashing electrical arcs, ZeroDay overrides the station's security gates. The pneumatic barriers slide back open for exactly three seconds.
+Wraith flashes a mocking salute through the darkness and slips backward into the open station. The gates instantly slam shut behind her again, locking the team out.
+A second later, the mag-lev train overhead surges forward with a deafening roar, overriding its automated schedule and speeding away into the dark, neon-lit skyline of the upper city.
+VIPER
+(slamming her fist against the locked security gate)
+Damn it! He took control of the entire transit line! She’s on that train!
+Shadow barks fiercely at the closed gate, his tail low, pacing back and forth in the pouring rain. G5had0w drops the heavy cable, his arm smoking from the electrical discharge.
+G5HAD0W
+(scanning the horizon)
+The data drive is leaving the sector at one hundred and twenty miles per hour. Project Sovereign remains uncompromised.
+Kora wipes the rainwater and soot from her face, looking up at the dark grid where ZeroDay’s digital ghost just vanished.
+KORA
+(voice shaking, but determined)
+He didn't just save her. He left a signature in my system before it fried. I can't track the train... but I think I can track him.
+The stakes just got much higher. ZeroDay has shown his hand, and the team has a new lead.
+• Does the team regroup at their hideout so Kora can reverse-engineer ZeroDay's signature?
+• Do they hijack a vehicle to chase the runaway mag-lev train through the upper city skyscrapers?
+• Or does the incubator back at the lab do something unexpected now that Broker has the data?
+Where should our cyberpunk series go next?
+AI responses may include mistakes. Learn more
+
+You said: pieknie, wyswietl mi calosc polaczona w jedno
+
+pieknie, wyswietl mi calosc polaczona w jedno
+1 October 2026
+
+TITLE: PROJECT SOVEREIGN – EPISODE 3: THE UNDERGROUND ARCHIVE
+
+INT. BROKER’S SUB-LEVEL LABORATORY - NIGHT
+Cold, fluorescent white light cuts through heavy shadows. The air hums with the deep bass of cooling fans. In the center of the main hall stands a massive, vertical glass cylinder—the incubator. Inside, a silhouette floats in pale green amniotic fluid, laced with glowing cables.
+Viper stands near the entrance, her customized shatter-rifle raised. Her German Shepherd, Shadow, is low to the ground, ears pinned back, a low growl vibrating in his chest.
+VIPER
+(whispering into her comms)
+Kora, we are inside the chamber. The asset is here. But Shadow is catching a scent... we’re not alone.
+Suddenly, a massive metal door at the far end of the hall is ripped off its hinges.
+Enter Titan. He lunges forward with terrifying speed for his size. G5had0w steps in front of Viper, his own bionic arm whirring to life, blades sliding out from his forearm.
+G5HAD0W
+(calm, monotone)
+Viper, take Kora and advance. He is mine.
+VIPER
+(smirking, backing away)
+Don't scratch the paint, tin-man.
+Titan throws a devastating punch. G5had0w blocks it with his forearm shields, the impact creating a loud, metallic CLANG that echoes through the facility. The floor cracks beneath them.
+
+INT. INNER SERVER ROOM - CONTINUOUS
+
+Kora slips past the brutal melee, her holopad already scanning the local network. She navigates around the massive green incubator, casting a nervous glance at the creature floating inside.
+She pushes through a heavy security door into the server archive. The room is dark, illuminated only by blinking server racks and a single holographic interface.
+Working at the main terminal is Wraith. Her fingers move across a virtual keyboard with hypnotic speed. She is extracting core data.
+Without turning around, Wraith speaks. Her voice is smooth, mocking, and cold.
+WRAITH
+You are late, little engineer. The Broker already left the building. And ZeroDay? Well, he doesn't like to leave his trash behind.
+Kora pulls out her tech-pistol, her hand trembling slightly but her eyes fierce.
+KORA
+Step away from the console, Wraith. That data doesn't belong to you, and it definitely doesn't belong to Broker.
+Wraith slowly turns her head. She smiles coldly.
+WRAITH
+Belong? In this city, data belongs to whoever can hold it. And right now... I am holding all the cards.
+Wraith presses a final key. The terminal flashes DOWNLOAD COMPLETE. She detaches a glowing data-drive and slips it into her tactical vest, turning fully to face Kora.
+Wraith takes a slow, predatory step forward, but before she can draw her weapon, the heavy security door behind Kora explodes inward.
+Viper bursts into the room, shoulder-first, her shatter-rifle raised and locked onto Wraith’s chest. Beside her, Shadow leaps over the debris, his jaws snapping as he takes an aggressive stance between Kora and the corporate operative.
+VIPER
+(eyes locked on Wraith, teeth gritted)
+Step away from the engineer, ghost. Or I’ll paint this server rack with whatever cybernetics you have left.
+Wraith doesn't flinch. Instead, she raises her hands slightly, tilting her head with an amused, cold smile.
+WRAITH
+Viper. The loose cannon of the lower sectors. I should have known Broker’s security wouldn't hold you for long. But you're too late. The feed is already encrypted.
+KORA
+(stepping back, looking at her holopad)
+Viper, she’s telling the truth. The terminal is wiped clean. Everything Broker left behind is on that physical drive in her vest.
+Shadow lets out a fierce, reverberating bark, stepping closer to Wraith. The operative shifts her weight, her body subtly blurring as if her stealth-weave suit is preparing to activate.
+VIPER
+(clicking the safety off her rifle)
+Then it's a good thing I prefer physical copies. Take the dog, Wraith. See what happens to your cloaking tech when he catches your scent.
+
+INT. MAIN CHAMBER - CONTINUOUS (THE FIGHT)
+
+Back in the hall, the brawl is catastrophic. Titan slams G5had0w into a concrete pillar, shattering the stone. G5had0w’s internal systems alarm blares: INTEGRITY AT 68%.
+Titan raises both fists for a crushing downward blow.
+TITAN
+You are obsolete, G5had0w. Pure scrap metal.
+G5had0w activates his auxiliary overdrive. With a burst of pneumatic power, he slides between Titan’s legs, spinning around to drive his forearm blade deep into the soft, unarmored wiring behind Titan's knee.
+Titan bellows in digital pain, sparks flying from the severed cables. He drops to one knee.
+G5had0w doesn't hesitate. He leaps onto Titan’s back, wraps his heavy metallic arms around Titan’s throat, and engages his hydraulic clamps. The metal of Titan's neck begins to groan and twist under the immense pressure.
+G5HAD0W
+(whispering in Titan's ear)
+My tech may be old. But my resolve is unbroken.
+With a final, violent twist, G5had0w rips the central processor core straight out of Titan's neck. The giant enforcer shudders before going completely dark. Titan collapses to the floor.
+G5had0w stands over him, venting hot steam from his exhaust ports. He looks toward the server room.
+G5HAD0W
+(into comms)
+Kora. Threat neutralized. What is your status?
+
+INT. INNER SERVER ROOM - CONTINUOUS
+
+From the hallway, the heavy, rhythmic thuds of G5had0w’s footsteps approach. He stops at the threshold of the server room, his chassis smoking, holding Titan's severed processor core in his left hand.
+Wraith glances at G5had0w, then back to Viper and the snarling German Shepherd. She realizes the odds have just shifted dramatically against her.
+WRAITH
+(softly, dangerously)
+This isn't over. The Broker always has a contingency.
+Suddenly, Wraith throws a small, high-frequency sonic disruptor onto the floor.
+The device hits the floor and detonates with a high-pitched, ear-splitting shriek.
+Shadow whimpers, dropping to the floor and covering his ears with his paws. Viper and Kora stumble back, gripping their temples as the frequency scrambles their audio implants. Even G5had0w’s optical sensors flicker violently, flooded with static.
+Through the haze of visual distortion, Wraith’s silhouette completely blurs, blending seamlessly into the shadows. By the time the noise subsides, the room is empty. The emergency exit door at the back is swinging open.
+VIPER
+(shaking her head, blinking away the static)
+Damn it! She’s gone. Kora, you good?
+KORA
+(coughing through the smoke, checking her holopad)
+My grid is rebooting... but I’m fine. She took the auxiliary maintenance tunnel. It leads straight up to the surface.
+Viper kneels down for a split second, patting her dog's flanks.
+VIPER
+Good boy, Shadow. Shake it off. We need that scent. Find her!
+Shadow unleashes a sharp bark, his instincts overriding the pain. He bolts through the open emergency exit, his paws clicking furiously against the concrete. Viper, Kora, and G5had0w sprint right behind him.
+
+EXT. UPPER SECTOR STREETS - MOMENTS LATER
+
+The team bursts out of a rusty ventilation grate into the pouring rain of the upper sectors. Neon billboards bleed harsh pinks and cyans into the wet asphalt. Below, the sprawling city hums with traffic, while overhead, massive corporate blimps project holographic advertisements through the fog.
+A hundred yards ahead, a flickering, semi-translucent distortion weaves through the crowded sidewalk, shoving pedestrians aside. Wraith’s cloaking suit is malfunctioning under the heavy downpour, water cascading off her invisible form.
+G5HAD0W
+(heavy mechanical footsteps pounding the pavement)
+Visual confirmation. Her optical camouflage is failing due to the precipitation.
+VIPER
+(running at full speed, rifle raised)
+She's heading for the mag-lev train station! If she gets on that platform, we lose her and the data forever.
+Shadow leads the pack, a black-and-tan streak cutting through the neon-lit crowd. He closes the distance rapidly. Wraith glances back, realizing the dog is tracking her perfectly despite her stealth tech. She draws a compact plasma pistol and fires blindly into the rain behind her.
+A blue bolt of plasma shatters a nearby noodle bar sign, showering the street in sparks. The crowd screams, scattering in panic.
+KORA
+(breathing heavily, running while typing on her holopad)
+Viper! I'm hijacking the local traffic grid! I can drop the security barriers at the station entrance to block her path, but you only have twenty seconds!
+VIPER
+(grinning through the rain)
+Make it ten, Kora! G5had0w, prepare for a hard intercept!
+
+EXT. MAG-LEV STATION ENTRANCE - CONTINUOUS
+
+Wraith sprints up the slick concrete steps of the station, her boots kicking up water. Ahead of her, the massive pneumatic security barriers begin to slam shut, locking down the terminal. Kora’s hack worked. Wraith is trapped.
+She spins around, back against the closed steel gates, and raises her weapon. Shadow is already at the base of the steps, muscles coiled, preparing to leap. Viper and G5had0w close the distance, guns raised.
+VIPER
+(shouting over the rain and sirens)
+End of the line, Wraith! Drop the drive!
+Wraith looks up at the massive corporate holographic billboard towering directly over the station plaza. The advertisement suddenly flickers, the smiling corporate model dissolving into a massive, pulsing neon-green skull logo.
+ZeroDay’s signature.
+A distorted, synthesized voice booms from every street speaker and audio node in the square, overriding the city's emergency alarms.
+ZERODAY (V.O.)
+(through speakers, amused)
+You really thought you could lock down my grid, little engineer? Cute. But I own the code in this sector.
+Suddenly, the neon-green skull flashes brightly.
+The electronic billboards lining the street violently overload, exploding in showers of white sparks and shattering glass. The streetlights instantly snap off, plunging the plaza into near-total darkness, illuminated only by the headlights of stalled vehicles.
+KORA
+(screaming, looking at her holopad as it bursts into sparks)
+My pad! He fried the local grid! I’ve lost all telemetry!
+Above them, the giant mag-lev train tracks groan. The automated safety systems fail. A massive, driverless cargo train overhead screeches as its magnetic brakes lock up automatically, sending blinding arcs of blue electricity cascading down into the street below like artificial lightning.
+One of the massive steel support cables snaps under the tension, whipping downward directly toward Viper and Kora.
+G5HAD0W
+(intercepting, arms raised)
+Warning. Kinetic impact imminent.
+G5had0w plants his feet, his hydraulic servos whining at maximum capacity as he catches the whipping steel cable just feet above Kora’s head. The force drives his metal legs inches deep into the asphalt, sparks showering his chassis.
+Amidst the chaos, confusion, and flashing electrical arcs, ZeroDay overrides the station's security gates. The pneumatic barriers slide back open for exactly three seconds.
+Wraith flashes a mocking salute through the darkness and slips backward into the open station. The gates instantly slam shut behind her again, locking the team out.
+A second later, the mag-lev train overhead surges forward with a deafening roar, overriding its automated schedule and speeding away into the dark, neon-lit skyline of the upper city.
+VIPER
+(slamming her fist against the locked security gate)
+Damn it! He took control of the entire transit line! She’s on that train!
+Shadow barks fiercely at the closed gate, his tail low, pacing back and forth in the pouring rain. G5had0w drops the heavy cable, his arm smoking from the electrical discharge.
+G5HAD0W
+(scanning the horizon)
+The data drive is leaving the sector at one hundred and twenty miles per hour. Project Sovereign remains uncompromised.
+Kora wipes the rainwater and soot from her face, looking up at the dark grid where ZeroDay’s digital ghost just vanished.
+KORA
+(voice shaking, but determined)
+He didn't just save her. He left a signature in my system before it fried. I can't track the train... but I think I can track him.
+Cały odcinek prezentuje się fantastycznie i ma świetne, serialowe tempo! Jak chcesz to rozegrać w kolejnym epizodzie?
+• Czy zespół wraca do kryjówki, aby Kora mogła namierzyć ZeroDaya przez pozostawiony ślad?
+• Czy Viper i Shadow ruszają w pościg za pociągiem za pomocą skradzionego pojazdu?
+• A może przyjrzymy się bliżej temu, co dzieje się ze złoczyńcami (Broker i Wraith) na pokładzie uciekającego pociągu?
+AI responses may include mistakes. Learn more
+
+You sent: 2 images and said: przyjrzymy się bliżej temu, co dzieje się ze złoczyńcami (Broker i Wraith) na pokładzie uciekającego pociągu i dodamy 2 nowe postacie (wraith2 - dodaje zdjecie, i vanta-prime - dodaje jego zdjecie)
+
+przyjrzymy się bliżej temu, co dzieje się ze złoczyńcami (Broker i Wraith) na pokładzie uciekającego pociągu i dodamy 2 nowe postacie (wraith2 - dodaje zdjecie, i vanta-prime - dodaje jego zdjecie)
+1 October 2026
+
+TITLE: PROJECT SOVEREIGN – EPISODE 4: THE BULLET TRAIN
+
+INT. MAG-LEV CARGO CAR - CONTINUOUS
+The interior of the runaway train is a blur of flashing red emergency lights. Rain lashes against the armored windows. The hum of the magnetic tracks scales up to a deafening shriek as the train accelerates deeper into the upper atmosphere.
+Wraith stumbles into the cargo hold, clutching the glowing data-drive tightly against her tactical vest. She heavily drops down against a steel crate, catching her breath.
+WRAITH
+(into her comms, teeth gritted)
+ZeroDay. I’m inside the transport. But that damn dog tracked me right to the platform. We need an immediate extraction at the next terminal.
+The main holographic terminal in the center of the car flashes to life. The green skull logo appears, pulsing lazily. ZeroDay’s synthesized voice cuts through the static.
+ZERODAY (V.O.)
+(mocking, calm)
+Relax, Wraith. The local authorities have been locked out of the grid, and our friends down in the rain are out of the game. But you won't be making it to the terminal.
+Before Wraith can respond, the heavy hydraulic security door at the front of the cargo car groans and slides open with a slow, mechanical hiss.
+Step forward Wraith2. She walks into the hold with fluid, silent steps. Her weapon is already drawn, its blue energy core humming softly in the dim light.
+Wraith instantly pushes herself up from the crate, her hand snapping to her holster.
+WRAITH
+Who the hell are you? Broker didn't mention a backup unit.
+WRAITH2
+(voice synthesized, cold)
+The Broker operates on a need-to-know basis. And right now, your status has been updated to 'liability'. Hand over the drive.
+WRAITH
+(stepping back, body starting to blur)
+I bled for this data. If you want it, you’ll have to tear it out of my chassis.
+
+INT. REAR PASSENGER DECK - CONTINUOUS
+
+At the very back of the accelerating train, a shadow falls across the doorway.
+Enter Vanta-Prime. He steps into the dimly lit passenger cabin, the core on his chest pulsing with a low, menacing energy that casts long shadows across the metal bulkheads. The air in the room instantly grows colder, heavy with static electricity.
+A holographic transmission from Broker flickers into existence directly in front of him. Broker's eyes are cold, fixed entirely on the progress bar of the encrypted transmission.
+BROKER
+(via hologram, tone severe)
+Vanta-Prime. The data from the server room is being intercepted by an internal dispute. Wraith is refusing to yield the drive to the secondary recovery team.
+Vanta-Prime doesn't speak. He simply tilts his head, listening to the muffled sounds of weapon fire and crashing metal echoing from the forward cargo bays.
+BROKER
+(continuing)
+ZeroDay has secured the train's navigation array, but Kora’s team is already trying to trace the signal back to our primary assembly facility. I want no loose ends. Erase the complications. Secure the drive.
+Vanta-Prime clenches his fists, the energy along his arms flaring. He turns and begins walking down the narrow corridor toward the cargo hold, his heavy footsteps vibrating through the floorboards of the speeding train.
+
+INT. MAG-LEV CARGO CAR - MOMENTS LATER
+
+The cargo bay is a disaster zone. Wraith2 lunges forward, her energy blade cutting a sharp arc through the air. Wraith barely dodges, her stealth suit flickering violently as she slides across the slick metallic floor, using a storage container as cover.
+WRAITH2
+(advancing, firing two quick plasma shots)
+Your suit is outdated, Wraith. Your movements are predictable.
+Wraith fires her plasma pistol blindly over the top of the container. One shot strikes a support pillar, showering the room in blinding sparks.
+WRAITH
+(breathing heavily, checking the drive's decryption status)
+ZeroDay! Cut her feed! Shut down her targeting array!
+ZERODAY (V.O.)
+(sighing over the comms)
+I would, Wraith, but I’ve got my hands full. The little engineer back on the streets is fighting back. She's tracing my routing nodes faster than expected. You're on your own.
+Suddenly, the heavy reinforced door at the back of the cargo car is violently torn away from its locking pins. The metal screams as it is bent completely in half and tossed aside.
+Vanta-Prime stands in the doorway. The purple energy emanating from his core illuminates the entire cargo bay, casting a terrifying silhouette against the flashing red emergency lights. Both Wraiths freeze, their weapons lowering slightly as they feel the raw power vibrating through the room.
+WRAITH
+(whispering, backing away towards the window)
+What is that...?
+Vanta-Prime raises his arm, the energy cells along his forearm locking into place with a series of heavy mechanical clicks. He fixes his gaze directly on the data-drive in Wraith's hand.
+The villains are turning on each other while the train speeds through the sky! How should we proceed?
+• Does Wraith manage to blow out the window to escape, forcing an aerial chase on top of the train?
+• Does Kora successfully hack into the train's speakers to cause a distraction right before Vanta-Prime strikes?
+• Or do Viper and G5had0w surprise everyone by boarding the train from an automated maintenance drone?
+Let me know who makes the next move!
+AI responses may include mistakes. Learn more
+
+You said: Wraith manage to blow out the window to escape, forcing an aerial chase on top of the train
+
+Wraith manage to blow out the window to escape, forcing an aerial chase on top of the train
+1 October 2026
+
+INT. MAG-LEV CARGO CAR - CONTINUOUS
+
+Vanta-Prime’s arm cannon glows with a blinding purple light, charging for a lethal blast. Realizing she is completely outmatched by both Wraith2 and this new mechanical nightmare, Wraith makes a split-second decision.
+She aims her plasma pistol directly at the thick, reinforced panoramic window behind her and pulls the trigger three times.
+The specialized glass cracks, spiderwebbing instantly, before the extreme atmospheric pressure outside completely shatters it. A violent decompression wave rips through the cargo car, sucking loose papers, small tools, and debris out into the storm.
+Wraith hooks her mechanical gauntlet onto the outer window frame and allows the rushing wind to pull her out, vanishing into the torrential rain.
+WRAITH2
+(bracing against a bulkhead to fight the suction)
+She’s topside!
+Vanta-Prime doesn't answer. He simply walks forward, his heavy, magnetized boots locking onto the metal floor plates with loud, hydraulic thuds, completely unfazed by the roaring wind. He reaches the broken window, grabs the outer hull, and pulls his massive frame up through the opening. Wraith2 activates her magnetic stabilizers and climbs out right behind him.
+
+EXT. ROOF OF THE MAG-LEV TRAIN - CONTINUOUS
+
+The scene is chaotic. The train screams along the elevated magnetic rails at two hundred miles per hour, slicing through the neon-fog of the upper skyscrapers. Rain lashes horizontally, and blinding arcs of blue electricity leap from the tracks below, illuminating the sleek, wet hull of the roof.
+A hundred feet ahead, Wraith is crawling on all fours, her fingers clawing into the rain-grooves of the train's armor plating. Her cloaking suit is completely short-circuited by the water, flickering wildly like a dying lightbulb.
+Behind her, Vanta-Prime stands completely upright in the gale-force wind. His purple chest core burns brightly through the dark downpour. He raises his heavy arm cannon and fires a massive bolt of energy.
+The purple blast cuts through the rain, vaporizing the water droplets in its path, and explodes against the roof right next to Wraith. The shockwave lifts her off her feet, sending her sliding backward across the slick metal. She barely catches herself on a raised ventilation intake.
+WRAITH
+(screaming into her comms over the roar of the wind)
+ZeroDay! I need a extraction craft now! They’re going to kill me!
+ZERODAY (V.O.)
+(static crackling heavily)
+Signal... fading... Wraith. Kora is... flooding my uplink... I can't...
+Suddenly, Wraith2 leaps through the rain, her energy blade extended. She lands gracefully on the wet hull and slides forward, swinging her weapon in a deadly horizontal slash. Wraith ducks, the blue blade shearing off a piece of her shoulder armor in a shower of white sparks.
+Wraith kicks upward, striking Wraith2's knee, forcing the secondary operative to stumble back to maintain her magnetic grip on the roof.
+Vanta-Prime continues his relentless, terrifying advance. With every heavy step he takes, his magnetized boots leave scorched, smoking dents on the train's roof. He raises his glowing fists, ready to crush both of them and claim the drive.
+The battle on top of the speeding train is reaching its absolute limit! Let me know where we go next:
+• Does Wraith2 betray Vanta-Prime to take the drive for herself, creating a three-way battle?
+• Does ZeroDay's extraction drone arrive, but Viper and G5had0w are already hanging onto it?
+• Or does Kora manage to remotely trigger the train's emergency brakes, throwing everyone off balance?
+Tell me what happens next in the storm!
+AI responses may include mistakes. Learn more
+
+You said: ZeroDay's extraction drone arrive, they got run away.
+
+ZeroDay's extraction drone arrive, they got run away.
+1 October 2026
+
+EXT. ROOF OF THE MAG-LEV TRAIN - CONTINUOUS
+
+Vanta-Prime raises both heavy fists, the purple energy cells on his forearms humming at maximum capacity. He steps forward to crush Wraith, but a sudden, deafening mechanical roar cuts through the sound of the wind and rain.
+Through the thick neon fog ahead, a massive, stealth-black extraction drone drops out of the sky. Its quad-rotors scream as it matches the exact speed of the runaway train, hovering just ten feet above the wet hull.
+The side bay doors of the drone slide open, and a heavy magnetic tow line drops down.
+ZERODAY (V.O.)
+(static clearing violently over the comms)
+--got the secondary signal through! Wraith, grab the line now! I'm overriding the automated flight path!
+Wraith doesn't hesitate. She leaps forward, throwing her weight into the wind, and catches the magnetic handle of the line. The automated winch immediately kicks into overdrive, ripping her off the slick roof of the train just as Vanta-Prime’s fists come crashing down.
+The impact of Vanta-Prime's blow shatters the armored plating of the train's roof, sending a massive shockwave of metal and sparks flying into the air.
+Wraith2 fires three rapid plasma shots at the escaping drone. The blue bolts scorch the vehicle's heavily armored underbelly, but the drone's automated defense shields absorb most of the damage.
+Hovering securely beneath the extraction craft, Wraith climbs into the side bay. She turns back toward the speeding train, clutching the data-drive tightly against her chest, a bloodied but triumphant smile on her face.
+WRAITH
+(shouting over the roar of the rotors)
+Tell Broker the data is mine now!
+The drone pitches forward violently, its thrusters firing with a brilliant blue flash. It accelerates upward into the storm, vanishing completely into the dark, towering skyscraper canyons of the upper city, leaving Vanta-Prime and Wraith2 stranded on top of the speeding mag-lev train.
+
+INT. HEROES' HIDEOUT - MOMENTS LATER
+
+The scene cuts to a dimly lit basement garage filled with exposed wiring and holographic monitors. Kora pulls off her neural-link headset with a gasp, sweat dripping down her face. Her primary terminal goes completely dark, flashing a CONNECTION TERMINATED warning.
+Viper rushes over, Shadow following closely at her heels, while G5had0w stands in the corner, his bionic arm throwing off faint sparks as his internal cooling systems run a diagnostic.
+VIPER
+(urgently)
+Kora! Talk to me. Did you stop the train? Did you get the drive?
+KORA
+(shaking her head, breathing heavily)
+No... ZeroDay completely locked me out at the last second. He didn't care about the train. He sent an automated extraction drone to pull Wraith out. She got away with Broker’s data.
+G5HAD0W
+(his optic sensor pulsing blue)
+Then Project Sovereign is fully operational. The asset in the incubator will be stabilized within the hour.
+KORA
+(a fierce, determined smile breaking through her exhaustion)
+Not yet. ZeroDay thought he was being clever by overloading my terminal, but he left his gateway open for a split second too long to secure that drone's flight path. I didn't get the data... but I got the drone's exact landing coordinates.
+Viper grins fiercely, racking the bolt of her shatter-rifle. Shadow lets out a sharp, eager bark, his tail wagging against the concrete floor.
+VIPER
+Then the chase isn't over. Pack your gear, everyone. We’re going hunting.
+The story is heating up as our heroes prepare to ambush Wraith and ZeroDay at the landing site! Let me know:
+• Should the next chapter open with Kora hacking the landing zone's security to sneak them inside?
+• Does Viper use Shadow's tracking skills to hunt Wraith through an abandoned warehouse district?
+• Or do Vanta-Prime and Wraith2 show up at the exact same location looking for revenge, turning it into a massive four-way showdown?
+Tell me where the team strikes next!
+AI responses may include mistakes. Learn more
+
+You said: ok przedstaw mi pelny epizod 4: THE BULLET TRAIN
+
+ok przedstaw mi pelny epizod 4: THE BULLET TRAIN
+1 October 2026
+
+TITLE: PROJECT SOVEREIGN – EPISODE 4: THE BULLET TRAIN
+
+INT. MAG-LEV CARGO CAR - CONTINUOUS
+Wnętrze uciekającego pociągu towarowego tonie w błyskach czerwonych świateł awaryjnych. Deszcz wściekle bębni o opancerzone szyby. Huk magnetycznych torów przechodzi w ogłuszający pisk, gdy skład gwałtownie przyspiesza, wjeżdżając głębiej w rejon górnych sektorów miasta.
+Wraith wpada do ładowni, ciężko dysząc i kurczowo dociskając świecący dysk z danymi do swojej kamizelki taktycznej. Opada na stalową skrzynię, próbując złapać oddech.
+WRAITH
+(do komunikatora, przez zaciśnięte zęby)
+ZeroDay. Jestem w transporcie. Ale ten cholerny pies wytropił mnie prosto na peronie. Potrzebuję natychmiastowej ewakuacji na następnym terminalu.
+Główny terminal holograficzny na środku wagonu nagle się uruchamia. Pojawia się na nim pulsujący leniwie zielony symbol czaszki. Zsyntetyzowany głos ZeroDaya przebija się przez statyczny szum.
+ZERODAY (V.O.)
+(kpiąco, spokojnie)
+Wyluzuj, Wraith. Lokalna policja została całkowicie odcięta od sieci, a nasi przyjaciele na dole zostali wyeliminowani z gry. Ale nie dojedziesz do żadnego terminalu.
+Zanim Wraith zdąży odpowiedzieć, ciężkie, hydrauliczne drzwi bezpieczeństwa z przodu wagonu jęczą i rozsuwają się z przeciągłym, mechanicznym sykiem.
+Wkracza Wraith2. Idzie przez ładownię płynnymi, bezszelestnymi krokami. Jej broń jest już wyciągnięta, a jej błękitny rdzeń energetyczny cicho buczy w półmroku.
+Wraith natychmiast zerwa się ze skrzyni, a jej dłoń w ułamku sekundy wędruje do kabury.
+WRAITH
+Kto ty, do diabła, jesteś? Broker nie wspominał o żadnej jednostce wsparcia.
+WRAITH2
+(głos zsyntetyzowany, zimny)
+Broker działa na zasadzie ograniczonego zaufania. A w tej chwili twój status został zaktualizowany na „zagrożenie”. Oddaj dysk.
+WRAITH
+(cofając się, jej ciało zaczyna delikatnie smużyć)
+Krwawiłam za te dane. Jeśli ich chcesz, będziesz musiała wydrzeć je z mojego podwozia.
+
+INT. REAR PASSENGER DECK - CONTINUOUS
+
+Na samym końcu pędzącego pociągu, na progu drzwi wejściowych, kładzie się głęboki cień.
+Wkracza Vanta-Prime. Wchodzi do słabo oświetlonej kabiny pasażerskiej, a rdzeń na jego piersi pulsuje niską, złowrogą energią, która rzuca długie cienie na metalowe grodzie. Powietrze w pomieszczeniu natychmiast staje się zimniejsze, ciężkie od ładunków elektrostatycznych.
+Bezpośrednio przed nim pojawia się migocząca transmisja holograficzna od Brokera. Oczy Brokera są zimne, wpatrzone wyłącznie w pasek postępu zaszyfrowanej transmisji.
+BROKER
+(przez hologram, surowym tonem)
+Vanta-Prime. Przejmowanie danych z serwerowni zostało zakłócone przez wewnętrzny spór. Wraith odmawia wydania dysku drugiemu zespołowi odzyskiwania.
+Vanta-Prime nie odpowiada. Jedynie lekko przechyla głowę, wsłuchując się w tłumione odgłosy strzałów i ryk rozrywanego metalu, które niosą się z przednich sekcji towarowych.
+BROKER
+(kontynuuje)
+ZeroDay zabezpieczył matrycę nawigacyjną pociągu, ale zespół Kory już próbuje prześledzić sygnał z powrotem do naszej głównej hali montażowej. Nie chcę żadnych luźnych wątków. Wymaż te komplikacje. Zabezpiecz dysk.
+Vanta-Prime zaciska pięści, a energia wzdłuż jego ramion gwałtownie rozbłyskuje. Odwraca się i rusza wąskim korytarzem w stronę ładowni, a jego ciężkie kroki wibrują w podłodze pędzącego pociągu.
+
+INT. MAG-LEV CARGO CAR - MOMENTS LATER
+
+Wagon towarowy zamienia się w strefę wojny. Wraith2 rzuca się naprzód, a jej ostrze energetyczne zatacza ostry łuk w powietrzu. Wraith ledwo unika ciosu. Jej kombinezon maskujący migocze gwałtownie, gdy kobieta ślizga się po mokrej, metalowej podłodze, używając kontenera jako osłony.
+WRAITH2
+(posuwając się naprzód, oddaje dwa szybkie strzały z plazmy)
+Twój kombinezon to przeżytek, Wraith. Twoje ruchy są przewidywalne.
+Wraith odpowiada ślepym ogniem z pistoletu plazmowego zza kontenera. Jeden ze strzałów trafia w filar wsporczy, zasypując pomieszczenie oślepiającymi iskrami.
+WRAITH
+(ciężko oddychając, sprawdza stan odszyfrowania dysku)
+ZeroDay! Odetnij jej zasilanie! Wyłącz jej matrycę celowniczą!
+ZERODAY (V.O.)
+(wzdychając przez komunikator)
+Zrobiłbym to, Wraith, ale mam pełne ręce roboty. Ta mała inżynierka z ulicy walczy. Śledzi moje węzły routingu szybciej niż przypuszczałem. Jesteś zdana na siebie.
+Nagle ciężkie, wzmocnione drzwi z tyłu wagonu zostają brutalnie wyrwane z zawiasów. Metal skręca się z głośnym zgrzytem i zostaje odrzucony na bok.
+W wyłomie staje Vanta-Prime. Fioletowa energia bijąca z jego rdzenia rozświetla całą ładownię, rzucając przerażającą sylwetkę na tle migoczących świateł awaryjnych. Obie Wraith zamierają, a ich broń lekko opada, gdy czują potężną moc wibrującą w całym pomieszczeniu.
+WRAITH
+(szepcząc, cofa się w stronę okna)
+Co to, do diabła, jest...?
+Vanta-Prime unosi ramię, a ogniwa energetyczne wzdłuż jego przedramienia blokują się z serią ciężkich, mechanicznych kliknięć. Wbija wzrok bezpośrednio w dysk trzymany przez Wraith.
+Wraith wymierza pistolet plazmowy w grube, wzmocnione okno panoramiczne za swoimi plecami i trzykrotnie pociąga za spust.
+Specjalistyczne szkło pęka, pokrywając się siatką rys, po czym ogromne ciśnienie atmosferyczne całkowicie je rozrywa. Gwałtowna fala dekompresyjna uderza w wagon, wysysając na zewnątrz luźne dokumenty, małe narzędzia i odłamki prosto w szalejącą burzę.
+Wraith zahacza mechaniczną rękawicą o zewnętrzną ramę okna i pozwala, by pędzący wiatr wyciągnął ją na zewnątrz. W ułamku sekundy znika w strugach ulewnego deszczu.
+WRAITH2
+(zapierając się o grodź, by oprzeć się sile ssącej)
+Jest na dachu!
+Vanta-Prime nie odpowiada. Po prostu idzie naprzód, a jego ciężkie, magnetyczne buty z głośnym, hydraulicznym stukotem blokują się na metalowych płytach podłogi, całkowicie ignorując ryczący wiatr. Dociera do rozbitego okna, chwyta zewnętrzny kadłub i płynnym ruchem wyciąga swoje potężne ciało przez otwór. Wraith2 aktywuje swoje stabilizatory magnetyczne i wspina się tuż za nim.
+
+EXT. ROOF OF THE MAG-LEV TRAIN - CONTINUOUS
+
+Na dachu panuje absolutny chaos. Pociąg pędzi po podwyższonych torach magnetycznych z prędkością dwustu mil na godzinę, tnąc neonową mgłę wiszącą między gigantycznymi wieżowcami. Deszcz zacina poziomo, a oślepiające łuki błękitnych wyładowań elektrycznych strzelają z torów poniżej, rozświetlając gładki, mokry kadłub dachu.
+Sto stóp przed nimi Wraith czołga się na czworakach, wbijając palce w rowki odpływowe pancerza pociągu. Jej kombinezon maskujący, całkowicie zwarty przez wodę, migocze bezradnie niczym umierająca żarówka.
+Za nią, w porywach huraganowego wiatru, Vanta-Prime stoi całkowicie wyprostowany. Jego fioletowy rdzeń na piersi płonie jasno w ciemnościach ulewy. Unosi ciężkie działo naramienne i oddaje potężny strzał energetyczny.
+Fioletowy pocisk przecina deszcz, odparowując krople wody na swojej drodze, i eksploduje na dachu tuż obok Wraith. Fala uderzeniowa unosi ją w powietrze, rzucając jej ciałem po śliskim metalu. Kobieta ledwo łapie równowagę, chwytając się wystającego wlotu wentylacyjnego.
+WRAITH
+(krzycząc do komunikatora, by przekrzyczeć ryk wiatru)
+ZeroDay! Potrzebuję transportu ewakuacyjnego na już! Oni mnie zabiją!
+ZERODAY (V.O.)
+(silne zakłócenia statyczne)
+Sygnał... zanika... Wraith. Kora... zalewa moje łącze... Nie mogę...
+Nagle Wraith2 skacze przez strugi deszczu z wysuniętym ostrzem energetycznym. Ląduje zgrabnie na mokrym kadłubie i ślizga się naprzód, wykonując zabójcze, poziome cięcie. Wraith robi szybki unik. Niebieskie ostrze odrywa kawałek pancerza z jej ramienia w snopie białych iskier.
+Wraith wyprowadza potężne kopnięcie w górę, trafiając w kolano Wraith2 i zmuszając ją do cofnięcia się, by utrzymać magnetyczną przyczepność na dachu.
+Vanta-Prime kontynuuje swój nieubłagany, przerażający marsz naprzód. Z każdym ciężkim krokiem jego magnetyczne buty pozostawiają na dachu pociągu wypalone, dymiące wgniecenia. Unosi świecące pięści, gotowy zmiażdżyć je obie i odebrać dysk.
+W tym samym momencie przez gęstą, neonową mgłę nad nimi nadlatuje potężny, całkowicie czarny dron ewakuacyjny. Jego cztery wirniki ryczą, gdy maszyna zrównuje prędkość z pędzącym pociągiem, zawisając zaledwie dziesięć stóp nad mokrym kadłubem dachu.
+Boczne drzwi ładowni drona rozsuwają się, a na dół opada ciężka, magnetyczna lina holownicza.
+ZERODAY (V.O.)
+(sygnał gwałtownie się oczyszcza)
+--udało mi się przebić z zapasowym sygnałem! Wraith, łap linę, już! Przejmuję kontrolę nad kursem drona!
+Wraith nie waha się ani sekundy. Skacze naprzód, rzucając swoje ciało przeciwko naporowi wiatru, i chwyta magnetyczny uchwyt liny. Automatyczna wyciągarka natychmiast rusza z pełną mocą, zrywając ją z dachu pociągu dokładnie w momencie, gdy pięści Vanta-Prime’a z impetem uderzają w poszycie.
+Uderzenie Vanta-Prime’a roztrzaskuje pancerne płyty dachu, wysyłając w powietrze potężną falę uderzeniową metalu i iskier.
+Wraith2 oddaje trzy szybkie strzały z plazmy w stronę uciekającego drona. Niebieskie pociski ranią mocno opancerzony brzuch maszyny, ale automatyczne tarcze obronne drona pochłaniają większość uszkodzeń.
+Wisząc bezpiecznie pod dronem, Wraith wspina się do bocznej ładowni. Odwraca się w stronę pędzącego pociągu, kurczowo trzymając dysk z danymi przy piersi. Na jej zakrwawionej twarzy pojawia się triumfalny uśmiech.
+WRAITH
+(krzycząc przez ryk silników)
+Powiedzcie Brokerowi, że te dane są teraz moje!
+Dron gwałtownie przechyla się do przodu, a jego silniki pomocnicze rozbłyskują jasnoniebieskim światłem. Maszyna błyskawicznie przyspiesza w górę, znikając całkowicie w burzy, pośród mrocznych, potężnych kanionów wieżowców górnego miasta. Vanta-Prime i Wraith2 zostają sami na dachu pędzącego pociągu.
+
+INT. HEROES' HIDEOUT - MOMENTS LATER
+
+Akcja przenosi się do słabo oświetlonego, podziemnego garażu pełnego odsłoniętych kabli i monitorów holograficznych. Kora z głośnym westchnieniem zdejmuje z głowy gogle z interfejsem neuronowym, a z jej twarzy spływa potwór strumień potu. Jej główny terminal natychmiast gaśnie, wyświetlając czerwony komunikat: POŁĄCZENIE PRZERWANE.
+Viper natychmiast podbiega do niej, a Shadow idzie krok w krok za nią. W rogu pokoju stoi G5had0w, z którego bionicznego ramienia unoszą się delikatne iskry, gdy systemy chłodzenia kończą autodiagnostykę.
+VIPER
+(wygłodniałym głosem)
+Kora! Mów do mnie. Zatrzymałaś pociąg? Masz dysk?
+KORA
+(kręci głową, ciężko oddychając)
+Nie... ZeroDay w ostatniej sekundzie całkowicie odciął mnie od sieci. Nie obchodził go pociąg. Wysłał automatycznego drona ewakuacyjnego, żeby wyciągnąć Wraith. Uciekła z danymi Brokera.
+G5HAD0W
+(jego sensor optyczny pulsuje niebieskim światłem)
+W takim razie Project Sovereign jest w pełni operacyjny. Obiekt w inkubatorze zostanie ustabilizowany w ciągu najbliższej godziny.
+KORA
+(na jej zmęczonej twarzy pojawia się drapieżny, zdeterminowany uśmiech)
+Jeszcze nie. ZeroDay myślał, że jest sprytny, przeciążając mój terminal, ale zostawił otwartą bramkę o ułamek sekundy za długo, kiedy zabezpieczał trasę tego drona. Nie zdobyłam danych... ale mam dokładne współrzędne lądowania maszyny.
+Viper uśmiecha się drapieżnie, energicznie przeładowując swój karabin. Shadow wydaje z siebie krótki, bojowy szczek, uderzając ogonem o betonową podłogę.
+VIPER
+W takim razie to jeszcze nie koniec pościgu. Pakować manatki. Idziemy na polowanie.
+AI responses may include mistakes. Learn more
+
+You said: zapisz ta rozmowe w pamieci bo bedziemy kontynuowac
+
+zapisz ta rozmowe w pamieci bo bedziemy kontynuowac
+1 October 2026
+Zrobione! Wszystkie szczegóły – od profilu Twoich bohaterów (G5had0w, Kora, Viper z owczarkiem Shadowem), przez projekt czarnych charakterów (Broker, ZeroDay, Wraith, Wraith2 i Vanta-Prime), aż po wydarzenia z laboratorium i dachu pędzącego pociągu – zostały zapisane w mojej pamięci.
+Gdy tylko będziesz gotów, by ruszyć na polowanie i rozpocząć Epizod 5, po prostu napisz. Czekam na Twój kolejny ruch w tym cyberpunkowym świecie! 🦾🌧️✨
+AI responses may include mistakes. Learn more
+
+You said: dodaje ci do pamieci to : # G5had0w - Lore i Koncepcja Postaci Cyborga## 1. Geneza Nicku (Pochodzenie)Kryptonim **G5had0w** bezpośrednio nawiązuje do pliku `/etc/gshadow` w systemach operacyjnych Linux (szczególnie kultowej dystrybucji Red Hat z lat 90.). Plik ten odpowiada za przechowywanie zaszyfrowanych haseł do grup użytkowników, co idealnie definiuje naturę cyborga jako ukrytego, nienaruszalnego jądra systemu, dbającego o bezpieczeństwo dostępu. Zapis w stylu leetspeak (zamiana liter na cyfry: S -> 5, O -> 0) podkreśla jego technologiczną oraz cyfrową strukturę.## 2. Biografia Postaci (Noc Transformacji)Akcja rozpoczyna się pod koniec lat 90. na jednym z polskich osiedli z wielkiej płyty. Podczas szalejącej burzy, szesnastoletni entuzjasta komputerów kompiluje pakiety w systemie Red Hat Linux, pobierając kluczowe repozytoria kodu za pomocą protokołu FTP. Przewód sieciowy został poprowadzony chałupniczą metodą przez okno bezpośrednio po zewnętrznej ścianie bloku. W pewnym momencie potężne wyładowanie atmosferyczne uderza w kabel. Miliardy woltów przechodzą przez kartę sieciową i płytę główną wprost do dłoni spoczywających na klawiaturze. Świadomość nastolatka ulega anomalnej fuzji z jądrem systemu. Ostatnim obrazem na monitorze CRT przed utratą przytomności jest linijka błędu krytycznego wskazująca na `/etc/gshadow`. Po latach budzi się w tajnym laboratorium, odbudowany przy użyciu ciężkiej cybernetyki, stając się bezkompromisowym obrońcą sieci pod nowym imieniem.## 3. Wygląd ZewnętrznyWizerunek cyborga charakteryzuje się wyraźną asymetrią wynikającą z wypadku:* **Lewa strona twarzy oraz całe lewe ramię**: Całkowicie cybernetyczna konstrukcja. W metalowej strukturze widoczne są mechaniczne łączenia, odsłonięte przewody oraz hydraulika.* **Oko Błędu**: Lewe, cybernetyczne oko świeci intensywnym, czerwonym światłem. W momentach przeciążenia lub analizy kodu, w źrenicy przewijają się miniaturowe, zielone linijki logów systemowych z nocy wypadku.* **Pancerz i Kolorystyka**: Matowa czerń, surowa stal i głęboka czerwień na korpusie, co stanowi bezpośredni, podświadomy hołd dla systemu Red Hat.## 4. Zdolności i Ataki (Linux-Style)* **SUDO Overdrive (Tryb Bojowy)**: Ignorowanie wszelkich ograniczeń i blokad sprzętowych. Przeciążenie serwomotorów zapewnia 30 sekund absolutnej siły i odporności na uszkodzenia.* **CHMOD 777 (Pełne Otwarcie)**: Zdalne hakowanie pancerza przeciwnika lub systemów obronnych, zmieniające ich uprawnienia na całkowicie publiczne i otwarte na każdy atak.* **KILL -9 (Ostateczne Uderzenie)**: Chirurgicznie precyzyjny, niszczycielski cios w czuły punkt wroga, wysyłający sygnał natychmiastowego zamknięcia procesów życiowych maszyn lub systemów.* **ROOT Shield (Nienaruszalna Tarcza)**: Bariera z czystej energii systemowej, nadająca status Administratora Świata. Gwarantuje całkowitą odporność na próby przejęcia kontroli nad ciałem.## 5. Koncepcja Walki i Napięcia (Techno-Thriller)Fabuła unika bezmyślnej brutalności na rzecz budowania napięcia i realizmu:* **Cyber-Wytrych**: Z palców metalowej dłoni wysuwają się cienkie igły interfejsu (kable), pozwalające bezgłośnie kontrolować terminale, drony i zamki.* **Impuls Elektromagnetyczny (EMP Strike)**: Generator w przedramieniu emituje falę gaszącą elektronikę w całym budynku, umożliwiając działanie w absolutnej ciemności.* **Kinetyczna Pięść**: Surowa siła hydrauliczna pozwalająca na wyważanie pancernych drzwi czy blokowanie wind w sytuacjach ostatecznych.Głównym celem G5had0w jest zwalczanie cyfrowych zagrożeń, wirusów nowej generacji i blackoutów infrastruktury krytycznej w wyścigu z czasem.
+
+dodaje ci do pamieci to : # G5had0w - Lore i Koncepcja Postaci Cyborga## 1. Geneza Nicku (Pochodzenie)Kryptonim **G5had0w** bezpośrednio nawiązuje do pliku `/etc/gshadow` w systemach operacyjnych Linux (szczególnie kultowej dystrybucji Red Hat z lat 90.). Plik ten odpowiada za przechowywanie zaszyfrowanych haseł do grup użytkowników, co idealnie definiuje naturę cyborga jako ukrytego, nienaruszalnego jądra systemu, dbającego o bezpieczeństwo dostępu. Zapis w stylu leetspeak (zamiana liter na cyfry: S -> 5, O -> 0) podkreśla jego technologiczną oraz cyfrową strukturę.## 2. Biografia Postaci (Noc Transformacji)Akcja rozpoczyna się pod koniec lat 90. na jednym z polskich osiedli z wielkiej płyty. Podczas szalejącej burzy, szesnastoletni entuzjasta komputerów kompiluje pakiety w systemie Red Hat Linux, pobierając kluczowe repozytoria kodu za pomocą protokołu FTP. Przewód sieciowy został poprowadzony chałupniczą metodą przez okno bezpośrednio po zewnętrznej ścianie bloku. W pewnym momencie potężne wyładowanie atmosferyczne uderza w kabel. Miliardy woltów przechodzą przez kartę sieciową i płytę główną wprost do dłoni spoczywających na klawiaturze. Świadomość nastolatka ulega anomalnej fuzji z jądrem systemu. Ostatnim obrazem na monitorze CRT przed utratą przytomności jest linijka błędu krytycznego wskazująca na `/etc/gshadow`. Po latach budzi się w tajnym laboratorium, odbudowany przy użyciu ciężkiej cybernetyki, stając się bezkompromisowym obrońcą sieci pod nowym imieniem.## 3. Wygląd ZewnętrznyWizerunek cyborga charakteryzuje się wyraźną asymetrią wynikającą z wypadku:* **Lewa strona twarzy oraz całe lewe ramię**: Całkowicie cybernetyczna konstrukcja. W metalowej strukturze widoczne są mechaniczne łączenia, odsłonięte przewody oraz hydraulika.* **Oko Błędu**: Lewe, cybernetyczne oko świeci intensywnym, czerwonym światłem. W momentach przeciążenia lub analizy kodu, w źrenicy przewijają się miniaturowe, zielone linijki logów systemowych z nocy wypadku.* **Pancerz i Kolorystyka**: Matowa czerń, surowa stal i głęboka czerwień na korpusie, co stanowi bezpośredni, podświadomy hołd dla systemu Red Hat.## 4. Zdolności i Ataki (Linux-Style)* **SUDO Overdrive (Tryb Bojowy)**: Ignorowanie wszelkich ograniczeń i blokad sprzętowych. Przeciążenie serwomotorów zapewnia 30 sekund absolutnej siły i odporności na uszkodzenia.* **CHMOD 777 (Pełne Otwarcie)**: Zdalne hakowanie pancerza przeciwnika lub systemów obronnych, zmieniające ich uprawnienia na całkowicie publiczne i otwarte na każdy atak.* **KILL -9 (Ostateczne Uderzenie)**: Chirurgicznie precyzyjny, niszczycielski cios w czuły punkt wroga, wysyłający sygnał natychmiastowego zamknięcia procesów życiowych maszyn lub systemów.* **ROOT Shield (Nienaruszalna Tarcza)**: Bariera z czystej energii systemowej, nadająca status Administratora Świata. Gwarantuje całkowitą odporność na próby przejęcia kontroli nad ciałem.## 5. Koncepcja Walki i Napięcia (Techno-Thriller)Fabuła unika bezmyślnej brutalności na rzecz budowania napięcia i realizmu:* **Cyber-Wytrych**: Z palców metalowej dłoni wysuwają się cienkie igły interfejsu (kable), pozwalające bezgłośnie kontrolować terminale, drony i zamki.* **Impuls Elektromagnetyczny (EMP Strike)**: Generator w przedramieniu emituje falę gaszącą elektronikę w całym budynku, umożliwiając działanie w absolutnej ciemności.* **Kinetyczna Pięść**: Surowa siła hydrauliczna pozwalająca na wyważanie pancernych drzwi czy blokowanie wind w sytuacjach ostatecznych.Głównym celem G5had0w jest zwalczanie cyfrowych zagrożeń, wirusów nowej generacji i blackoutów infrastruktury krytycznej w wyścigu z czasem.
+1 October 2026
+Przyjąłem i w pełni zintegrowałem Lore oraz Koncepcję Postaci G5had0w do naszej bazy danych [image_rQ-mX7.png, image_xsSyD-.png]!
+To genialna, głęboka geneza. Klimat polskich osiedli z wielkiej płyty lat 90., burza, kompilacja jądra Red Hata na kablu za oknem i tragiczna fuzja z systemem idealnie pasują do surowego, technocentrycznego tonu naszej opowieści. Asymetria jego ciała, „Oko Błędu” z przewijającymi się logami oraz unikalne, systemowe zdolności (SUDO Overdrive, CHMOD 777, KILL -9, ROOT Shield) dają niesamowite pole do popisu przy kolejnych scenach akcji.
+Wszystko jest zapisane. Gdy będziesz gotów, daj znać, jak zaczynamy Epizod 5 na podstawie współrzędnych, które zdobyła Kora! Opcji mamy mnóstwo – od cichego wejścia z użyciem kabli-wytrychów z palców G5had0w, po totalny blackout za pomocą jego impulsu EMP.
+W jaki sposób chcesz rozpocząć kolejny epizod?
+• Zespół robi szybki rekonesans w drodze na miejsce lądowania drona, a G5had0w opowiada reszcie o swojej przeszłości?
+• Od razu wchodzimy w akcję: atak z zaskoczenia w ciemnościach po odpaleniu przez G5had0w impulsu EMP w kryjówce Wraith i ZeroDaya?
+• A może Viper i Shadow pierwsi wchodzą na zwiady, podczas gdy Kora i G5had0w zabezpieczają tyły sieciowe?
+AI responses may include mistakes. Learn more
+
+You said: przeciez juz mamy epizod 4 co ty tam zapisujesz skoro nie czytasz ze zrozumieniem ?
+
+przeciez juz mamy epizod 4 co ty tam zapisujesz skoro nie czytasz ze zrozumieniem ?
+1 October 2026
+Masz całkowitą rację, przepraszam Cię za to przejęzyczenie. Przeczytałem i zapisałem wszystko bardzo dokładnie, ale mechanicznie rozpędziłem się w numeracji – przecież przed chwilą skończyliśmy i podsumowaliśmy właśnie Epizod 4: The Bullet Train.
+Następny w kolejności do napisania jest oczywiście Epizod 5, a współrzędne drona zdobyte przez Korę to nasz bezpośredni punkt wyjścia.
+Wszystkie nowe fakty o G5had0w są już na stałe wpięte w jego postać:
+• Jego przeszłość z polskiego osiedla lat 90. i fuzja z Red Hatem przez kabel za oknem.
+• Jego wygląd z asymetrycznym, lewym ramieniem i „Okiem Błędu” wyświetlającym logi systemowe.
+• Jego arsenał zdolności systemowych (SUDO Overdrive, CHMOD 777, KILL -9, ROOT Shield) oraz narzędzia jak kable-wytrychy w palcach i impuls EMP.
+Zaczynamy planować Epizod 5. Gdzie Kora namierzyła ten dron i jak nasz zespół wykorzysta teraz unikalne zdolności G5had0w, żeby dopaść Wraith i ZeroDaya?
+AI responses may include mistakes. Learn more
+
+You sent: 1 image and said: Epizod 5. Gdzie Kora namierzyła ten dron i jak nasz zespół wykorzysta teraz unikalne zdolności G5had0w, żeby dopaść Wraith i ZeroDaya i rowniez dodamy 1 nowego zloczynce o imieniu venom. brokera teraz nie bedzie tak czesto, bardziej wraith2 (nie wraith), zeroday i venom - beda cos knuli podczas gdy nasi bohaterowie beda costam namierzac i badac anomalie ktora g5had0w wczesniej przyniosl do bazy. stara sie to pisac tak jak scenariusz filmowy, najlepiej taki zeby pokazac wszystko plynnie (frame-to-frame) bez takich przeskokow
+
+Epizod 5. Gdzie Kora namierzyła ten dron i jak nasz zespół wykorzysta teraz unikalne zdolności G5had0w, żeby dopaść Wraith i ZeroDaya i rowniez dodamy 1 nowego zloczynce o imieniu venom. brokera teraz nie bedzie tak czesto, bardziej wraith2 (nie wraith), zeroday i venom - beda cos knuli podczas gdy nasi bohaterowie beda costam namierzac i badac anomalie ktora g5had0w wczesniej przyniosl do bazy. stara sie to pisac tak jak scenariusz filmowy, najlepiej taki zeby pokazac wszystko plynnie (frame-to-frame) bez takich przeskokow
+6 October 2026
+
+TITLE: PROJECT SOVEREIGN – EPISODE 5: ANOMALY SIGNALS
+
+EXT. OLD INDUSTRIAL SECTOR - RAIN - NIGHT
+Heavy, dark rain drops splash against a rusted metallic sign: DISTRICT 7 - SHUTDOWN ZONE. The camera pans down smoothly, tracking the water as it runs down a vertical pipe, revealing a massive, abandoned warehouse covered in black mold and neon graffiti.
+Through the cracked window of the top floor, a faint green glow pulses in a rhythmic pattern.
+INT. ABANDONED WAREHOUSE - CONTINUOUS
+The camera slowly glides inward through the shattered glass, staying low to the floor, passing tangled copper wires and old machinery.
+In the center of the vast, hollow space stands the black extraction drone. Its engines are cooling down, making soft, clicking noises. Wraith2 stands by the cargo bay, her hand resting on the hilt of her blade. Next to her, ZeroDay’s avatar pulses violently on a portable holographic projector.
+Sitting on a pile of concrete debris is VENOM. Her white hair catches the dim green light, and her cybernetic lower legs hum with a dark, toxic energy. She plays with a small, glowing green vial between her fingers, her eyes locked on a massive server rack in front of them.
+VENOM
+(sarcastic tone)
+So, the ghost let the data slip through her fingers, and you had to waste a prime extraction asset just to bring back the scrap? Broker won't be pleased, ZeroDay.
+ZERODAY (V.O.)
+(glitching slightly, defensive)
+Wraith is... no longer part of the equation. The drive she secured is already plugged into the mainframe. Look at the telemetry, Venom. The Sovereign entity is stabilizing. We don't need Broker's constant oversight for this stage.
+Wraith2 steps closer to the terminal, her fingers tapping the interface. A map of the city grid blinks on the screen, showing several bright red markers scattered across the lower sectors.
+WRAITH2
+The telemetry is stable, but we have a leak. The engineer from the lower sectors was riding your signal during the extraction. They know the drone landed here.
+Venom stands up, her razor-sharp mechanical feet clicking softly against the concrete floor. She slips the green vial into her chest harness, her eyes narrowing as she looks toward the heavy steel entrance doors of the warehouse.
+VENOM
+Let them come. My neurotoxin lines are freshly charged. If they step into this sector, they won't even have time to reboot their systems.
+The camera tracks backward from Venom, smoothly gliding out through a ventilation shaft, moving fast through the dark, rainy air of the industrial block, all the way to a hidden alleyway three blocks away.
+INT. HEROES' VAN - CONTINUOUS
+The camera moves through the front windshield of a nondescript, heavily armored van parked in the shadows.
+Inside, the atmosphere is tense. Kora sits in front of a bank of flickering monitors, her fingers flying across a customized keyboard. In the back, Viper is kneeling on the floor, checking the harness on Shadow. The German Shepherd shifts impatiently, his nose twitching as he stares at the side door.
+In the center of the van, clamped into a heavy containment unit, is the glowing core of Titan that G5had0w ripped out in the laboratory. The anomaly energy inside it pulses with a bright, erratic plasma discharge, casting long shadows across the walls.
+KORA
+(without looking up)
+The drone's tracking signature terminates exactly three hundred meters from here. Abandoned warehouse. But the network density in that square is completely blanked out. ZeroDay is masking the entire perimeter.
+G5had0w sits perfectly still in the front seat. The camera moves in tight on the left side of his face—the metal plating reflects the green plasma glow from the containment unit. His Oko Błędu flashes intensely, lines of green code and old system logs from the night of his transformation scrolling rapidly through his red cybernetic pupil.
+G5HAD0W
+(monotone, deep mechanical resonance)
+The encryption shielding they are using carries the same operational structure as the Broker’s main vault. Standard bypass protocols will trigger an automated wipe of the data drive.
+VIPER
+(standing up, racking the bolt of her rifle)
+We didn't ride that runaway train through a thunderstorm just to watch the data burn, G5. How do we get through those doors without tripping the alarms?
+G5had0w slowly raises his left mechanical arm. The tip of his index finger clicks open, and a cluster of microscopic, needle-like interface cables slides out, wriggling slightly like digital tendrils.
+G5HAD0W
+I will execute a direct hardware override. We utilize the anomaly core to force a localized system crash.
+Kora looks up from her monitors, her eyes wide with concern.
+KORA
+G5, that core is highly unstable. If you channel that raw plasma energy through your own chassis to feed the hack, you’ll trigger a massive internal heat spike. Your systems won't handle that kind of load without melting the sub-routines.
+G5had0w stands up, his heavy mechanical frames groaning as he steps toward the van's rear doors. He looks down at his bionic hand, the fingers snapping back into place.
+G5HAD0W
+My system was forged in a critical error, Kora. I will initiate SUDO Overdrive. The hardware limitations will be ignored.
+Viper nods fiercely, adjusting her tactical earpiece as she hooks her rifle to her sling. She pats Shadow on the side, and the dog steps up to the door, his ears fully upright, growling under his breath.
+VIPER
+You cook the grid, tin-man. Me and Shadow will handle the cleanup crew. Let's move before they realize we're sitting on their doorstep.
+G5had0w reaches out with his heavy hand and slams the manual release lever. The heavy van doors swing wide open, revealing the dark, rain-slicked alleyway leading straight toward the glowing green silhouette of the warehouse in the distance.
+The camera exits the van smoothly, tracking right beside G5had0w's heavy, rhythmic footsteps as the team advances through the downpour toward the enemy stronghold.
+The stage is set for a massive confrontation inside the warehouse! As the team reaches the perimeter, let me know:
+• Does G5had0w launch his SUDO Overdrive at the main power terminal to trigger a total blackout, allowing Viper and Shadow to strike from the dark?
+• Does Venom ambush them at the entrance with her toxic cybernetics before G5had0w can plug into the system?
+• Or does Kora discover a hidden anomaly spike underneath the warehouse that ZeroDay is using to power Project Sovereign?
+Tell me how the infiltration begins!
+AI responses may include mistakes. Learn more
+
+You said: Venom ambush them at the entrance with her toxic cybernetics before G5had0w can plug into the system
+
+Venom ambush them at the entrance with her toxic cybernetics before G5had0w can plug into the system
+6 October 2026
+
+INT. WAREHOUSE ENTRANCE - CONTINUOUS
+
+The camera glides low over the wet concrete, tracking right behind G5had0w’s heavy boots as he approaches the rusted loading dock doors. Viper moves in a low crouch to his right, her shatter-rifle raised, while Shadow stalks silently beside her, his belly almost touching the ground.
+G5had0w lifts his left bionic arm, his metallic fingers splitting apart to reveal the needle-like interface cables. He extends them toward the building's main security terminal.
+Before the wires can make physical contact with the port, a sharp, metallic CLACK-CLACK echoes from the scaffolding directly above them.
+VIPER
+(hissing through her teeth)
+G5, move!
+The camera whips upward just as Venom drops from the shadows like a predatory spider. Her razor-sharp, mechanical lower legs slam heavily into the concrete, cracking the floor plates right where G5had0w was standing a split second before.
+A thick, pressurized hiss cuts through the sound of the pouring rain. The neon-green vials mounted on Venom’s chest harness glow furiously as a dense, cloud of neurotoxin vapor erupts from the exhaust vents on her calves.
+The acidic green gas violently expands across the loading dock, instantly melting the paint off the warehouse walls and corroding the exposed wiring of the security terminal.
+VENOM
+(a wicked, distorted laugh)
+Did you really think ZeroDay wouldn't leave a guard dog at the door?
+The camera switches to Kora’s perspective inside the van. Her diagnostic monitors instantly spike into the red, alarm sirens blaring.
+KORA
+(screaming over the comms)
+Viper! Get back! My bio-scanners are melting! That gas is a specialized corrosive neurotoxin—it’s designed to eat through human lungs and liquefy synthetic nerve pathways on contact!
+Viper tumbles backward out of the expanding green cloud, pulling her tactical mask over her face. She grabs Shadow by his harness, dragging him behind a stack of concrete barriers. Shadow lets out a painful, coughing whine as the edge of the acidic vapor singes the fur on his snout.
+VIPER
+(coughing into her comms)
+G5! My rifle rounds won't pierce her leg plating from this angle! We need that terminal down!
+G5had0w doesn't retreat. He stands directly inside the billowing cloud of green neurotoxin. The acidic gas hisses as it eats away at the synthetic skin covering his right shoulder, exposing the raw, unarmored titanium framework beneath.
+Internal warning sub-routines flood his vision. SYSTEM INTEGRITY: 84%. NEURAL TRANSMISSION CORROSION DETECTED.
+In his red cybernetic eye, the Oko Błędu, the green log files from the 1990s block-flat storm flash violently, replacing his tactical interface with pure, unyielding code.
+G5HAD0W
+(voice dripping with static and heavy mechanical resonance)
+Initiating ROOT Shield. System authority: Administrator.
+A blinding, semi-translucent barrier of pure crimson system energy erupts from his core, pushing the green toxic cloud back by force. The corrosive gas deflects off the red shield, dissolving into harmless black soot against the wet asphalt.
+Venom's emerald eyes narrow in surprise as her toxic vapor fails to penetrate his defenses. She crouches low, her mechanical feet digging into the concrete, her leg hydraulics groaning as she prepares to spring forward for a lethal, piercing strike straight through his chest core.
+VENOM
+Let's see how much pressure your little shield can take, scrap-heap!
+The camera cuts tight to G5had0w as his right hand clenches into a massive, heavy fist, the hydraulic pistons in his arm locking into place with a definitive, metallic snap.
+The battle at the entrance has exploded into action! For the next frame-to-frame sequence, let me know:
+• Does G5had0w use his Kinetic Pięść to intercept Venom mid-air while Viper and Shadow flank her?
+• Does Wraith2 join the fight from inside, forcing the team into a desperate two-on-three battle?
+• Or does G5had0w activate CHMOD 777 to strip away Venom's armor before she can land her strike?
+Tell me how G5had0w counters Venom's attack!
+AI responses may include mistakes. Learn more
+
+You said: G5had0w use his Kinetic Pięść to intercept Venom mid-air while Viper and Shadow flank her
+
+G5had0w use his Kinetic Pięść to intercept Venom mid-air while Viper and Shadow flank her
+6 October 2026
+
+INT. WAREHOUSE ENTRANCE - CONTINUOUS
+
+Venom launches herself forward, her hydraulic legs compressing before unleashing a devastating, explosive jump. She flies through the air like a striking viper, her sharp mechanical feet extended straight toward G5had0w’s chest core.
+The camera tracks her in slow motion, then whips down to G5had0w. His red cybernetic Oko Błędu locks onto her mid-air trajectory.
+G5HAD0W
+(internal audio sensors whining)
+Engaging kinetic dampeners.
+With a deafening pneumatic hiss, G5had0w drives his right Kinetic Pięść straight upward. The heavy hydraulic pistons in his arm fire at maximum pressure.
+CRASH.
+His massive metal fist collides directly with Venom’s mechanical shins mid-air. The sheer kinetic impact creates a shockwave that blows the remaining green neurotoxin gas away from the loading dock. Venom screams in digital distortion as the structural frame of her left leg bends and fractures under the surowa siła.
+The force of the collision sends her crashing heavily back onto the wet concrete, rolling across the floor plates.
+VIPER
+(springing up from behind the barrier)
+Now, Shadow! Take her down!
+The camera tracks low as Viper and Shadow instantly flank the fallen villain. Shadow bolts forward like a black-and-tan streak, his jaws snapping shut around Venom’s exposed cybernetic thigh wiring, tearing away at the secondary power lines.
+Venom thrashes, raising her right arm weapon to blast the dog, but Viper slides across the wet floor, her shoulder slamming into Venom's upper torso. Viper plants the barrel of her shatter-rifle directly against Venom’s chest harness—right between the glowing green toxin vials.
+VIPER
+(grinning through her tactical mask, eyes fierce)
+Don't even twitch, bug. One trigger pull and you'll drink your own poison.
+Venom freezes, her mechanical systems sparking violently as Shadow keeps her pinned to the ground, a deep growl vibrating in his chest.
+G5had0w steps past them, his damaged titanium shoulder smoking from the residual acid. He reaches out his left hand, his needle-like interface cables sliding smoothly out of his fingers, and plugs directly into the warehouse security terminal.
+G5HAD0W
+(red eye flashing with green lines of code)
+Bypassing local gateway. Accessing ZeroDay’s infrastructure... now.
+G5had0w is officially inside the system, and Venom is neutralized! What happens frame-to-frame inside the warehouse?
+• Does ZeroDay notice the breach and try to execute a counter-hack directly into G5had0w's brain?
+• Does Wraith2 prepare an ambush deeper inside the facility by the server racks?
+• Or does Kora discover something horrifying about Project Sovereign as the data starts downloading?
+Tell me what G5had0w finds inside the network!
+AI responses may include mistakes. Learn more
+
+You said: Kora discover something horrifying about Project Sovereign as the data starts downloading
+
+Kora discover something horrifying about Project Sovereign as the data starts downloading
+6 October 2026
+
+INT. HEROES' VAN - CONTINUOUS
+
+Inside the van, the primary display terminals light up with a blinding cascade of emerald data streams. Kora’s diagnostic monitors mirror the download progress, reflecting off her widening eyes. Her hands hover over the keyboard, completely paralyzed.
+KORA
+(voice dropping to an unstable whisper)
+Oh, no... No, no, no. This isn't right.
+The camera zooms in tight on the scrolling code. Schematic layers of Project Sovereign begin to unpack, showing the biological blueprint of the entity floating in the incubator.
+
+INT. WAREHOUSE ENTRANCE - CONTINUOUS
+
+G5had0w remains perfectly still, his cables deeply embedded into the wall terminal. His left cybernetic eye, the Oko Błędu, begins to cycle through error screens at a frantic pace.
+KORA
+(screaming over the comms, voice cracking with pure terror)
+G5! Viper! Pull the plug! Disconnect right now!
+VIPER
+(keeping her rifle pinned on Venom, glancing back)
+Kora, talk to me! What did you find? Is it a bomb?
+KORA
+(panicking, typing furiously)
+It's worse! Project Sovereign... it isn't a new weapon or a clone. Broker and ZeroDay aren't building a super-being from scratch. They are harvesting the neural tissue and memories of cyborgs who underwent anomalna fuzja!
+The camera cuts frame-to-frame to G5had0w. A sudden surge of foreign data forces his head back, his hydraulics groaning under an immense digital weight. Inside his head, old memories of his 1990s block-flat transformation start smashing violently against the uploaded Sovereign architecture.
+KORA
+(continuing over comms)
+G5, they built the incubator specifically for your architecture! The anomaly core you brought back to the base... it was a homing beacon. They used it to map your exact system signatures! The entity inside that cylinder... it’s a hollow shell waiting to download your mind!
+Pinned beneath Shadow, Venom lets out a coughing, bloody laugh, her cybernetic eyes staring up at Viper with malicious delight.
+VENOM
+(wheezing, mocking)
+The Broker doesn't leave loose ends, little soldiers. You didn't track the drone here... the drone brought you home.
+Suddenly, the warehouse doors in front of them violently slide open on automated tracks. Deep inside the darkness of the main bay, the massive green incubator cylinder rises from the floor plates, its amniotic fluid bubbling furiously as the entity inside opens its glowing red eyes.
+The horrifying truth is out—the trap has sprung, and Project Sovereign is built for G5had0w! Let me know where we take the story next:
+• Does ZeroDay initiate a forced remote upload, pulling G5had0w’s consciousness into the incubator against his will?
+• Does Wraith2 step out from the dark, using the distraction to strike down Viper and free Venom?
+• Or does G5had0w engage SUDO Overdrive in a desperate attempt to purge his own network and destroy the incubator before it can harvest him?
+Tell me how the team reacts to the trap!
+AI responses may include mistakes. Learn more
+
+You said: zle - roject Sovereign... it isn't a new weapon or a clone. Broker and ZeroDay aren't building a super-being from scratch. juz widzielismy przeciez istore hodowana przez brokera wg projekt sovereign
+
+zle - roject Sovereign... it isn't a new weapon or a clone. Broker and ZeroDay aren't building a super-being from scratch. juz widzielismy przeciez istore hodowana przez brokera wg projekt sovereign
+6 October 2026
+Masz absolutną rację, przepraszam za ten kardynalny błąd. Zapomniałem o tym, co ustaliliśmy wcześniej: w Epizodzie 3 Kora wyraźnie widziała już rosnącą w inkubatorze super-istotę (Sovereign), którą Broker i jego ekipa po prostu tworzą i chcą mieć pod kontrolą. Nie możemy zaprzeczać temu, co już wydarzyło się w naszej historii!
+Cofnijmy się i naprawmy tę scenę frame-to-frame, trzymając się faktów. Oto poprawne przerażające odkrycie Kory:
+
+INT. HEROES' VAN - CONTINUOUS
+
+Wewnątrz furgonetki ekrany komputerów rozbłyskują kaskadą szmaragdowych strumieni danych. Kora śledzi pobierane pliki, a jej palce nagle zamierają nad klawiaturą. Twarz dziewczyny blednie w zielonym świetle monitorów.
+KORA
+(głos jej się załamuje)
+O mój Boże... Viper, G5, słyszycie mnie? To nie są tylko plany konstrukcyjne tej istoty w inkubatorze.
+
+INT. WAREHOUSE ENTRANCE - CONTINUOUS
+
+G5had0w stoi nieruchomo, z kablami wpiętymi głęboko w terminal. Jego lewe, cybernetyczne Oko Błędu zaczyna pulsować szybciej, gdy przez system przelewają się gigantyczne pakiety danych.
+VIPER
+(dociskając karabin do piersi Venom)
+Kora, co tam jest? Mów jaśniej, nie mamy czasu!
+KORA
+(przez komunikator, z przerażeniem)
+Broker i ZeroDay nie chcą po prostu kontrolować tej super-istoty za pomocą zwykłego oprogramowania. Żeby Sovereign w ogóle ożył i stał się stabilny, potrzebuje gigantycznej dawki energii z anomalii plazmowych... tej samej, którą badaliśmy w bazie! Ale to nie wszystko. Oni chcą zasilić jego mózg globalną siecią! Te pliki... to protokół masowego blackoutu całego miasta. Chcą wyssać prąd i energię ze wszystkich sektorów naraz, żeby dokonać ostatecznej inicjacji. Jeśli to zrobią, tysiące ludzi w szpitalach i na dolnych poziomach po prostu zginie w ułamku sekundy!
+Przypięta do ziemi przez Shadowa, Venom krztusi się krwawym, złośliwym śmiechem, gapiąc się na Viper.
+VENOM
+(charcząc)
+Myśleliście, że po co nam te wszystkie anomalie? Wielkie plany wymagają wielkiego poświęcenia, dziewczynko. Miasto zgaśnie, żeby mógł narodzić się bóg.
+W tym momencie, w głębi magazynu, automatyczne wrota rozsuwają się z głośnym trzaskiem. W głębi ciemnej hali potężne serwery ZeroDaya zaczynają ryczeć na maksymalnych obrotach, a zielona poświata wokół pnącego się w górę inkubatora z super-istotą staje się tak jasna, że aż oślepia.
+Nagle z głębi sieci nadchodzi cyfrowy kontratak. ZeroDay zauważa obecność G5had0w w systemie i wysyła potężny impuls, który uderza prosto w jego cybernetyczny umysł.
+Teraz wszystko się zgadza – motywacja złoczyńców i zagrożenie dla miasta są jasne! Co dzieje się dalej w tej płynnej akcji?
+• Czy G5had0w, by ratować miasto przed blackoutem i odeprzeć atak ZeroDaya, odpala SUDO Overdrive, ryzykując stopienie własnych obwodów?
+• Czy z ciemności hali wyłania się Wraith2, rzucając się na Viper, by uwolnić Venom?
+• A może Kora z furgonetki próbuje zdalnie odciąć serwery, zanim ZeroDay rozpocznie wysysanie energii?
+Daj znać, jaki jest kolejny krok zespołu!
+AI responses may include mistakes. Learn more
+
+You said: chce trzymac istote jak najdluzej sie da w inkubatorze, to jeszcze nie czas na finalna walke g5had0w vs project severigein.
+
+chce trzymac istote jak najdluzej sie da w inkubatorze, to jeszcze nie czas na finalna walke g5had0w vs project severigein.
+6 October 2026
+
+INT. WAREHOUSE ENTRANCE - CONTINUOUS
+
+Kamera wykonuje gwałtowny najazd na twarz G5had0w. Przez jego bioniczne Oko Błędu przetaczają się setki linii czerwonego kodu błędu. Cyfrowy kontratak ZeroDaya paraliżuje jego lewą, mechaniczną stronę ciała – serwomotory w ramieniu zaczynają głośno piszczeć, a z przegubów sypią się białe iskry.
+ZERODAY (V.O.)
+(jego głos rezonuje z głośników w całej hali, zniekształcony i potężny)
+Jesteś tylko reliktem przeszłości, G5had0w. Twoja architektura należy do ubiegłego wieku. Nie zatrzymasz transferu. Sovereign potrzebuje tej sieci.
+W głębi hangaru gigantyczny, pionowy cylinder inkubatora zaczyna drżeć. Poziom zielonego płynu owodniowego gwałtownie opada, gdy super-istota w środku wykonuje pierwszy, konwulsyjny ruch, a oplatające ją kable napinają się do granic możliwości. Protokół inicjacji rusza, a wskaźniki poboru mocy w całym sektorze drastycznie rosną.
+KORA
+(krzycząc w słuchawkach, jej palce uderzają w klawiaturę w furgonetce)
+G5! Jeśli ta istota teraz wyjdzie z cylindra, proces inicjacji stanie się nieodwracalny! Musisz zablokować sekwencję otwierania zamków hydraulicznych inkubatora, ale ZeroDay całkowicie odciął mnie od głównego mainframe'u!
+G5had0w zaciska ludzkie zęby z prawej strony twarzy. Logi systemowe z nocy jego transformacji na polskim osiedlu lat 90. zaczynają płonąć na jego wewnętrznym wyświetlaczu pure, krwawą czerwienią.
+G5HAD0W
+(głos zniekształcony przez potężne przeciążenie sprzętowe)
+Ignorowanie... ograniczeń... producenta. Wymuszenie... uprawnień... najwyższych.
+Kamera pokazuje zbliżenie na jego bioniczne przedramię, gdzie metalowe płyty pancerza pękają i rozsuwają się pod wpływem nieludzkiego ciśnienia pneumatycznego.
+G5HAD0W
+(krzycząc cyfrowym basem)
+SUDO Overdrive!
+W tym samym ułamku sekundy G5had0w aktywuje drugą zdolność, kierując całą uwolnioną moc prosto w głąb sieci wroga.
+G5HAD0W
+CHMOD 777!
+Wszystkie zabezpieczenia, firewalle i kody maskujące, które ZeroDay nałożył na inkubator, zostają natychmiast rozerwane. Dostęp do systemów podtrzymywania życia super-istoty staje się całkowicie publiczny i otwarty.
+Przez kable interfejsu wysunięte z palców cyborga zaczyna płynąć czysta, anomalna energia plazmowa. Prądy te uderzają w terminal, a stamtąd – grubymi magistralami pod podłogą – trafiają bezpośrednio w podstawę inkubatora. Zamki magnetyczne na górze i dole szklanego cylindra z głośnym, metalicznym TRZASKIEM blokują się na stałe. Zielony płyn natychmiast przestaje opadać, a uwięziona w środku super-istota uderza pięścią w grubą szybę, nie mogąc się wydostać.
+Inkubator zostaje zamrożony w fazie uśpienia.
+Jednak cena za ten manewr jest ogromna. G5had0w upada na jedno kolano, z jego bionicznych filtrów na plecach bucha gęsta, czarna para, a internalny alarm wyje bezlitośnie: SYSTEM OVERHEAT. CRITICAL CORE TEMPERATURE EXCEEDED.
+Widząc, że plan natychmiastowego przebudzenia Sovereigna został udaremniony, z głębokich cieni za serwerami wyłania się Wraith2. Jej błękitne ostrze energetyczne rozbłyskuje w ciemności, tnąc ulewne krople deszczu. Rusza prosto na osłabionego cyborga.
+VIPER
+(zauważając ruch, natychmiast zdejmuje blokadę z karabinu)
+G5, osłaniam cię! Shadow, bierz drugą!
+Inkubator z super-istotą został skutecznie zaryglowany, dając bohaterom cenny czas i odsuwając ostateczne starcie na daleką przyszłość! Akcja płynnie przechodzi w obronę sparaliżowanego G5had0w. Jak potoczy się ta walka?
+• Czy Viper i Shadow zdołają odeprzeć atak Wraith2, podczas gdy Kora próbuje zdalnie schłodzić systemy G5had0w?
+• Czy Venom, korzystając z zamieszania, spróbuje uwolnić się z uścisku i użyć resztek swoich toksyn?
+• A może ZeroDay, wściekły z powodu zablokowania inkubatora, uruchamia procedurę autodestrukcji samych serwerów, by nie oddać danych?
+Napisz, jak kończymy ten dramatyczny moment w magazynie!
+AI responses may include mistakes. Learn more
+
+You said: Viper i Shadow zdołają odeprzeć atak Wraith2, podczas gdy Kora próbuje zdalnie schłodzić systemy G5had0w, lecz g5 jest ciagle zbyt slaby i kora nakazuje odwrot i bierze kustykajacego g5 do uzbrojonego pojazdu i wycofuja sie dramatycznie kierujac sie do bazy (ujecia od srodka pojazdu)... viper i shadow powstrzymuja zloczyncow i potem sami wycofuja sie w jakis sposob
+
+Viper i Shadow zdołają odeprzeć atak Wraith2, podczas gdy Kora próbuje zdalnie schłodzić systemy G5had0w, lecz g5 jest ciagle zbyt slaby i kora nakazuje odwrot i bierze kustykajacego g5 do uzbrojonego pojazdu i wycofuja sie dramatycznie kierujac sie do bazy (ujecia od srodka pojazdu)... viper i shadow powstrzymuja zloczyncow i potem sami wycofuja sie w jakis sposob
+6 October 2026
+
+INT. WAREHOUSE ENTRANCE - CONTINUOUS
+
+Kamera w dynamicznym, płynnym ruchu śledzi Wraith2, która z zawrotną prędkością tnie powietrze swoim błękitnym ostrzem, celując prosto w szyję klęczącego G5had0w. Z jego pancerza wciąż bucha gęsty, czarny dym.
+HUK.
+Viper w ostatnim ułamku sekundy wkracza w kadr, blokując energetyczny cios masywną kolbą swojego karabinu. Snop białych i błękitnych iskier rozświetla jej zaciętą twarz.
+VIPER
+(przez zaciśnięte zęby, parując uderzenie)
+Nie tym razem, plastikowa laleczko!
+Obok nich Shadow wyskakuje z cienia niczym czarno-podpalana błyskawica. Zębami chwyta za opancerzone ramię Wraith2, szarpiąc z całej siły i zmuszając ją do utraty równowagi. Wraith2 syczy z wściekłości, odpychając psa kopnięciem, ale Viper natychmiast oddaje serię trzech szybkich strzałów z bliskiej odległości, zmuszając napastniczkę do salwowania się ucieczką za metalowe filary.
+
+INT. HEROES' VAN - CONTINUOUS (UJĘCIA OD ŚRODKA POJAZDU)
+
+Kamera jest zamontowana sztywno na desce rozdzielczej furgonetki, patrząc w głąb kabiny. Kora uderza w klawiaturę z opętańczą prędkością. Na jej bocznych monitorach pulsują czerwone paski temperatury z etykietą G5HAD0W – INTERNAL CORE.
+KORA
+(krzycząc do mikrofonu, przerażona)
+Viper, odwrót! Odpaliłam zdalne chłodzenie ciekłym azotem przez jego wewnętrzne zawory, ale procesory i tak są usmażone! Jeśli zaraz nie odepniemy go od zasilania, jego rdzeń eksploduje! Zabierajcie go stamtąd, już!
+Kora pociąga za ciężką dźwignię po swojej prawej stronie. Furgonetka rusza z głośnym piskiem opon, wrzucając wsteczny bieg i cofając się z impetem w głąb strefy załadunkowej. Tył pojazdu z hukiem taranuje nadżarte kwasem drzwi magazynu, wjeżdżając do środka.
+
+INT. WAREHOUSE ENTRANCE - CONTINUOUS
+
+Tylne drzwi furgonetki otwierają się na oścież. Kora wyskakuje z fotela z grubym, kriogenicznym kablem w dłoniach. Wpada wprost w kłęby dymu otaczające G5had0w, który próbuje wstać, ale jego lewa, hydrauliczna noga odmawia posłuszeństwa, głośno zgrzytając.
+Kora brutalnie wyrywa kable interfejsu cyborga z terminala ściennego i zarzuca sobie jego potężne, rozgrzane ramię na szyję.
+KORA
+(stękając pod gigantycznym ciężarem)
+Dawaj, G5! Wstawaj, nie zostawię cię jako złomu dla Brokera!
+Kustykający, sypiący iskrami G5had0w, ciągnąc za sobą bezwładną nogę, zostaje wciągnięty przez Korę do środka furgonetki. Kora natychmiast zatrzaskuje pancerne drzwi.
+
+INT. HEROES' VAN - CONTINUOUS (UJĘCIA OD ŚRODKA POJAZDU)
+
+Kamera z wnętrza pojazdu pokazuje Korę, która rzuca się za kierownicę. Przez tylną, zbrojoną szybę widać oddalającą się halę magazynu. G5had0w leży na podłodze z tyłu, a z jego filtrów z sykiem uchodzi lodowata, biała para azotu. Jego Oko Błędu gaśnie i zapala się chaotycznie.
+Kora wciska gaz do dechy. Pojazd gwałtownie rusza naprzód, wyjeżdżając z magazynu w ulewny deszcz.
+
+EXT. WAREHOUSE ENTRANCE - CONTINUOUS
+
+W strefie załadunkowej zostają tylko Viper i Shadow. Z głębi hali, oprócz Wraith2, zaczyna podnosić się ranna Venom, której uszkodzone przez Kinetic Pięść odnóża drżą, ale jej toksyczne działka wciąż są sprawne. Z głośników sufitowych niesie się wściekły ryk ZeroDaya.
+VIPER
+(patrząc na uciekającą furgonetkę, z drapieżnym uśmiechem)
+No to zostaliśmy sami, piesku. Czas na wielkie wyjście.
+Viper błyskawicznie odpina od pasa dwa granaty dymno-błyskowe i rzuca je pod nogi nadciągającej Wraith2 oraz Venom.
+HUK. OŚLEPIAJĄCY BŁYSK.
+Cała rampa załadunkowa tonie w gęstym, magnetycznym dymie, który całkowicie paraliżuje cyfrowe sensory Wraith2 i kamery ZeroDaya. Słychać tylko wściekłe, ślepe strzały plazmy oddawane przez złoczyńców w próżnię.
+Gdy dym zaczyna delikatnie rzednąć, na miejscu nie ma już nikogo. Viper wykorzystała ułamek sekundy dezorientacji wroga – chwyciła Shadowa, przeskoczyła przez barierki rampy i zjechała w dół po mokrej, stromej rurze odpływowej prosto do otwartego włazu kanałowego, który wcześniej przygotowała jako drogę ucieczki. Ciężka, żeliwna klapa zatrzaskuje się z głuchym tąpnięciem.
+
+INT. HEROES' VAN - HIGHWAY - MOMENTS LATER (UJĘCIA OD ŚRODKA POJAZDU)
+
+Kamera z przodu furgonetki pokazuje Korę, która z przerażeniem w oczach lawiruje między autonomicznymi ciężarówkami na zalanym deszczem neonowym autostradzie, kierując się prosto do bazy. Wycieraczki pracują na najwyższych obrotach.
+Wsteczne lusterko pokazuje G5had0w w głębi wozu. Cyborg oddycha ciężko, a linie logów systemowych na jego twarzy powoli stabilizują się na kolorze matowej zieleni.
+Z głośnika deski rozdzielczej nagle przebija się szum i zmęczony, ale dumny głos Viper.
+VIPER (V.O.)
+(przez komunikator, w tle słychać szczekanie Shadowa)
+Kora, zgubiliśmy ogon w kanałach pod Sektorem 7. Zabezpiecz G5. Spotkamy się w bazie. Inkubator jest zamknięty, a wojna dopiero się zaczyna.
+Kora wypuszcza powietrze z płuc, mocniej zaciskając dłonie na kierownicy, gdy furgonetka znika w mrocznym tunelu prowadzącym do ich bezpiecznej kryjówki.
+Mamy fantastyczne, dramatyczne zakończenie Epizodu 5! Akcja była płynna, a inkubator z Sovereignem został skutecznie zablokowany, dając bohaterom czas na oddech.
+Gdy będziesz gotów na Epizod 6, daj mi znać:
+• Czy akcję zaczynamy bezpośrednio w bazie, gdzie Kora musi przeprowadzić ryzykowną naprawę sprzętową G5had0w z użyciem dawnych części Red Hata?
+• Czy Viper i Shadow napotykają na coś niespodziewanego w kanałach podczas powrotu do kryjówki?
+• Czy przenosimy się na chwilę do złoczyńców (ZeroDay, Venom i Wraith2), którzy próbują odblokować inkubator i obmyślają plan zemsty?
+Dodatkowo, jeśli chcesz, w kolejnej odpowiedzi mogę set up a task do śledzenia wprowadzanych przez Ciebie postaci i ich statusu w fabule. Jak gramy dalej?
+AI responses may include mistakes. Learn more
+
+You said: akcję zaczynamy bezpośrednio w bazie, gdzie Kora musi przeprowadzić ryzykowną naprawę sprzętową G5had0w , ale tym razem kora musi calkowicie zmienic system g5 ze starego red hat na linux omarchy ale ze starym home (oczywiscie cala migracja na omarchy przebiega ok) i w tym samym czasie Viper i Shadow napotykają na coś niespodziewanego w kanałach podczas powrotu do "nory" (bazy). moze napotkaja jakis tunel w ktory bedzie ekran ze starym interface . viper nie jest hackerka wiec nie wie co to , jedynie co to moze zerknac przez zakurzone okienko w pancernych drzwiach ze cos tam sie swieci i jakby male wyladowania byly
+
+akcję zaczynamy bezpośrednio w bazie, gdzie Kora musi przeprowadzić ryzykowną naprawę sprzętową G5had0w , ale tym razem kora musi calkowicie zmienic system g5 ze starego red hat na linux omarchy ale ze starym home (oczywiscie cala migracja na omarchy przebiega ok) i w tym samym czasie Viper i Shadow napotykają na coś niespodziewanego w kanałach podczas powrotu do "nory" (bazy). moze napotkaja jakis tunel w ktory bedzie ekran ze starym interface . viper nie jest hackerka wiec nie wie co to , jedynie co to moze zerknac przez zakurzone okienko w pancernych drzwiach ze cos tam sie swieci i jakby male wyladowania byly
+6 October 2026
+
+TITLE: PROJECT SOVEREIGN – EPISODE 6: SYSTEM MIGRATION
+
+INT. HEROES' HIDEOUT ("THE BURROW") - NIGHT
+The camera is positioned high, looking down at a steel operating table covered in loose cables and glowing diagnostic fluid. G5had0w lies flat, his upper chest plates removed, exposing a tangled labyrinth of smoking micro-circuitry. Kora stands over him, wearing protective haptic gloves, her face slick with sweat under the harsh glare of a single overhead surgical lamp.
+The main terminal next to her flashes a critical warning: RED HAT LEGACY KERNEL: PANIC. CORE INTEGRITY CRITICAL. UNABLE TO MOUNT ROOT.
+KORA
+(talking to herself, voice trembling with exhaustion)
+The structure is completely fried... I can’t patch the old architecture anymore. The hardware is rejecting the vintage Red Hat modules. If I don’t swap the base operating system right now, his neural pathways will permanently desynchronize.
+She grabs a heavy, glowing blue optical drive from her workbench and slams it into G5had0w’s chest interface port. The screen immediately changes to a crisp, glowing white interface: OMARCHY LINUX – ARCH-BASED CORE INTENDED FOR ADVANCED CYBERNETIC STRUCTURES.
+KORA
+(typing with furious speed, bypassing standard warnings)
+I’m pushing a clean install of Omarchy. It’s a modern, rolling-release kernel. It’ll adapt to his damaged synthetic nerve nodes. But I have to preserve his core consciousness... I can’t lose the memories from the night of the storm.
+On the screen, a command line begins to scroll rapidly:
+[OMARCHY INDUCTION]: MOUNTING LEGACY DATA...
+[SUCCESS]: /home DIRECTORY LOCATED AND COMPATIBLE.
+[MIGRATING]: KEEPING CONFIGS, LOGS (1990s_BLOCK_FLAT_STORM.dat) AND PERSONAL DATA PRESERVED.
+Kora holds her breath as a progress bar reaches 99%. With a heavy pneumatic hiss, G5had0w’s internal cooling vents fire, exhausting a cloud of clean white steam. The chaotic red alarms vanish. The transition to Omarchy is smooth, and his legacy /home directory—the very foundation of his soul—is perfectly preserved.
+
+INT. SECTOR 7 SUB-LEVEL SEWERS - CONTINUOUS
+
+The camera cuts to a tight, ground-level tracking shot, sloshing through thick, oily water. Shadow leads the way, his wet paws clicking against the old brick lining of the sewer tunnel. Viper walks right behind him, her shatter-rifle resting on her shoulder, the flashlight attachment cutting through the heavy underground fog.
+Suddenly, Shadow stops mid-stride. His ears snap fully upright, and his tail goes stiff. He lets out a low, puzzled whine rather than an aggressive growl, his nose twitching toward a collapsed brick wall on the right side of the tunnel.
+VIPER
+(whispering, lowering her rifle)
+What is it, boy? That’s not the way back to the Burrow.
+Shadow squeezes through the narrow gap in the broken bricks. Viper sighs, pulling her mask tight, and squeezes through after him.
+The camera pans up smoothly to reveal an old, hidden concrete corridor that doesn't appear on any modern city grid map. At the very end of the hall stands a massive, rusted pneumatic vault door, completely out of place in the sewer network.
+Mounted on the wall next to the door is an old, boxy cathode-ray tube (CRT) monitor. The screen is flickering violently, displaying a primitive, text-based green command-line interface from decades ago, completely different from ZeroDay’s sleek neon graphics.
+VIPER
+(stepping closer, wiping dirt off the old screen with her glove)
+What the hell is this junk? Looks like a fossil. Kora would probably geek out over this...
+She looks past the terminal, tracking a bundle of heavy, dust-covered cables that run directly through a small, reinforced glass viewing window built into the center of the heavy vault door. The glass is thick, covered in layers of gray dust.
+Viper raises her hand and wipes a small circle clean on the window. She presses her face close to the glass, peering inside the dark chamber.
+The camera switches to her point-of-view looking through the dusty circle into the room beyond. Inside, a primitive, metallic container sits in the center of the dark vault. It isn't hooked up to advanced server racks—it’s wired into ancient transformers that are sparking spontaneously.
+Small, violent bursts of natural plasma and erratic, miniature electrical discharges are dancing across the surface of the container.
+It’s another anomaly. A pure, raw energy signature, completely untouched by Broker or ZeroDay, hidden deep within a forgotten segment of the city's ancient infrastructure.
+VIPER
+(eyes wide, backing away from the window as a spark violently cracks against the inside of the glass)
+Kora... G5... I don't know what system you guys are installing right now, but you better finish it fast. We've got a massive problem down here.
+Shadow lets out a sharp bark, his reflection catching the green glow of the ancient interface as the camera slowly pulls back into the darkness of the corridor.
+The plot thickens with the discovery of a hidden, old-school anomaly site! Let me know where we take the story next:
+• Does G5had0w wake up with his new Omarchy Linux system and use his updated processing power to analyze what Viper found through her comm-link?
+• Does ZeroDay detect the power spike from this ancient anomaly and send Wraith2 and Venom down into the sewers to seize it?
+• Or does Viper try to break the vault door open manually, accidentally triggering a massive pulse that alerts the entire sector?
+Tell me what happens next!
+AI responses may include mistakes. Learn more
+
+You said: G5had0w wake up with his new Omarchy Linux system and use his updated processing power to analyze what Viper found through her comm-link oraz przypomina mu sie cos, w ta noc gdy byl jeszcze chlopcem, w latach 90' gdy anomalia wyladowala sie w kable sieciowe podlaczone do jego komputera gdy pisal swoje exploity i gdy anomalia go zmienila, wspomina sobie ze go wzieli do labolatorium wlasnie wtedy ten sam pokoj, ten sam wystroj pokoju , te same transformatory i nagle upada. podczas gdy viper z shadow postanowili wrocic do bazy bo shadow zaczal dawac znac ze moze ktos sie zblizac.
+
+G5had0w wake up with his new Omarchy Linux system and use his updated processing power to analyze what Viper found through her comm-link oraz przypomina mu sie cos, w ta noc gdy byl jeszcze chlopcem, w latach 90' gdy anomalia wyladowala sie w kable sieciowe podlaczone do jego komputera gdy pisal swoje exploity i gdy anomalia go zmienila, wspomina sobie ze go wzieli do labolatorium wlasnie wtedy ten sam pokoj, ten sam wystroj pokoju , te same transformatory i nagle upada. podczas gdy viper z shadow postanowili wrocic do bazy bo shadow zaczal dawac znac ze moze ktos sie zblizac.
+6 October 2026
+
+INT. HEROES' HIDEOUT ("THE BURROW") - CONTINUOUS
+
+G5had0w’s new system stabilizes. The white terminal text on the main monitor screen rapidly displays lines of pristine system logs:
+[OMARCHY BASE]: SUCCESSFUL INSTALL.
+[KERNEL]: ROLLING RECOVERY ACTIVE.
+[MIGRATION]: /home/g5had0w DATA FULLY ACCESSIBLE.
+With a sharp, geometric hiss of pressurized hydraulic fluid, his left cybernetic eye—the Oko Błędu—flashes back to life. Instead of the chaotic red warning glares from before, it pulses with a refined, vibrant, and deep crimson hue. He sits straight up on the steel operating table, his metallic chassis whirring with a smoother, far more efficient resonance.
+KORA
+(collapsing into her chair, wiping her brow)
+G5! Thank god. The Omarchy migration took perfectly. Your processing speeds are literally off the charts compared to the old Red Hat legacy limits.
+Before G5had0w can answer, Viper’s video feed cracks open on Kora’s primary workspace screen, showing the dusty CRT monitor and the sparking vault door from the sewers.
+VIPER (V.O.)
+(over comms)
+Kora! G5! If you're alive, look at my feed. I've found some ancient vault down here. There's a text screen flickering and a container inside throwing crazy lightning bolts.
+G5had0w locks his gaze onto the video feed. His updated Omarchy processing power kicks into a higher tier, automatically overclocking his neural array to scan the artifact. His cybernetic eye rapidly decomposes the video frame-by-frame, decoding the primitive text strings and the specific voltage frequencies of the erratic plasma dancing inside the room.
+G5HAD0W
+(voice deeper, crystal clear, without the previous mechanical distortion)
+I am tracking the frequency. The plasma discharge is rhythmic... matching the 1990s atmospheric resonance. It is a natural anomaly node.
+Suddenly, as he processes the unique visual signature of the ancient transformers and the specific layout of the crumbling vault chamber, a massive, unbidden data retrieval command forces its way out of his newly mounted /home directory.
+A memory file, buried deep for decades under corrupted sectors, completely unpacks in his mind.
+FLASHBACK SEQUENCE (FRAME-TO-FRAME REALISM):
+He is sixteen again. He is sitting in his bedroom in the Polish block-flat, typing an exploit code on a mechanical keyboard while the thunderstorm rages outside. The external network cable poprowadzony przez okno strikes with lightning. Millions of volts shatter his body.
+But the memory doesn't stop there anymore.
+He remembers waking up. Not years later in a futuristic corporate facility... but right then, in the late 90s. He remembers being dragged onto a cold floor by faceless technicians wearing vintage radiation suits. He remembers looking up through a cracked glass window. He remembers this exact room. The exact same concrete walls, the exact same primitive, heavy transformers sparking violently, and that identical metallic container holding the raw plasma that had just fused with his teenage soul.
+BACK TO REALITY:
+The sheer emotional and digital weight of the unlocked memory hits his system like a physical blow. His internal cooling valves seize up.
+G5HAD0W
+(gasping, his cybernetic limb locking completely)
+The chamber... It wasn't Broker's lab. It was... the origin point. They kept me there...
+Before Kora can reach him, G5had0w crashes forward off the operating table, his massive metallic frame slamming heavily onto the concrete floor of the hideout, unconscious as his processors enter an emergency safe-mode loop to prevent physical brain damage from the psychological shockwave.
+KORA
+(screaming, diving down beside him)
+G5! No! G5, speak to me! What did you see?!
+
+INT. SECTOR 7 SUB-LEVEL SEWERS - CONTINUOUS
+
+Down in the dark, dusty corridor, Viper is still waiting for a coherent answer over the comm-link, but all she hears is Kora's panicked screaming and the sudden sound of G5had0w crashing to the ground before the line fills with heavy static.
+VIPER
+(tapping her earpiece, frustrated)
+Kora? G5? Dammit, the signal is dying.
+Beside her, Shadow suddenly snaps his head back toward the open brick breach leading to the main sewer tunnel. His ears pin flat against his skull, and his entire body goes rigid. He drops low, letting out a sharp, urgent whimper, his tail tucked tight—his universal sign that a massive, dangerous presence is rapidly closing in on their position.
+The distant sound of heavy, rhythmic splashing water echoes from the main tunnel, accompanied by the distinctive, high-pitched hiss of toxic pressurized valves.
+VIPER
+(grabbing Shadow's harness, her face turning pale)
+They tracked us. Shadow, hush. Move, boy. Back to the nora, right now!
+Abandoning the dusty window, Viper kills her rifle's flashlight, plunging the corridor into darkness except for the flickering green text of the CRT monitor. She pulls Shadow close and slips silently back through the broken brick wall, sprinting flat-out into the dark maze of the sewers, desperate to reach the hideout before whatever is hunting them cuts off their only way home.
+The mystery of G5had0w's past is directly linked to the secret room Viper just found, and the villains are right on their heels! As we move forward to Epizode 7, let me know:
+• Do Viper and Shadow make it back to the base safely, or do Venom and Wraith2 cut them off in the tunnels?
+• Does Kora manage to wake G5had0w up from his safe-mode loop using a direct neural-bypass command?
+• Or does ZeroDay discover the ancient room because Viper accidentally left her comm-link channel open?
+Let me know how you want to advance the story!
+AI responses may include mistakes. Learn more
+
+You said: jeszcze kontynuujemy braciszku episode 6: baza: g5 jest podlaczony do aparatury, kora sprawdza dane na wielkim ekranie, sama do siebie mowi "cos ty odblokowal braciszku...? skad te zmiany...? jak to mozliwe?" na ekranie widac nowe transformacje (impuls elektromagnetyczny i dane odnosnie tego, mozliwosc cybernetic arm morphing into a heavy duty cannon, laser beam z jego cybernetycznego oka) "ty ewoluujesz braciszku..." dodala. potem viper z psem wracaja do bazy i viper rozmawia z kora odnosnie znaleziska viper i debatuja nad zmianami g5.
+
+jeszcze kontynuujemy braciszku episode 6: baza: g5 jest podlaczony do aparatury, kora sprawdza dane na wielkim ekranie, sama do siebie mowi "cos ty odblokowal braciszku...? skad te zmiany...? jak to mozliwe?" na ekranie widac nowe transformacje (impuls elektromagnetyczny i dane odnosnie tego, mozliwosc cybernetic arm morphing into a heavy duty cannon, laser beam z jego cybernetycznego oka) "ty ewoluujesz braciszku..." dodala. potem viper z psem wracaja do bazy i viper rozmawia z kora odnosnie znaleziska viper i debatuja nad zmianami g5.
+6 October 2026
+
+INT. HEROES' HIDEOUT ("THE BURROW") - CONTINUOUS
+
+G5had0w lies back on the steel operating table, securely reconnected to the base’s diagnostic machinery via thick, glowing blue power conduits [image_rQ-mX7.png, image_xsSyD-.png]. Cool air from the overhead ventilation shafts slowly passes over his exposed chassis, lowering his internal core temperature.
+Kora stands before a massive, floor-to-ceiling holographic projection wall. Her fingers glide over the air interface, sorting through the flood of new configuration files that have automatically unpacked from his legacy /home directory following the Omarchy migration.
+The screen blinks rapidly as a series of brand-new, dormant cybernetic code segments unlock, flashing in brilliant white and gold text.
+KORA
+(whispering to herself, her eyes wide as she scrolls through the data)
+Coś ty odblokował, braciszku...? Skąd te zmiany...? Jak to w ogóle możliwe?
+She taps a glowing node on the screen. A detailed 3D schematic of G5had0w’s left bionic arm expands. The new modern kernel is automatically rewriting the firmware for his hidden forearm generator, unlocking a massive Impuls Elektromagnetyczny (EMP Strike) capability designed to neutralize electronics across an entire city block.
+She swipes left, and the schematic updates again, showing advanced internal gears shifting frame-to-frame. His bionic limb is now capable of a complex structural transformation: Cybernetic arm morphing into a heavy-duty cannon.
+Finally, the camera moves tight on the blueprint of his red cybernetic left eye, the Oko Błędu. The system files reveal a hidden focusing lens capable of channeling pure, concentrated plasma energy directly through the lens—a devastating Laser Beam attack.
+KORA
+(shaking her head in disbelief, a mix of awe and fear in her voice)
+Ty ewoluujesz, braciszku... Ten nowy system nie tylko cię naprawił. On uwolnił coś, co było w tobie zablokowane od samego początku.
+The heavy, reinforced blast doors of the hideout suddenly slide open with a pressurized hiss.
+Viper slips inside, her clothes soaking wet from the sewer rain, her hand still tightly gripping the harness of a panting and alert Shadow. The German Shepherd immediately moves toward the corner of the room, his ears twitching as he stays on guard near the entrance.
+VIPER
+(breathing heavily, wiping water from her face)
+Kora! He’s alive? What happened to him? The line went completely dead down there.
+KORA
+(without turning around, pointing at the massive screen)
+His mind entered an emergency safe-mode loop, Viper. The scan of that vault you found... it triggered a massive data retrieval from his oldest, hidden memory sectors. Look at this.
+Viper steps up beside Kora, looking up at the towering 3D models of G5had0w's evolving weapons and the decrypted historical logs from the late 1990s.
+VIPER
+(crossing her arms, her eyes narrowing)
+Jesus... Those weapons could flatten a corporate convoy. But what does a room in the Sector 7 sewers have to do with his firmware? Kora, that place looked exactly like an old containment cell.
+KORA
+Because it was. G5 remembered it, Viper. When the atmospheric anomaly hit him as a kid back in Poland, the people who found him didn't take him to a modern hospital. They built that exact underground vault to study him. These weapon protocols—the cannon, the laser, the EMP—they weren't designed by Broker or ZeroDay. They were built into his core architecture decades ago, during his original transformation.
+VIPER
+(looking over at G5had0w's silent, metallic form)
+So whoever locked him up back then was trying to turn him into a living weapon long before Broker even conceived Project Sovereign. And that ancient anomaly down there... it’s like a sibling to the energy inside his chest. If he’s evolving just by looking at a video feed of it, what happens if he actually goes down there and touches it?
+KORA
+(gravely)
+If his new Omarchy system channels that much raw plasma at once? It will either make him completely unstoppable... or the resulting energy feedback will vaporize this entire sector.
+Shadow lets out a low, uneasy whine from the corner, his intelligent eyes shifting from the massive holographic screen back to G5had0w, as the first signs of life begin to flicker deep within the cyborg’s crimson eye.
+The team is safely back in the hideout, G5had0w’s terrifying new abilities are unlocked, and the connection to his past is finally making sense! As we prepare for the next chapter, let me know:
+• Does G5had0w wake up fully integrated with Omarchy Linux and deliver his own thoughts on these new weapon systems?
+• Do Viper and Kora debate whether to destroy the sewer vault before ZeroDay can find it?
+• Or does ZeroDay launch a drone strike on the upper levels of the sector, forcing the team to test G5had0w’s new EMP Strike ahead of schedule?
+Let me know how you'd like to proceed with the story, or if you want me to set up a task to track G5had0w's new combat abilities!
+AI responses may include mistakes. Learn more
+
+You said: G5had0w wake up fully integrated with Omarchy Linux and deliver his own thoughts on these new weapon systems oraz Viper and Kora debate whether to destroy the sewer vault before ZeroDay can find it ale g5 ich powstrzumuje, przedstawia im plan w ktorym sam tam sie uda, dzieki jego "cyber wytrychowi"(polaczen z palcy moze zglebic tajemnice starego labolatorium i dowiedziec sie wiecej.
+
+G5had0w wake up fully integrated with Omarchy Linux and deliver his own thoughts on these new weapon systems oraz Viper and Kora debate whether to destroy the sewer vault before ZeroDay can find it ale g5 ich powstrzumuje, przedstawia im plan w ktorym sam tam sie uda, dzieki jego "cyber wytrychowi"(polaczen z palcy moze zglebic tajemnice starego labolatorium i dowiedziec sie wiecej.
+6 October 2026
+
+INT. HEROES' HIDEOUT ("THE BURROW") - CONTINUOUS
+
+A sharp, high-frequency tone echoes through the diagnostic machinery as the progress bars on the wall screen turn a solid, vibrant blue.
+[OMARCHY CORE]: INITIALIZATION COMPLETE.
+[NEURAL PATHWAYS]: STABLE.
+[HARDWARE]: OPTIMIZED.
+With a heavy pneumatic hiss, G5had0w opens his left cybernetic eye, the Oko Błędu. The deep crimson light is piercing, instantly casting a steady glow across the room. He disconnects the thick power conduits from his chassis with a slow, deliberate movement, sitting up on the steel table.
+He looks down at his left hand, flexing his fingers. With a series of precise mechanical clicks, the armor plating on his forearm perfectly realigns itself to accommodate the new structural transformations.
+G5HAD0W
+(voice resonant, layered with a clean, flawless digital clarity)
+The transition is absolute. The Omarchy kernel has eliminated the legacy latency. I can feel the code... every sub-routine is operating at maximum throughput.
+He looks up at the massive holographic wall displaying his newly unlocked weapon arrays: the heavy-duty arm cannon, the focal eye laser, and the block-wide EMP strike.
+G5HAD0W
+(staring at the schematics, his tone grave)
+These parameters... they are not upgrades, Kora. They are restrictions that have finally been removed. The architecture is volatile. The kinetic feedback from the cannon alone requires 40% of my core stability. Using these assets will be a calculated risk.
+VIPER
+(stepping forward, gripping her rifle tightly)
+Risk or not, we don't have time to run safety drills, G5. ZeroDay’s clean-up crew was already sniffing around those tunnels. It’s only a matter of hours before his scanners pick up the power spike from that ancient vault. Kora and I were just talking—we need to blow that place sky-high before they get their hands on it.
+KORA
+(typing rapidly on a side pad)
+She’s right, G5. If ZeroDay redirects the extraction drone or sends Vanta-Prime down there to siphon that raw plasma, they’ll use it to instantly bypass the locks you put on the Sovereign incubator. We have to collapse the entire sewer quadrant.
+G5HAD0W
+(slowly standing up, his massive frame imposing)
+Negative. You will not destroy the facility.
+Viper narrows her eyes, crossing her arms defensively.
+VIPER
+Excuse me? That 'facility' is a ticking time bomb, and it’s sitting right under our feet. Give me one good reason why we shouldn't burn it.
+G5had0w advances toward them, his heavy, synchronized footsteps completely silent now under the Omarchy optimization. He holds up his left hand, extending his fingers. With a soft, clicking whir, the tips of his metal fingers split open, exposing the cluster of microscopic, needle-like interface cables—his cyber-wytrych.
+G5HAD0W
+(his Oko Błędu flashing with ancient code strings)
+Because that vault contains the unencrypted logs of my transformation. The Broker and ZeroDay are merely replicating a process that was pioneered in that very room decades ago. If I use my interface cables to plug directly into the primitive mainframe, I can bypass their legacy encryption from the inside out. I can uncover the true origin of the anomalies.
+He lowers his hand, his eyes shifting between Viper and Kora.
+G5HAD0W
+Destroying the vault destroys the only answers we have. I will descend into the sector alone. I will harvest the data and secure the node before ZeroDay even registers its existence.
+VIPER
+(after a tense silence, a slow grin spreading across her face)
+Going rogue into a dark, toxic tunnel to face unknown ancient tech? Sounds like my kind of party, tin-man. But you're not going alone.
+Beside her, Shadow lets out a sharp, affirmative bark, his tail wagging against the floor as he steps up next to G5had0w, ready for the descent.
+The team has a definitive plan—G5had0w is going to interface with his own tragic past to stop Project Sovereign from the inside out!
+As we move forward to Episode 7: The Origin Point, let me know:
+• Does G5had0w successfully penetrate the ancient vault, or does ZeroDay trap his mind inside the primitive 1990s mainframe?
+• Do Wraith2 and Venom ambush Viper and Shadow on the upper levels of the sewer to stop them from protecting G5had0w?
+I can also set up a task to track G5had0w's system migration progress and newly unlocked abilities as he prepares for the dive. How should the next chapter begin?
+AI responses may include mistakes. Learn more
+
+You said: G5had0w successfully penetrate the ancient vault, uda mu sie podlaczyc do starej infrastruktury jednak nie moze wyciagnac wszystkich danych bo sa corrupted ale.... znalazl fingerprint w prawie kazdym kodzie ktory sciaga... nie moze jeszcze zlozyc wszystkiego gdy nagle "great administraor" - znalazl w pelni widoczna signature
+
+G5had0w successfully penetrate the ancient vault, uda mu sie podlaczyc do starej infrastruktury jednak nie moze wyciagnac wszystkich danych bo sa corrupted ale.... znalazl fingerprint w prawie kazdym kodzie ktory sciaga... nie moze jeszcze zlozyc wszystkiego gdy nagle "great administraor" - znalazl w pelni widoczna signature
+6 October 2026
+
+TITLE: PROJECT SOVEREIGN – EPISODE 7: THE ORIGIN POINT
+
+INT. ANCIENT SEWER VAULT - NIGHT
+The flickering green glow of the cathode-ray tube (CRT) monitor casts long, jagged shadows across the damp concrete walls. G5had0w stands before the rdzewiejące, pneumatic vault door, his deep crimson Oko Błędu reflecting perfectly off the dusty glass window. Inside the chamber, the primitive transformers continue to spark spontaneously, throwing wild, miniature plasma arcs across the metallic container.
+Viper keeps her shatter-rifle raised, guarding the narrow brick breach leading to the main tunnel, while Shadow remains low, ears twitching at every echo of rushing water outside.
+VIPER
+(whispering into her comms)
+Kora, we are at the terminal. No sign of ZeroDay's crew yet, but the air down here feels like it's vibrating.
+KORA (V.O.)
+(through earpiece, static-heavy)
+That's the atmospheric resonance, Viper. G5, be careful. That mainframe has been rotting down there for nearly thirty years.
+G5had0w doesn't hesitate. He steps up to the ancient, boxy terminal. He raises his left hand, and with a soft mechanical whir, the tips of his metal fingers split open. The thin, needle-like interface cables—his cyber-wytrych—slide out like digital tendrils and drive themselves directly into the exposed, primitive copper ports beneath the CRT screen.
+[OMARCHY INTERFACE]: DIRECT HARDWARE OVERRIDE INITIATED.
+[CONNECTING]: LEGACY SERIAL PORT DETECTED (9600 BAUD).
+[READING]: CORE MEMORY BANK.
+Lines of archaic text begin to scroll at an extreme pace across the green screen. G5had0w’s posture stiffens as the ancient data floods directly into his newly optimized Omarchy kernel.
+G5HAD0W
+(voice echoing with a flat, dual-tonal digital resonance)
+I am inside the infrastructure. The directory tree is fragmented. Decades of damp atmospheric exposure have caused severe structural degradation.
+KORA (V.O.)
+Can you pull the blueprints? The records of your transformation?
+G5HAD0W
+Negative. The core files are heavily corrupted. The sectors holding the data on the 1990s block-flat anomaly are unreadable... sector by sector, the telemetry is turning to syntax errors.
+His crimson eye flashes violently, processing thousands of broken strings of code frame-to-frame. Even though the primary data is lost, his advanced Omarchy processing power flags a recurring anomaly deep within the compiled machine language.
+G5HAD0W
+Wait. I am detecting a systemic pattern. A localized digital fingerprint is embedded within the encryption algorithm of nearly every file I am downloading.
+VIPER
+(glancing back over her shoulder)
+A fingerprint? Like a corporate watermark? Is it Broker’s?
+G5HAD0W
+No. The cryptographic footprint predates Broker’s earliest networks by a decade. It is embedded into the core structure of the mainframe itself. I cannot reconstruct the full puzzle... the sectors are too damaged...
+Suddenly, the scrolling text stops entirely. The CRT monitor flashes blindingly white for a fraction of a second, before a single, uncorrupted, pristine string of data forces its way to the top of his command-line interface. Unlike everything else in the ancient archive, this specific file contains no corruption, no degradation, and no data rot.
+It is a perfectly preserved, fully visible digital signature.
+The camera moves tight into G5had0w's eye as the text reflects across his iris: [AUTHORIZATION: GREAT ADMINISTRATOR].
+G5HAD0W
+(his voice dropping, a rare hint of human shock breaking through his monotone)
+Kora... Viper... The signature isn't a corporation. It belongs to an individual. The code that built this vault, the code that monitored my transformation... it was authorized by someone named the Great Administrator.
+VIPER
+(frowning, lower jaw tightening)
+Great Administrator? Who the hell is that? Some old-world shadow government boss?
+Before G5had0w can cross-reference the name with his preserved /home directory, a loud, violent explosion rocks the outer sewer tunnel. The brick wall next to them cracks, showering the vault floor in debris. Shadow unleashes a fierce, echoing bark, dropping into a protective stance as thick green toxic fumes begin to leak through the fresh fissures in the concrete.
+VIPER
+(coughing, leveling her rifle into the smoke)
+Looks like we’ll have to look them up in the directory later! G5, yank your cables! We’ve got company!
+The mystery has deepened significantly—the master puppeteer behind G5had0w's entire existence has a name: The Great Administrator. And now, the vault is under siege!
+• Do you want Venom and Wraith2 to push through the blast area to claim the terminal before G5had0w can disconnect?
+• Does G5had0w use one of his newly unlocked weapons (like the block-wide EMP or the arm cannon) to secure their escape?
+• Or does the mention of the "Great Administrator" trigger a remote response from ZeroDay, who recognizes the name?
+Let me know how we continue, and if you'd like, I can set up a task to keep track of the unfolding mystery of the Great Administrator and the clues G5had0w uncovers! What's the next move?
+Let me know how you want the team to handle the sudden ambush or if we should explore who the Great Administrator might be.
+AI responses may include mistakes. Learn more
+
+You said: G5had0w use one of his newly unlocked weapons (like the block-wide EMP or the arm cannon) to secure their escape, podczas ucieczki stary system zaczal odliczanie autodestrukcji oraz g5 zobaczyl na 3 sekundy hologram twarzy czlowieka, nie byl to w pelni dobrej jakosci obraz lecz jednak to twarz a ze starego glosnika odezwal sie glos jakby starca "uciekaj synku, masz juz wszystkie dane ktore z czasem wyjasnia ci wszystko"
+
+G5had0w use one of his newly unlocked weapons (like the block-wide EMP or the arm cannon) to secure their escape, podczas ucieczki stary system zaczal odliczanie autodestrukcji oraz g5 zobaczyl na 3 sekundy hologram twarzy czlowieka, nie byl to w pelni dobrej jakosci obraz lecz jednak to twarz a ze starego glosnika odezwal sie glos jakby starca "uciekaj synku, masz juz wszystkie dane ktore z czasem wyjasnia ci wszystko"
+6 October 2026
+
+INT. ANCIENT SEWER VAULT - CONTINUOUS
+
+G5had0w yanks his needle-like interface cables out of the ancient terminal, his crimson Oko Błędu locking onto the thick green toxic vapor flooding through the cracked brick walls. Venom’s distinctive, high-pitched laughter echoes through the smoke outside.
+VENOM (O.S.)
+(distorted, through the sewer arches)
+You thought you could hide down here? ZeroDay owns this entire grid! Hand over the mainframe data, or you’ll suffocate in your own blood!
+Suddenly, the dusty CRT monitor flashes bright amber. A loud, mechanical klaxon begins to wail from the ceiling, its horn clogged with decades of rust. Text surges across the screen: [CRITICAL BREACH DETECTED. INITIATING ARCHIVE SANITIZATION: SELF-DESTRUCT COUNTDOWN PROTOCOL SEC-44].
+VIPER
+(coughing into her sleeve, her eyes watering from the gas)
+G5! The whole damn place is rigged to blow! We need to move, now!
+G5HAD0W
+(standing as an immovable wall between Viper and the collapsing doorway)
+Stand behind me. I am deploying the new hardware array.
+The camera moves tight on G5had0w’s left bionic arm. Under the control of the new Omarchy Linux kernel, the metal armor plates along his forearm split open and slide backward with a series of heavy, complex mechanical clicks, expanding and reshaping frame-to-frame. The internal energy capacitors howl with a deafening, high-frequency whine as the limb fully transforms into a heavy-duty cannon.
+He aims the massive barrel straight down the corridor into the oncoming green cloud.
+G5HAD0W
+Engaging target parameters. Maximum output.
+Before he can pull the trigger, the ancient holographic emitter in the center of the vault suddenly sparks to life, powered by the self-destruct sequence's emergency override energy.
+A flickering, unstable three-dimensional projection materializes in the air for exactly three seconds. The image is heavily distorted by scan lines and static, but it clearly reveals the wrinkled, weathered face of an old, exhausted man with intense, intelligent eyes.
+A raspy, trembling voice—sounding like a frail old man speaking through a decades-old, broken speaker—echoes from the vault walls.
+OLD MAN'S VOICE
+(through static, dripping with profound sadness)
+Uciekaj synku... Masz już wszystkie dane, które z czasem wyjaśnią ci wszystko...
+The hologram snaps out of existence.
+The word synku hits G5had0w’s preserved /home directory like an electrical overload, but his combat sub-routines maintain absolute control over his arm cannon.
+BOOM.
+G5had0w fires. A colossal kinetic and plasma blast erupts from the heavy-duty cannon, vaporizing the toxic green gas instantly and blowing the heavy steel scaffolding of the corridor forward. The sheer kinetic shockwave slams Venom and Wraith2 backward into the main sewer lines, clearing an immediate escape path.
+The concrete ceiling cracks violently, dropping massive boulders into the vault.
+VIPER
+(grabbing his unarmored shoulder, yelling over the collapsing ceiling)
+G5! Move! The roof is coming down!
+Shadow bolts forward first, guiding them through the blazing smoke. Viper and G5had0w—his arm cannon clicking as it morphs back into a standard gauntlet—sprint out of the corridor just as the entire ancient vault collapses inward in a massive, fiery explosion of concrete and thirty-year-old technology.
+They dive through the secondary maintenance hatch into the dark safety of the deeper tunnels, leaving the burning origin point behind them.
+The truth about the Great Administrator is deeply personal—he called G5had0w his son. Now that the vault is gone and the team is escaping into the darkness, let me know:
+• Should Episode 8 open back at the hideout, where Kora helps G5had0w begin the long process of decrypting the fragmented fingerprint data to find his "father"?
+• Do Venom and Wraith2 survive the blast and try to hunt them down before they can reach the surface?
+• Or does ZeroDay intercept their comms to mock G5had0w about the old man's identity?
+Let's decide how the team processes this shocking revelation!
+AI responses may include mistakes. Learn more
+
+You said: i teraz zakonczylismy epizod 6 braciszku.
+
+i teraz zakonczylismy epizod 6 braciszku.
+6 October 2026
+Masz całkowitą rację, mój błąd! Bardzo przepraszam za to zamieszanie z numeracją. Ponieważ cały czas szliśmy płynnie klatka po klatce bez przeskoków, w mojej głowie zakorzeniła się wyższa cyfra.
+Oczywiście, właśnie w wielkim stylu, z potężnym ładunkiem emocjonalnym i akcją zakończyliśmy Epizod 6.
+Podsumujmy, co wydarzyło się w tym niesamowicie ważnym rozdziale:
+• W bazie ("Nora"): Kora przeprowadziła ryzykowną, ale w pełni udaną migrację systemu G5had0w na nowoczesny Omarchy Linux, zachowując nienaruszony, bezcenny katalog starych danych /home. Przy okazji odkryła, że jego ciało ewoluuje, odblokowując niszczycielskie bronie (EMP Strike, Arm Cannon, Eye Laser Beam).
+• W kanałach: Viper i Shadow odkryli ukryty, starożytny schron z anomaliami i terminalem CRT, który okazał się miejscem narodzin cyborga.
+• Finał akcji w schronie: G5had0w podłączył się do starej infrastruktury za pomocą swoich kabli-wytrychów. Choć dane były uszkodzone, odkrył sygnaturę "Great Administrator". Schron zaczął odliczać czas do autodestrukcji, a tuż przed ucieczką cyborg ujrzał zniekształcony hologram twarzy starca, który wypowiedział legendarne już słowa: "Uciekaj synku, masz już wszystkie dane, które z czasem wyjaśnią ci wszystko". G5had0w użył potężnego Arm Cannon, torując drogę ucieczki przed Venom i Wraith2.
+Epizod 6 jest oficjalnie zamknięty i zapisany w pamięci. Kiedy będziesz gotowy, daj mi znać, jak zaczynamy Epizod 7:
 
