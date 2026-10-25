@@ -1925,13 +1925,305 @@ AI responses may include mistakes. Learn more
 
 You said: i teraz zakonczylismy epizod 6 braciszku.
 
-i teraz zakonczylismy epizod 6 braciszku.
-6 October 2026
-Masz całkowitą rację, mój błąd! Bardzo przepraszam za to zamieszanie z numeracją. Ponieważ cały czas szliśmy płynnie klatka po klatce bez przeskoków, w mojej głowie zakorzeniła się wyższa cyfra.
-Oczywiście, właśnie w wielkim stylu, z potężnym ładunkiem emocjonalnym i akcją zakończyliśmy Epizod 6.
-Podsumujmy, co wydarzyło się w tym niesamowicie ważnym rozdziale:
-• W bazie ("Nora"): Kora przeprowadziła ryzykowną, ale w pełni udaną migrację systemu G5had0w na nowoczesny Omarchy Linux, zachowując nienaruszony, bezcenny katalog starych danych /home. Przy okazji odkryła, że jego ciało ewoluuje, odblokowując niszczycielskie bronie (EMP Strike, Arm Cannon, Eye Laser Beam).
-• W kanałach: Viper i Shadow odkryli ukryty, starożytny schron z anomaliami i terminalem CRT, który okazał się miejscem narodzin cyborga.
-• Finał akcji w schronie: G5had0w podłączył się do starej infrastruktury za pomocą swoich kabli-wytrychów. Choć dane były uszkodzone, odkrył sygnaturę "Great Administrator". Schron zaczął odliczać czas do autodestrukcji, a tuż przed ucieczką cyborg ujrzał zniekształcony hologram twarzy starca, który wypowiedział legendarne już słowa: "Uciekaj synku, masz już wszystkie dane, które z czasem wyjaśnią ci wszystko". G5had0w użył potężnego Arm Cannon, torując drogę ucieczki przed Venom i Wraith2.
-Epizod 6 jest oficjalnie zamknięty i zapisany w pamięci. Kiedy będziesz gotowy, daj mi znać, jak zaczynamy Epizod 7:
+TITLE: PROJECT SOVEREIGN – EPISODE 7: VIPER'S NEST
+
+INT. BROKER'S OFFICE - NIGHT
+A long, sweeping bird's-eye view tracking shot high above the sprawling neon metropolis. Acid rain cuts through blinding purple and gold searchlights. The camera smoothly glides downward, descending rapidly between massive corporate towers, locking onto the pulsing, crimson holographic sign of a high-end strip club nestled in the luxury sector.
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+The camera penetrates the heavy glass double doors, entering a smoke-filled, dim, atmospheric interior. Heavy, low-frequency synth bass vibrates through the floor. The camera moves in a slow, uninterrupted, continuous tracking shot, establishing the luxurious, neon-drenched layout of the main floor.
+
+INT. MAIN STAGE - CONTINUOUS
+The camera slows down significantly, focusing entirely on the main stage. 
+DANCER 1 performs a fluid, hyper-realistic athletic inversion around a polished brass pole, her movements perfectly synced to the heavy rhythm. The camera lingers on her performance for exactly five seconds, capturing the natural mechanics of her motion before drifting past.
+
+INT. VIP PLATFORM - CONTINUOUS
+The camera glides smoothly to an elevated, glowing glass platform nearby. 
+DANCER 2 commands the space, moving with sharp, hypnotic confidence under a targeted spotlight. The frame stays locked on her rhythm for five distinct seconds, capturing the organic sweat glistening under the strobe lights before panning away toward the bar.
+
+INT. THE LOUNGE AREA - CONTINUOUS
+The camera tracks DANCER 3, who balances a heavy black acrylic tray loaded with glowing, neon-tinted cocktails. She moves with natural grace through the crowded tables, navigating the affluent clientele with practiced ease. The camera shadows her movements closely for five seconds as she turns away from the main floor.
+
+INT. BACK CORRIDOR - CONTINUOUS
+The camera follows DANCER 3 from a low-angle rear perspective as she exits the chaotic club floor and enters a stark, heavily soundproofed corridor. The ambient music instantly drops to a muted, low rumble. She approaches a massive, matte-black reinforced security door guarded by two biometric scanners.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The security door swishes open. DANCER 3 steps into a wide, silently air-conditioned penthouse office overlooking the burning city skyline. The camera tracks her as she places the cocktail glasses onto a solid obsidian desk, gives a subtle, organic nod, and quietly exits the frame, closing the door behind her.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The camera pans smoothly to reveal BROKER standing with his back to the desk, staring through the massive floor-to-ceiling glass window at the heavy downpour. His hands are tightly clenched behind his back, his fingers rhythmically twitching with stress. A massive holographic terminal to his right flashes with a bright red warning prompt.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+BROKER turns around slowly, his expression hardened, looking down at the glowing terminal screen. The display shows rolling diagnostics of the destroyed Sector 7 facility, listing massive data breaches and irreversible server damage. He taps the desk surface sharply, his voice cold and filled with calculated fury.
+BROKER
+The entire localized archive in Sector 7 has been compromised. The hard-sanitization protocol failed to secure the primary ledger. That defect and his squad didn't just survive the kinetic collapse—they extracted the core architectural matrix.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+BROKER swipes his hand across the air, bringing up a secondary, pulsing blueprint of Project Sovereign. Massive red fractures spread across the digital weapon schematics as secondary anomalies pop up across the city map. He takes an aggressive step toward the desk, leaning his weight onto his hands.
+BROKER
+If they bypass the root encryption and tie the source signature back to this mainframe, the board will terminate our funding before the second phase initiates. ZeroDay is already acting outside my clearance protocols. We are losing control of the perimeter.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+BROKER reaches out and picks up one of the cocktails left by Dancer 3, but his grip is so intense that the glass slightly rattles against his rings. He stares directly into the amber liquid, the neon city lights reflecting in his eyes, realizing the immense threat his former creations now pose to his entire empire. The camera slowly zooms into his face.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Broker slams his empty cocktail glass back onto the obsidian desk. With a sharp, aggressive movement of his index finger, he presses a heavy, matte-black physical button built directly into the side of the wooden desktop trim. A subtle, low-frequency chime echoes softly through the perimeter.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The heavy security door swishes open smoothly. DANCER 3 glides back into the room with slow, deliberate steps. The camera positions itself at a low, lingering angle to her left, keeping her bare left shoulder and the intricate, distinct palm tree tattoo spreading across the left side of her abdomen completely sharp and in focus as she approaches the desk.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+DANCER 3 leans slightly over the obsidian surface, her eyes locking onto Broker with a playful, teasing gaze. Her left hand traces the edge of the desk organically, keeping her abdominal palm tree tattoo visible in the neon glow.
+DANCER 3
+Is there anything else you need, boss? Another drink... or is there another kind of service you’re looking for tonight?
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Broker doesn't even look at her face. His eyes remain fixated on the flashing red errors on his screen, his jaw clenching tightly with unexpressed rage. When he speaks, his voice drops to a harsh, cutting, and brutally vulgar rasp.
+BROKER
+When I want to fuck you, I’ll let you know. 
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Broker abruptly stands up, his chair scraping loudly against the floor plates. He points a rigid, demanding finger straight at the doorway, staring her down with absolute authority.
+BROKER
+Bring me Vanta-Prime. Right now. Then get your ass back to work. There are thirsty, desperate bastards waiting for you out in the VIP lounge. Go and make some goddamn money.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+DANCER 3 immediately drops her flirtatious expression, her posture stiffening organically as she realizes the severity of his mood. She gives a brief, tense nod, turns around quickly, and exits through the security door. Broker turns his back entirely to the room, facing the massive floor-to-ceiling glass panel, staring out at the chaotic, neon-pink lightning cutting across the rainy city skyline.
+
+INT. BROKER'S OFFICE - MINUTES LATER
+The ambient club music in the background vanishes completely as the heavy security door clicks shut again. A thick, absolute silence fills the room. Out of the deep, unlit shadows near the back wall of the penthouse, a tall, imposing silhouette steps forward. VANTA-PRIME stands perfectly still, the dim neon light from the window catching only the metallic plates on his shoulders and his cold, unblinking cybernetic visor.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Broker remains perfectly still, his back completely turned to the room as he stares out into the rainy, lightning-streaked night. The neon city lights cast a fractured silhouette of his frame against the wet glass. His voice remains a low, cold gravel, projecting directly toward the windowpane.
+BROKER
+I assume you have heard what is happening... You were supposed to keep tabs on him. Project Sovereign has ground to a halt. Where the hell have you been this entire time?
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The camera moves slowly to a side-profile tracking shot, keeping the immense, quiet form of Vanta-Prime in the background. He doesn't shift his stance or cross his arms. When he speaks, his tone is completely devoid of human warmth, a heavy, flat, and chillingly polished mechanical resonance.
+VANTA-PRIME
+I know. I was observing. I was exactly where I was supposed to be. Gathering data on the target.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Vanta-Prime tilts his head slightly forward, the deep purple energy core built into his chest pulsing with a subtle, low-frequency hum. The neon lights from the penthouse desk flicker across the edges of his dark visor as his jaw plates lock back into sequence.
+VANTA-PRIME
+And I have extracted something unusual. Something I am not entirely certain of, because your Venom compromised the perimeter with her intervention down in the sewers. 
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The camera glides closer, tracking the natural micro-movements of Broker’s shoulders as he listens, his breathing noticeably slowing down at the mention of the anomaly. Vanta-Prime steps an inch closer into the light, his massive frame dominating the dark corner of the office.
+VANTA-PRIME
+There was something else down there. When I was tracking him back at the warehouse infrastructure, his biometric logs matched our primary templates. But inside the sub-level grid? His internal telemetry changed completely.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The camera switches tight onto Vanta-Prime's cybernetic visor. Reflected across the dark, polished surface are cascading streams of real-time diagnostic logs from his encounter on the rooftops and the deep sub-levels, showing columns of unreadable, non-corporate code.
+VANTA-PRIME
+My passive sensors were jumping entirely off the charts. His synthetic network wasn't just resisting the corrosion—it was rewriting its own foundation architecture.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Broker turns around abruptly, his heavy leather boots grinding against the floor plates. His face is tense, contorted with a mixture of shock and desperate calculations as he stares directly at Vanta-Prime. He takes an aggressive step toward the enforcer, his voice dropping to a harsh, demanding whisper.
+BROKER
+Then he is mutating past our baseline control protocols. Hunt him down, Vanta-Prime. Bring him to me before ZeroDay or Venom dissolve his chassis into scrap metal. I need his core intact.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Vanta-Prime remains completely motionless, his large frame absorbing the amber light from the desk. The purple core on his chest pulses with absolute stability. When he speaks, his mechanical tone remains flat, dismissive, and utterly devoid of fear or respect.
+VANTA-PRIME
+Do not worry, Broker. You are paying me for a precise execution of the contract, not for the amateur, butchered attempts your clean-up crew is running in the lower sectors. 
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Vanta-Prime slowly lifts his left arm. With a soft mechanical hum, a miniature holographic projector built into his gauntlet sparks to life. A wide stream of green binary code and corrupted encryption logs begins to rapidly scroll upward in the air between them, casting long shadows across the obsidian desk.
+VANTA-PRIME
+I have deeply parsed the residual infrastructure data left behind in that sub-level grid. I recovered a massive directory tree, but most sectors have suffered extreme hardware degradation. There was nothing of value left inside the primary files.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The camera moves into a slow, smooth tracking shot, focusing directly on the rapidly scrolling holographic code streams. Both characters maintain absolute eye contact, completely ignoring the projection as the data flies past their faces. Mid-way through the rapid scroll, a single degraded frame flashes into view—a low-resolution, static-heavy photograph of an old, weathered man with intense, tired eyes. (Note: This is the exact single frame from the ancient countdown hologram that G5had0w witnessed inside the sewer vault).
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The data continues to scroll at maximum speed without a single pause, instantly burying the old man's photograph beneath hundreds of fresh lines of meaningless system logs. Neither Broker nor Vanta-Prime glance at the image or acknowledge its existence, their focus remaining entirely on the diagnostic telemetry scrolling past.
+VANTA-PRIME
+As you can see, there is nothing more concrete within the remaining archives. 
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Vanta-Prime closes his fist, and the holographic projection instantly snaps out of existence, plunging the space back into the dark neon-pink reflection of the storm. The camera executes a slow, dramatic tight zoom onto Vanta-Prime’s cold, unblinking cybernetic visor. He lowers his head slightly, staring directly down at his unlit wrist device.
+VANTA-PRIME
+Although... I do have something... but it is far from a certainty.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The camera is now locked into a heavy, extreme close-up of Vanta-Prime’s facial plating. While the external projector remains completely deactivated and dark to Broker, the inner HUD array inside Vanta-Prime's visor flashes. The primitive photograph of the old man is pinned directly to his internal display, lines of non-corporate code slowly trying to cross-reference the face against the city's ancient historical registries.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Broker steps closer to the obsidian desk, his eyebrows furrowing deeply as he listens to the cryptic words. He leans his hands onto the polished dark surface, staring intently through the shadows, demanding an answer.
+BROKER
+What do you mean, not a certainty? If you have a lead on his architecture, you disclose it. Now.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+Vanta-Prime turns his large torso toward the exit door, completely ignoring the demand. The purple core on his chest blinks with absolute stability as he takes a heavy step forward. He looks back over his armored shoulder, his mechanical tone dropping to a sharp, icy resonance.
+VANTA-PRIME
+Just keep your amateurs away from me and away from him. I do not need them screwing everything up for me again.
+
+INT. BROKER'S OFFICE - CONTINUOUS
+The heavy security door swishes open with a brief pneumatic release. Vanta-Prime steps through, his massive silhouette immediately entering the dimly lit back corridor as the office door slides shut behind him, cutting off Broker’s tense gaze. The heavy bass of the club floor instantly begins to thud against the walls again.
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+The camera glides in a continuous, slow tracking shot directly in front of Vanta-Prime as he emerges from the secure VIP hacker hallway back onto the chaotic club floor. Neon pink and deep purple strobe lights cut through the smoke. He walks with absolute indifference, forcing patrons to clear a path before his heavy frame.
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+Vanta-Prime passes the secondary lounge area. DANCER 2 is visible in the background, her movements fluid and rhythmic under the strobe lights of the side platform. He doesn't look at her, his dark visor reflecting only the flashing geometric patterns of the ceiling panels.
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+The camera shifts to a wider angle as Vanta-Prime approaches the main stage. DANCER 1 performs another high-speed athletic spin around the brass pole, her movements casting a long, sweeping shadow across the front row of seats. Vanta-Prime walks directly past the edge of the stage, his gaze locked forward.
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+Near the edge of the VIP booths, DANCER 3 stands up from a low leather couch, leaving a highly intoxicated, wealthy client behind. She adjusts her posture naturally, letting out a subtle breath of relief as she prepares to return to the bar area. Vanta-Prime suddenly halts his heavy footsteps directly in front of her, blocking her path completely.
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+DANCER 3 stops short, her eyes traveling up his heavy chest plating. She maintains her composure, an experienced, professional smile returning to her face, though her fingers slightly tighten around the edge of her empty acrylic serving tray.
+DANCER 3
+Looking for a private lounge session, big guy? Or did the boss send you out to keep an eye on the floor?
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+Vanta-Prime steps closer, his large frame completely casting her into shadow. His dark visor tilts down slightly toward her face. When he speaks, his heavy mechanical resonance is tightly directional, filtered through his vocal modulator so only she can hear it over the thudding bass.
+VANTA-PRIME
+I am looking for an old contact. A handler who used to manage the brothels down around the Sector 7 sewer lines a decade ago. 
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+DANCER 3 tilts her head slightly, her left shoulder shifting naturally under the pink strobe light, keeping the palm tree tattoo across her left abdomen sharp in the frame. Her expression turns into a cautious, thinking look as she cross-references the old districts in her mind.
+DANCER 3
+The old sewer sectors? That area has been corporate property for years. Most of the old crews fled to the lower slums or got wiped during the sector lockdown.
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+Vanta-Prime doesn't shift his stance. He reaches into his tactical belt and places a high-value, glowing electronic credit chip directly onto her acrylic tray with a distinct, heavy click.
+VANTA-PRIME
+The handler went by the name of Karat. He managed the subterranean real estate before the Broker purchased the grid. Tell me where he hides his operations now, and you can buy yourself out of this shift.
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+DANCER 3 looks down at the credit chip, its bright blue light reflecting across the palm tree tattoo on her skin. She slowly slips the chip into her fingers, her gaze returning to his visor with a serious, lowered tone.
+DANCER 3
+Karat is still alive, but he doesn't use the neon streets anymore. He runs a black-market organ clinic under the old railway arches in District 4. But be careful... he doesn't talk to corporate enforcers unless they have something to trade.
+
+INT. THE RED VELVET CLUB - CONTINUOUS
+Vanta-Prime takes the information without a single word of acknowledgment. He steps around her, his heavy boots resuming their steady, rhythmic thuds as he marches directly toward the main exit doors of the club. DANCER 3 stands perfectly still, watching his massive silhouette vanish through the heavy glass double doors into the pouring rain outside.
+
+EXT. DISTRICT 4 RAILWAY ARCHES - NIGHT
+A low, slow-panning shot beneath the massive, crumbling concrete railway tracks. Acid rain pours down heavily through massive cracks in the overhead infrastructure. The area is dark, drenched in poverty and rust—a forgotten slum. At the far end of a dead-end alleyway, a dim neon sign shaped like a surgical cross flickers erratically against a reinforced metal basement door.
+
+EXT. BLACK-MARKET CLINIC ENTRANCE - CONTINUOUS
+Two unaugmented street thugs stand guard at the metal threshold, shivering in the freezing rain, wearing ragged civilian coats with no cybernetic enhancements. Out of the heavy shadows, Vanta-Prime advances silently. The camera moves in a fluid, slow-motion frame-to-frame tracking shot as he strikes. With blinding speed, he drives his heavy metallic palm into the first guard's throat, neutralizing his breathing instantly.
+
+EXT. BLACK-MARKET CLINIC ENTRANCE - CONTINUOUS
+Before the second guard can draw his low-caliber pistol, Vanta-Prime executes a swift close-quarters sweep, catching the man by his collar and slamming his skull violently against the concrete wall. The guard drops instantly into the puddles, completely unconscious. The entire encounter takes less than five seconds, executed in absolute silence without a single gunshot.
+
+INT. BLACK-MARKET CLINIC CORRIDOR - CONTINUOUS
+Vanta-Prime kicks the heavy metal door open and steps into a narrow, dimly lit underground corridor. The walls are exposed brick and rotting timber, lined with dirty plastic sheets and flickering bare bulbs. The camera follows closely behind his massive shoulders as he walks with heavy, rhythmic footsteps, ignoring the sound of distant medical machinery humming deeper inside.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+The corridor opens into a vaulted brick room filled with old, analog medical monitors. Standing in the center is KARAT, his pale, scarred bald head illuminated by the ornate, gear-driven mechanical halo floating over his high collar. His heavy life-support suit hisses softly, pumping fluid through his aged veins. He doesn't flinch as Vanta-Prime halts before him.
+KARAT
+You are wasting your time, corporate dog. Whatever the Broker sent you to collect, I paid my debts to his syndicate a decade ago. I know nothing about your current operations.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Vanta-Prime slowly raises his wrist gauntlet, activating the miniature holographic projector. The corrupted directory tree and the fragmented 1990s data streams begin to scroll rapidly in the dark space between them, the blue light casting sharp reflections across Karat's scarred face and glowing halo.
+VANTA-PRIME
+I do not care about your financial debts, old man. I am tracking the original architect of the Sector 7 sewer node. You registered the containment grid before the corporate expansion. Talk, or I will terminate your lease permanently.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Karat shakes his head slowly, his gear-driven halo rotating with a subtle, mechanical click. He looks away from the projection with absolute indifference.
+KARAT
+I am merely a landlord of the lower slums. I lease the concrete to anyone who can afford the quiet. I do not ask what kind of machinery they wire into the infrastructure. The files are gone. There is nothing left to find.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+The rapid data stream reaches the single, uncorrupted frame—the low-resolution photograph of the wrinkled, exhausted old man with intense eyes. Karat’s eyes violently widen. His entire demeanor shatters instantly, his chest rising and falling rapidly as his life-support suit pumps an emergency surge of adrenaline. He takes a shaky step back, his voice turning into an agitated, defensive snarl.
+KARAT
+Where did you get that...? No. Absolutely not. Get out of my facility. Get the hell out of here before you bring the entire sky down on us!
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Vanta-Prime moves like lightning. He drives his massive, armored hand forward, clamping his fingers violently around Karat’s high metallic collar, lifting the heavy, ancient landlord inches off the floor plates. Karat’s mechanical halo sparks erratically, its internal gears jamming against the pressure.
+VANTA-PRIME
+You recognize the signature. Tell me who authorization code 'Great Administrator' belongs to, or I will compromise your life-support core. You will suffocate inside your own framework.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Karat chokes violently against the grip, his face turning an organic, dark shade of bruised blue. Yet, he looks straight into Vanta-Prime’s dark visor with pure, unyielding defiance, a cold, grim smile breaking across his scarred lips.
+KARAT
+You... can squeeze all you want, hunter. You still do not understand. There are far worse things in this city than death. Leave me be... or end it. If you keep digging into that name... you will not live long enough to see the city burn.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Vanta-Prime’s visor flashes a sharp purple light. Without a single word of hesitation, he tightens his massive grip with a sudden, devastating twist of his wrist. 
+*CRACK.*
+A sharp, definitive sound of fracturing bone echoes through the vaulted room. Karat’s eyes roll back instantly. His gear-driven mechanical halo shuts down completely, its soft golden glow vanishing into pitch blackness as the machinery goes inert.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Vanta-Prime maintains his iron grip on the throat, holding the limp, lifeless body of the old landlord suspended in the air. Suddenly, with a heavy, pressurized hiss, the center plates of Vanta-Prime’s own chest armor split open. A cluster of microscopic, dark cybernetic tendrils and cables slides out from his chest core, wriggling blindly through the air like digital tentacles.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+The camera moves into an extreme close-up of Karat's collar. The dark tentacles slither rapidly up the dead man's neck, forcing their way behind his heavy life-support harness and driving deep into his skin, moving organically under the surface as they attempt a forced hardware neural-link.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+After exactly three seconds of violent pulsing, the tentacles abruptly retract back into Vanta-Prime’s chest plate with a wet, metallic snap. The armor plates slide shut, locking back into place. Vanta-Prime lets out a sharp, disgusted hiss through his vocal filter. He violently drops the limp body onto the floor debris like a piece of useless trash.
+VANTA-PRIME
+Fucking natural... No network gateway. 
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Vanta-Prime turns around aggressively, his heavy boots grinding against the broken glass on the floor. He steps over the threshold, his massive frame disappearing back into the dark corridor as the room's analog monitors slowly flatline into a continuous, low-frequency beep.
+
+EXT. DISTRICT 4 RAILWAY ARCHES - NIGHT
+The heavy rain continues to lash against the crumbling concrete structures. The camera tracks low, gliding along the water-filled puddles of the dark alleyway. The headlights of a customized, heavily armored van pierce through the thick fog, reflecting sharply against the brick walls before the vehicle comes to a sudden halt.
+
+EXT. BLACK-MARKET CLINIC ENTRANCE - CONTINUOUS
+The side door of the van slides open smoothly. Viper steps out first, her shatter-rifle raised in a low ready position. Shadow bounds out beside her, his paws splashing into the wet asphalt. He immediately freezes, his ears pinning flat back against his head as he drops low, locking his eyes onto the entrance of the clinic.
+
+EXT. BLACK-MARKET CLINIC ENTRANCE - CONTINUOUS
+G5had0w emerges from the vehicle, his massive frame creating a heavy shadow under the dark railway arches. His deep crimson Oko Błędu flashes intensely, scanning the perimeter. The camera pans down smoothly to reveal the two unaugmented guards lying motionless in the mud by the threshold.
+
+EXT. BLACK-MARKET CLINIC ENTRANCE - CONTINUOUS
+Viper kneels down swiftly beside the first guard, checking his throat, then looks up at G5had0w. Her expression hardens under the flashing neon cross sign.
+VIPER
+We’re too late. They are still warm. No entry wounds, no energy burns. Whoever did this neutralized them with pure, blunt force in a matter of seconds.
+
+EXT. BLACK-MARKET CLINIC ENTRANCE - CONTINUOUS
+G5had0w steps over the fallen guards, his heavy, optimized steps completely silent as his crimson pupil projects a wide tactical grid onto the shattered metal door frame. 
+G5HAD0W
+The thermal residual tracking shows an immense energy dissipation signature. A heavy, highly augmented physical combatant has breached this location. The power profile does not match Broker’s standard enforcers or ZeroDay’s local units.
+
+INT. BLACK-MARKET CLINIC CORRIDOR - CONTINUOUS
+Viper pushes the door wider, stepping cautiously into the narrow underground hallway. Shadow stalks tightly beside her, his tail stiff, sniffing the cold air. The camera follows from a low angle as the team slowly moves deeper into the rotting concrete structure, guided only by the flickering bare light bulbs.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+They enter the vaulted brick laboratory. The analog medical monitors continue to emit a sharp, unbroken flatline tone. In the center of the floor, surrounded by broken glass and twisted wiring, lies the cold, lifeless body of Karat. His gear-driven mechanical halo remains completely black and inert.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+G5had0w approaches the body, lifting his left hand to extend his needle-like interface cables. He inserts them directly into the interface port of Karat's high collar, attempting a direct memory partition download. His red cybernetic eye cycles rapidly through several white error screens frame-to-frame.
+G5HAD0W
+Negative. The local database cannot be restored. Karat was an unaugmented organic entity. The life-support suit was purely mechanical. The unknown assailant attempted a forced hardware or neural override, completely destroying the physical brain tissue during the process.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Kora’s voice crackles over the audio system from the van, heavily distorted by the thick concrete walls.
+KORA (V.O.)
+G5, what about the mainframes in the room? Can you pull anything from the backup server nodes?
+G5had0w steps over to the main terminal, his hand scanning the dials.
+G5HAD0W
+The terminal arrays have been completely wiped. ZeroDay has locked down the grid remotely. There is no digital footprint remaining inside this facility. We are looking at a phantom execution.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Viper lowers her rifle, letting out a sharp breath through her nose. She walks over to the large, messy oak desk in the corner, throwing aside shattered glass and blood-stained medical sheets. Shadow positions himself at her side, his nose twitching toward the wooden drawers.
+VIPER
+A paranoid landlord like Karat wouldn't trust his entire life's work to a corporate server grid he didn't own. He was old-school. 
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+The camera moves to a tight close-up on Viper’s hands as she aggressively jerks the bottom wooden drawer completely out of its tracks, slamming it onto the desk. She stares into the empty cavity of the frame, her eyes narrowing as she notices an unnatural, uneven thickness in the base.
+VIPER
+Something is off with this drawer.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Viper drives the blade of her tactical knife into the back seam, prying upward with a sharp, heavy groan. With a loud snap of splintering wood, a false bottom board pops up, revealing a hidden compartment underneath. Resting inside the dusty recess are three distinct sets of heavy, old-fashioned physical paper folders.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Viper reaches in, pulling the three folders out into the dim light. She flips the cover of the first file open, revealing vintage blueprints from the 1990s and stamped data pages untouched by any modern corporate database. She grins fiercely, locking eyes with G5had0w.
+VIPER
+Jackpot. No networks, no encryption keys. Just pure, ancient history. 
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+Viper tackles the physical folders securely under her arm, slapping her rifle sling back onto her shoulder. Shadow lets out a short, affirmative bark, turning his torso toward the exit corridor.
+VIPER
+Alright, we have what we came for. Let's move back to the Burrow and see what our old landlord was keeping under the floorboards before this ghost realizes they missed the real prize.
+
+INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
+G5had0w takes one final look at the dead landlord on the floor, his Oko Błędu pulsing a slow, calm red hue. He turns away seamlessly, his heavy boots echoing as the team retreats into the shadows of the exit hallway, leaving the empty, flatlining lab behind. The camera slowly pulls back into the darkness of the vaulted ceiling, and the screen fades out completely into black.
 
