@@ -2227,3 +2227,176 @@ Alright, we have what we came for. Let's move back to the Burrow and see what ou
 INT. KARAT'S PRIVATE CHAMBER - CONTINUOUS
 G5had0w takes one final look at the dead landlord on the floor, his Oko Błędu pulsing a slow, calm red hue. He turns away seamlessly, his heavy boots echoing as the team retreats into the shadows of the exit hallway, leaving the empty, flatlining lab behind. The camera slowly pulls back into the darkness of the vaulted ceiling, and the screen fades out completely into black.
 
+
+🎬 Pełny Rozkład Scen i Czasu (Epizod : 00:00 - 22:00):
+
+• 00:00 - 04:00 [NOWOŚĆ - PROLOG]: Baza „Nora”. Analiza profilu Vasha. Kora wpada na pomysł skontaktowania się ze swoimi dawnymi znajomymi z podziemia – Gestalt i Acolyte. Viper ładuje broń, Shadow zostaje z Korą, a G5had0w przygotowuje się do misji.
+• 04:00 - 07:30: Narada w podziemiach slumsów u Gestalt i Acolyte. Szpiegowskie raporty, podejrzliwy wzrok Oracle i niespodziewane dołączenie Nyx7.
+• 07:30 - 12:00: Infiltracja wieży. Atak EMP G5had0wa, pusta winda i dramatyczna, przedłużona walka Nyx7 vs. Wraith_Helm na miecze i ukryte blastery.
+• 12:00 - 16:30: Starcie na wyższym piętrze. Brutalna, wycieńczająca walka wręcz G5had0w vs. Lotus. Krytyczne przeciążenie obwodów i niszczycielski, czysty Laser Beam rozrywający tył drapacza chmur.
+• 16:30 - 20:00: Aula przed apartamentem. Uruchomienie zasilania awaryjnego. ROOT Shield G5had0wa kontra szał bojowy Viper, która rozrywa szybkie drony.
+• 20:00 - 22:00: Roztrzaskanie wrót i wejście do luksusowego apartamentu. Biały garnitur Vasha na brązowej sofie, Noemi i jej tatuaże. Lodowate, bezwzględne otwarcie konfliktu.
+
+TITLE: PROJECT SOVEREIGN – EPISODE : THE CORTEX BREACH
+
+
+INT. HEROES' HIDEOUT ("THE BURROW") - NIGHT [00:00 - 01:15]
+
+Heavy rain howls through the exhaust vents of the hideout, the steady rhythmic drops echoing against concrete walls. Kora sits hunched over her primary terminal, her face illuminated by the bright gold profile of Vash spinning on the holographic wall. Behind her, Viper is aggressively slamming a fresh magazine into her shatter-rifle, while Shadow rests his heavy chin on his paws, his tail giving a low tap against the floor. G5had0w stands completely inert in the corner, his newly configured Omarchy Linux arm throwing off faint cooling clicks.
+VIPER
+(wiping a smear of grease off her rifle barrel)
+Vash is a corporate fortress. He’s got forty floors of dedicated fiber-optic counter-measures and an independent defense grid. We can't just drive the van through his front lobby without getting pulverized by corporate mechs.
+KORA
+(typing rapidly, bypassing automated system warnings)
+We can't hack him from here either. His personal suite runs on an air-gapped cortex loop. But... I know the structural layout of that sector's under-grid. Before I built this node, I used to service hardware components for the people who actually run the lower slums.
+
+INT. HEROES' HIDEOUT ("THE BURROW") - CONTINUOUS [01:15 - 02:30]
+
+Kora pulls off her haptic gloves, turning around sharply in her swivel chair to lock eyes with Viper and G5had0w.
+KORA
+Gestalt and Acolyte. They control the black-market information flow beneath District 4. Their sub-net spies service the corporate high-rises every single night. If anyone has the physical maintenance blueprints to Vash's private elevator shafts, it's them.
+VIPER
+(smirking, clicking the safety back on)
+The underground royalty. I’ve heard of them. Rough crowd, but they hate corporate krawaciarze even more than I do. G5, wake your sub-routines up. We’re taking a trip to the deep slums.
+KORA
+Shadow stays here with me in the van to guard the mobile relay line. If ZeroDay tries to lock down the city block, I’ll need the dog's senses to monitor the physical perimeter.
+G5had0w steps out of the shadows, his karminowe Oko Błędu pulsing with absolute, smooth clarity as his chest plates realign with a firm metallic hiss.
+G5HAD0W
+The Omarchy database is primed. Initiating route calculation to the District 4 sub-level.
+
+INT. GESTALT'S REWIR - SUB-LEVEL SLUMS - NIGHT [02:30 - 04:00]
+
+The scene cuts directly to a dripping, subterranean concrete bunker deep beneath the lower slums. The air is thick with chemical smog and the stench of burning oil. In the center of the damp room, Gestalt sits behind a chaotic wall of low-frequency monitoring decks, her fingers tapping lazily against a cracked interface pad. Next to her, her husband Acolyte stands with folded arms, watching columns of stolen encrypted corporate logs scroll upward.
+Standing perfectly motionless in the deep shadows behind them is Oracle. She says absolutely nothing, her arms resting flat against her sides. Her deeply suspicious, unblinking gaze remains locked entirely on G5had0w's frame, tracking every micro-adjustment of his bionic shoulder with predatory caution.
+ACOLYTE
+(voice a rough, gravelly low register)
+Vash doesn't live like the rest of the board. He turned the top three residential tiers of the central tower into an automated quarantine zone. Our inside cleaners managed to smuggle out the maintenance circuit paths, but the grid is locked by active military protocols.
+VIPER
+(leaning against a concrete pillar, checking her rifle magazine)
+We’re not looking to sign a lease, Acolyte. We just need the maintenance elevator codes.
+
+INT. GESTALT'S REWIR - SUB-LEVEL SLUMS - CONTINUOUS [04:00 - 05:30]
+
+Gestalt turns around slowly, her posture radiating absolute authority over the lower slums. She slides a heavy, ancient data-slate across the scratched metal table toward Viper.
+GESTALT
+The logistics elevator bypass is loaded. But Vash’s personal security network doesn't run on the corporate grid—it’s an independent, closed-loop matrix. If you trip a single hardware pressure sensor, the automated hunter drones will seal the sector before you clear the loading bay.
+Out from the dark exit corridor steps Nyx7. She seamlessly slips a heavy, high-frequency vibro-blade into her tactical chest harness. She stops right beside the table, her disciplined expression hardening as she catches G5had0w's eye. She looks down at the newly realigned armor plating on his left arm, her szorstki mask barely concealing the deep, unspoken affection she has carried for him since the lower slums blackouts.
+NYX7
+(grinning faintly, eyes locked on G5had0w)
+You look different, cyborg. Upgraded. Let's see if that new system of yours can actually keep up with me in a real fight.
+G5HAD0W
+(voice resonant, flawless digital clarity)
+The transition is absolute. Operational efficiency is at maximum throughput.
+
+INT. SKYSCRAPER TOWER - AUXILIARY SUB-STATION - NIGHT [05:30 - 07:00]
+
+The scene cuts directly to the pitch-black maintenance basement of Vash's corporate high-rise. Heavy rain howls through the ventilation shafts overhead. G5had0w stands before the primary high-voltage terminal rack, his left bionic hand entirely split open. The microscopic, needle-like interface cables—his cyber-wytrych—are wriggling violently like digital tendrils, forced deep into the copper power conduits.
+KORA (V.O.)
+(through comm-link, static-heavy from the van outside)
+G5, the power load is stabilizing, but the feedback loop is going to hit your core chassis like a freight train. You've got exactly one shot to cook the entire sector grid.
+G5had0w clenches his right human hand, his jaw plates locking into place with a definitive metallic snap. His karminowe Oko Błędu erupts into a blinding, intense red flare.
+G5HAD0W
+Deploying maximum hardware parameters.
+(shouting through a digital bass filter)
+CHMOD 777! INITIATING EMP STRIKE!
+
+INT. SKYSCRAPER TOWER - LOGISTICS ELEVATOR BAY - CONTINUOUS [07:00 - 08:30]
+
+A colossal, blinding dome of blue and crimson electrical energy violently erupts directly from G5had0w’s chest generator. The shockwave surges through the terminal walls, violently vaporizing the circuit boards in a cascade of white sparks. Instantly, every streetlight, security camera, and automated defense mech across the entire city block dies. The tower is plunged into total darkness, illuminated only by the amber emergency beacons spinning on the ceiling.
+Viper and Nyx7 move like ghosts through the dim amber light, their heavy boots splashing through the water on the floor plates as they approach the heavy logistics elevator gates.
+VIPER
+(forcing her hydraulic crowbar into the seam of the heavy gates)
+G5! Wires are dead! Give me a hand!
+G5had0w steps forward, his smoking titanium shoulder frame groaning as his Kinetic Pięść forcefully drives between the steel panels, wrenching the heavy elevator doors completely off their tracks with a scream of tearing metal.
+
+INT. SKYSCRAPER TOWER - ELEVATOR SHAFT - CONTINUOUS [08:30 - 10:00]
+
+The lift car is completely empty. The plush velvet seats inside are pristine. Kora’s primary operational plan has entirely collapsed—Noemi changed her mind at the last second, remaining topside inside Vash’s private sanctuary.
+VIPER
+(staring into the empty car, teeth gritted)
+Damn it! She’s not here. The bird didn't fly down.
+Suddenly, a heavy, synchronized metallic thud echoes from the concrete scaffolding directly behind them. Out from the shifting amber shadows steps Wraith_Helm. His heavy tactical armor plates reflect the emergency light, and his high-frequency energy blade activates with a deafening, electric hiss that slices through the damp air. He catches the team completely exposed, cutting off their only retreat.
+WRAITH_HELM
+(voice filtered through a dark vocal modulator)
+Intruders identified. Mainframe security breached. Termination sequence active.
+
+INT. SKYSCRAPER TOWER - LOGISTICS ELEVATOR BAY - CONTINUOUS [10:00 - 11:30]
+
+Wraith_Helm lunges forward with terrifying speed, his energy blade cutting a lethal horizontal path toward G5had0w’s neck. Before the blow can connect, Nyx7 violently shoves G5had0w and Viper toward the secondary mechanical access stairwell behind the elevator shaft.
+NYX7
+(drawing her dual high-frequency vibro-blades with a swift metallic ring)
+Go! Move up the tiers! He’s mine!
+Nyx7 steps into the frame, her dual blades deflecting Wraith_Helm’s heavy downward strike in a brilliant, continuous shower of friction sparks that illuminates the dark concrete loading dock. The camera locks onto their extended, hyper-realistic sword duel. Nyx7 ducks a ferocious backhand slash, her body spinning organically as she drives her left blade into the gap of his ribs, sheering off a piece of his side armor.
+Wraith_Helm bellows in digital distortion. Realizing he is being out-maneuvered by her fluid speed, he breaks combat etiquette, stepping back into the shadows to aggressively rack the bolt of a heavy plasma blaster hidden in his hip harness.
+Nyx7 catches the micro-movement instantly. Instead of retreating, she triggers an explosive grappling line from her right wrist gauntlet. The cable wraps around a loose steel ceiling ventilation duct directly above his head. With a fierce, organic jerk of her shoulders, she tears the massive structure down. The heavy metal duct crashes onto Wraith_Helm's skull, shattering his optical visor. Before he can recover, Nyx7 lunges through the smoke, driving her primary blade clean through his chest capacitor core. White sparks erupt from his spine as his systems go completely inert, collapsing onto the floor plates.
+
+INT. RESIDENTIAL TIER - CORRIDOR - NIGHT [11:30 - 13:00]
+
+Viper and G5had0w burst through the heavy reinforced access doors onto the secondary residential security tier. The air here is freezing, choked with dust from the lower explosions. Before they can advance toward the upper private elevators, a massive silhouette blocks the corridor.
+Lotus stands in the center of the hall, his active kinetic suppression staff humming with a dangerous, unstable white energy field.
+LOTUS
+(stepping forward, spinning the staff with hypnotic speed)
+You are not cleared for the upper executive levels. Absolute non-compliance will be met with physical erasure.
+G5had0w does not hesitate. He drops into a low combat stance, his internal cooling valves whining loudly as he charges directly into a brutal, exhausting close-quarters brawl. Lotus moves with terrifying, augmented speed, his kinetic staff violently striking G5had0w’s unarmored titanium framework, creating deep, loud metallic dents with every impact.
+G5had0w counters with savage, hydraulic-powered punches, his fist cracking against Lotus's reinforced helmet plating. The camera tracks the raw, bone-crunching choreography frame-to-frame—no sudden cuts, just pure physical exhaustion as both augmented combatants rapidly deplete their energy reserves, gasping for breath, their synthetic joints smoking from the intense friction.
+
+INT. RESIDENTIAL TIER - CORRIDOR - CONTINUOUS [13:00 - 14:30]
+
+G5had0w is driven back to one knee, his internal warning arrays flooding his vision with critical data errors. SYSTEM INTEGRITY: 42%. CORE TEMPERATURE CRITICAL. Lotus raises his kinetic staff for a crushing, final downward blow straight toward the cyborg's skull.
+G5had0w's human teeth grit with pure, unyielding rage. The green log files from the 1990s block-flat storm flash violently across his red cybernetic pupil, completely overriding the modern Omarchy safety limit parameters.
+G5HAD0W
+(voice dripping with dangerous static and pure, deep mechanical resonance)
+I've had enough of you... and your play. Fuck it.
+G5had0w clamps both of his heavy metallic hands directly onto the outer edges of his own chest armor plating. With a loud, agonizing scream of tearing steel, he violently wrenches his outer chassis frames wide open, exposing the glowing, volatile labyrinth of micro-circuitry beneath.
+Deep within his exposed core, a blinding, chaotic mass of pure plasma energy violently accumulates, lighting up the entire concrete hallway like a dying star.
+
+INT. RESIDENTIAL TIER - CORRIDOR - CONTINUOUS [14:30 - 16:00]
+
+Instead of deploying his forearm cannon, the focal focusing lens built deep within his bionic Oko Błędu automatically aligns with the raw energy escaping from his open chest.
+A colossal, thick, and devastating beam of concentrated, pure plasma energy erupts directly through his left eye lens. The Laser Beam cuts through the darkness like liquid lightning. The sheer thermal intensity instantly vaporizes Lotus, melting his armor and weapons into harmless black soot in a fraction of a second.
+The beam doesn't stop. It tears straight through the reinforced concrete structure, the support pillars, and the heavy ballistic bulkheads behind the fallen guard—completely blowing the entire rear section of the corporate skyscraper wide open into the stormy night sky.
+The camera slowly pans across the massive, smoking crater. The freezing horizontal acid rain and howling gale-force wind instantly pour into the ruined hallway, scattering white ash across the floor. Viper stumbles back against the remaining wall, her eyes wide with absolute shock as she looks out into the vast, open skyline of the neon-drenched metropolis.
+VIPER
+(wiping thick soot off her face, panting heavily)
+What the actual fuck was that, tin-man?!
+G5had0w’s internal cooling vents fire with a massive hiss, exhausting a cloud of clean white steam as his chest pancerz plates smoothly slide back into place, realigning themselves under the Omarchy Linux system architecture.
+G5HAD0W
+I do not know. The Omarchy kernel executed an automated hardware override. I felt an absolute systemic necessity to channel the core load through the primary focusing lens.
+
+INT. GRAND PENTHOUSE LOBBY - NIGHT [16:00 - 17:30]
+
+They push up the final structural staircase, stepping out onto the expansive, polished marble floor of the grand penthouse lobby. Suddenly, the tower’s independent auxiliary power reserves violently kick back online. The ceiling lights flash white, and a loud, computerized alarm wails through the rafters.
+From the high-tech maintenance hatches in the ceiling, a fleet of Vash’s ultra-sleek, aerodynamic corporate drony drops into the air. They are incredibly fast, weaving through the architectural pillars like a swarm of hornets, their synchronized targeting lasers locking directly onto Viper’s chest.
+KORA (V.O.)
+(screaming through the comms)
+Viper! G5! The secondary auxiliary grid just bypassed my firewall! You've got an automated interceptor fleet on your position!
+G5had0w’s power cells are heavily drained from the eye laser, his joints sparking softly. He steps directly in front of Viper, extending his left bionic arm wide as his crimson eye flashes intensely.
+G5HAD0W
+Stand behind me. Deploying administrator parameters. ROOT Shield!
+A blinding, semi-translucent dome of organic crimson system energy erupts from his core, completely surrounding them. The circling drones instantly open fire, a continuous torrent of high-velocity blue laser rounds splashing harmlessly against the red shield, dissolving into crackling static electricity as G5had0w holds the defense line to regenerate his core energy banks.
+
+INT. GRAND PENTHOUSE LOBBY - CONTINUOUS [17:30 - 19:15]
+
+VIPER
+(grinning fiercely through her tactical mask, eyes wild)
+Keep that umbrella up, tin-man! I’m taking the trash out!
+While G5had0w anchors the nienaruszalna tarcza, absorbing the full brunt of the corporate fire, Viper utilizes her immense physical strength and combat instincts to track the erratic, lightning-fast trajectories of the drones. She steps timed out of the shield radius for a fraction of a second, racking the bolt of her shatter-rifle.
+BOOM. BOOM.
+She fires two precise, high-impact rounds, completely shattering the primary rotors of the two lead drones, sending them spinning into the marble walls. A third drone dives straight toward her face; Viper catches the machine by its wing frame with her bare hand, using her raw physical force to violently slam it into the concrete floor plates, crushing its chassis beneath her boot.
+She pivots fluidly, utilizing the heavy buttstock of her rifle to bat a final, high-speed surveillance unit out of the air like a baseball, the explosion showering the lobby in white sparks. The fire stops. The grand lobby falls dead silent, choked with the smell of scorched plastic and ozone.
+G5had0w lowers his arm, the crimson shield dissolving into the air as his power indicators return to a stable green status. He channels his surowa siła into his right leg, his hydraulics whining at maximum pressure. With a deafening pneumatic crash, he drives his boot straight into Vash’s reinforced penthouse security doors, tearing the heavy metal structure completely off its tracking rails and sending it flying inward.
+
+INT. VASH'S PENTHOUSE - CONTINUOUS [19:15 - 22:00]
+
+They step through the ruined threshold into a massive, sprawling, and hyper-luxurious open-floor apartment. The space is a masterpiece of high-end corporate minimalism—sleek glass art galleries, a pristine, modern kitchen filled with polished dark marble surfaces, and soft, indirect gold lighting that accentuates the luxury.
+Positioned precisely in the center of the vast living area is a wide, solid brown leather sofa.
+Sitting calmly on the couch is Vash [image_IfL8Je.png]. He is dressed in a flawless, pristine white executive corporate suit that contrasts sharply against the deep, dark leather of the sofa. He doesn't shift his weight or look up from a small, glowing holographic gadget spinning between his fingers.
+Lying down across the brown leather sofa on her right side is his woman, Noemi [image_noemi_bok.jpg]. Her head rests gently on Vash’s knees. Her posture is fluid and completely relaxed. Because of the angle of her position, the intricate tattoo covering her left shoulder and the striking, distinct design trailing down the left side of her abdomen are fully visible and sharp in the frame, catching the neon pink glare of the city skyscrapers outside.
+Vash slowly closes his hand, crushing the holographic gadget into a dead piece of silicon. He tilts his head up, his glowing blue cybernetic monocle pulsing lazily as he looks at Viper and the smoking chassis of G5had0w with absolute, untouchable arrogance.
+VASH
+(voice a smooth, chillingly polished corporate drawl)
+You blew a hole through forty floors of prime real estate... just to break my front door. You lower-sector defects really have no concept of asset management.
+Viper steps forward, the barrel of her shatter-rifle smoking as she glares down at his white suit, her teeth gritted under her tactical mask.
+VIPER
+We’re here to audit your accounts, Vash. And we're starting with everything you stole from the lower sectors in 1997.
+Vash gives a soft, mocking laugh, his fingers gently tracing the edge of Noemi’s shoulder tattoo as she remains perfectly still, her intense eyes locked onto G5had0w's karminowe eye. The screen fades out completely into a heavy, dramatic black.
