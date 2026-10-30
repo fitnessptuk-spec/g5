@@ -2483,3 +2483,120 @@ NOEMI
 (pointing toward a concealed, seamless metallic wall panel behind the kitchen)
 I heard your conversation. I know what you are looking for. Follow me. I will grant you direct access to Vash's private main server vault.
 Noemi steps forward, the palm tree tattoo on her abdomen catching the last red glow of G5had0w’s eye as she presses her palm against the hidden biometrical wall pad. The heavy steel vault door clicks softly, opening into a glowing server core. G5had0w and Viper exchange a fast glance before stepping inside into the darkness. The screen cuts to black.
+
+
+TITLE: PROJECT SOVEREIGN – EPISODE: THE SEED OF THE ARCHITECT
+
+
+INT. VASH'S PRIVATE SERVER VAULT - NIGHT [00:00 - 02:15]
+
+The heavy reinforced structural steel wall panels glide backward with a deep, pressurized hydraulic hiss. Noemi [image_noemi_bok.jpg] steps through the sleek threshold first, her bare feet moving silently across the dust-free, anti-static carbon flooring. Her intense eyes reflect the cold, ambient cerulean luminescence bleeding from the towering server racks that line the circular chamber.
+Behind her, G5had0w and Viper step into the vault. G5had0w's left bionic framework clicks softly as his internal cooling arrays attempt to stabilize his temperature after the eye laser discharge. Viper keeps the smoking barrel of her shatter-rifle lowered but refuses to take her finger off the primary trigger housing.
+NOEMI
+(reaching toward a smooth, hidden biometric glass pedestal in the center)
+Vash thought he owned the mainframe because he held the billing access clearance. He was a fool. The server doesn't respond to corporate credits. It responds to structural architecture.
+She forcefully presses her entire palm onto the dark interface glass. The surface flashes jade green before shifting into a deep, cascading white data waterfall.
+
+INT. VASH'S PRIVATE SERVER VAULT - CONTINUOUS [02:15 - 04:30]
+
+VIPER
+(eyeing the massive data streams, her teeth gritted tightly under her tactical mask)
+Kora, do you have a stable bridge from the van yet? The air in here smells like scorched silicon and corporate lies.
+KORA (V.O.)
+(through the tactical audio relay, voice layered with digital wind noise)
+I’m establishing a secure peer-to-peer link through Noemi's personal gateway node, Viper. But be careful... Vash’s primary heartbeat signal just dropped out of the corporate network loop. The tactical security units have already deployed from the central sector. You have exactly twelve minutes before the building is completely locked down.
+G5had0w moves closer to the central pedestal, his karminowe Oko Błędu expanding as it tracks the encrypted variables. His left arm plates hum with a low, continuous Omarchy Linux background optimization routine.
+G5HAD0W
+(voice a deep, resonant digital rumble)
+The cryptographic layout of these folders... it is not running on standard corporate algorithms. The root directory is structured exactly like my old /home/g5had0w allocation tree. The 1997 system variables are active here.
+
+INT. VASH'S PRIVATE SERVER VAULT - CONTINUOUS [04:30 - 06:45]
+
+Noemi turns her head slightly, the detailed mechanical patterns trailing down her left shoulder glistening under the bright fluorescent terminal light. She inputs a secondary sequence of high-clearance administrative command overrides.
+NOEMI
+Because Vash didn't build this archive, cyborg. He salvaged it from the block-flat ruins before the corporate clean-up crews could incinerate the original hardware assets. He spent thirty years trying to extract the encryption headers from this specific core. Watch the main display array.
+The primary panoramic holographic projector wall behind the pedestal begins to hum violently, casting dense, geometric blue lines through the air as it compiles a massive, uncorrupted legacy media asset file.
+The tracking shot stabilizes frame-to-frame as the massive holographic wall finally resolves into an archival, grainy technical blueprint and personal video file from 1997.
+The display shows G5had0w's father. He is a normal, organic human being with deeply weathered, wrinkled skin and wispy white hair, wearing a worn laboratory coat with a faded flannel collar underneath. He is standing in a raw, concrete block-flat environment, surrounded by ancient analog machinery and early prototype servers. There is no chrome on his body. He is a scientist of flesh and blood, but the mathematical formulas spinning behind him are decades ahead of anything the current corporations use.
+VIPER
+(staring at the human face on the screen, shaking her head)
+G5... look at those schematics. That's not basic block-flat rigging. Your old man wasn't just some technician hiding from the rain. Look at the data layers.
+
+INT. VASH'S PRIVATE SERVER VAULT - CONTINUOUS [06:45 - 09:00]
+
+KORA (V.O.)
+(voice breaking with pure professional shock, keyboard keys clacking furiously in the background)
+He... he was the precursor, Viper! These files date back before Project Sovereign was even a line item in Broker's budget. He was conducting the primary research into biological and anomalous cybernetic fusion. He engineered the entire theoretical architecture of the anomaly loop himself. Vash was just a small-time handler logging his deployment data.
+G5had0w slowly extends his heavy bionic left hand, his metal fingers hovering mere millimeters from the holographic projection of his father's face. His karminowe Oko Błędu flashes violently, throwing red bars over the ancient data streams.
+G5HAD0W
+(voice layered with deep, dangerous static distortion)
+The Omarchy biometrics are matching the DNA variables. The correspondence is absolute. My father... he was not a victim of the storm. He was the author of the interface. He authored the system that salvaged my consciousness.
+NOEMI
+(pointing at the deep encryption blocks guarding the rest of the directory)
+Vash could never break past this layer. He thought it was a corporate lock, but it’s a custom-compiled neural signature. Your father didn't just write these files, cyborg. He designed them specifically to wait for you. But look at the countdown network alert—we have to move!
+
+INT. VASH'S PRIVATE SERVER VAULT - CONTINUOUS [09:00 - 11:15]
+
+KORA (V.O.)
+(screaming over growing static feedback)
+Viper! Seven minutes remaining! The corporate tactical grid just initialized! Heavy military helicopters are inbound on your altitude!
+Suddenly, a blinding, ultra-bright white searchlight cuts through the shattered panoramic window from the outside chasm. A massive corporate attack helicopter hovers right outside the penthouse, its twin spotlights violently sweeping across the dark marble kitchen islands and the brown leather sofa, illuminating the heavy acid rain pouring through the broken wall.
+VIPER
+(snapping her rifle bolt, her eyes fierce)
+Nyx! Pull back into the server frame! We are out of time!
+The camera cuts to Nyx7, who is leaning heavily against the brown leather sofa, her hands pressing a bloody cloth against a deep gash on her side armor from her previous duel. She grimaces, dragging her feet across the polished floor plates to cross the vault threshold.
+NYX7
+(voice ragged, teeth gritted)
+The express elevators are moving. Heavy tactical squads are breaching the floor below us. G5, execute the dump now!
+
+INT. VASH'S PRIVATE SERVER VAULT - CONTINUOUS [11:15 - 13:30]
+
+G5had0w drives both of his heavy metallic hands directly onto the data pedestal surface, his bionic cables-wytrychy extending at maximum velocity, forcing themselves into the core storage arrays to manually download his father's file map.
+G5HAD0W
+Executing raw data synchronization. Bypassing Omarchy security limiters.
+(Oko Błędu flashing violently red)
+SUDO CHMOD 777 /ROOT/ARCHITECT!
+NOEMI
+(frantically typing on a secondary auxiliary pad to maintain the gateway stability)
+The download is hitting 95%... but the secondary perimeter security shields are collapsing!
+VIPER
+(grabbing Noemi by the arm, pushing her toward the rear maintenance shaft door)
+Move! G5, yank the core! We’re dropping through the ventilation conduits!
+G5had0w violently tears his interface cables out of the console as the download hits 100%. The main server terminal instantly shorts out in a massive spray of white sparks.
+
+EXT. CORPORATE DISTRICT - ROOFTOP (OPPOSITE BUILDING) - NIGHT [13:30 - 14:45]
+
+The camera cuts smoothly to the exterior stormy night. The heavy high-rise penthouse is illuminated by three massive attack helicopters flashing their white searchlights into the shattered structure.
+The camera slowly pans upward toward the roof of the rusted, dark tenement block completely across the street. Standing on the slippery ledge, letting the freezing acid rain pour over his heavy armored frame, is Vanta-Prime.
+His purple chest core pulses with a slow, calculating rhythm. He holds a long-range tactical sniper matrix to his visor, his cold gaze tracking the dark silhouettes of G5had0w, Viper, and Nyx7 dropping down the rear technical service lines of the high-rise. He does not fire. He slowly lowers the weapon, a low, mechanical growl echoing from his vocal processor as he realizes his target Vash has been cleared by someone else. He spits onto the roof, disappearing back into the shadows of the storm.
+
+INT. HEROES' HIDEOUT ("THE BURROW") - LATER - NIGHT [14:45 - 17:30]
+
+The scene cuts back to the safe, dry concrete hideout. The air is quiet, except for the hum of Kora’s primary mainframes and the low panting of Shadow, who sits firmly by Kora's legs.
+Nyx7 sits on a metal crate, her upper torso wrapped in fresh tactical bandages, her eyes silently tracking G5had0w. Viper is hunched over the workbench, using a heavy wrench to realign the cracked kinetic chamber of her shatter-rifle. Noemi stands near the map wall, her palm tree tattoo on her left abdomen cast in the dim amber operational light of the bunker.
+VIPER
+(without looking up from her rifle)
+You didn't say a single word during the entire drive through Sector 4, G5. Talk to us. What does your /home directory actually remember about him?
+G5HAD0W
+(standing completely still, his bionic arm venting cool steam)
+Nothing. The migration from Red Hat to Omarchy Linux left the historical variables unmapped. I see his face on the archival ledger... and my system registers a high-frequency emotional loop, but there are no memory assets attached. He wasn't just a father. He was a pioneer. Cybernetics, biological interfaces, anomalous resonance... he was decades ahead of this entire city.
+
+INT. HEROES' HIDEOUT ("THE BURROW") - CONTINUOUS [17:30 - 22:00]
+
+KORA
+(tapping her keyboard, opening the freshly extracted data packet on the main wall)
+The download from Vash's vault was highly encrypted, but it's uncorrupted. G5, look at the root system directory we just imported. It’s an executable binary string named dad_legacy.sh.
+G5had0w steps directly in front of the main terminal. He extends his bionic index finger, linking directly into Kora's secondary interface deck with a sharp click. His karminowe Oko Błędu expands as a terminal console opens across his red iris.
+G5HAD0W
+Modifying system permissions.
+(typing mentally via neural-link, the text flashing on the main wall)
+CHMOD +X DAD*
+He pauses for a fraction of a second, his hydraulic frames tightening as he executes the code.
+G5HAD0W
+./DAD_LEGACY.SH
+Instantly, the entire mainframe architecture of the Burrow violently shutters. Rows of ancient 1990s system diagnostics begin cascading across G5had0w's internal HUD frame-to-frame. His bionic left arm suddenly undertakes a massive, subtle structural transformation—the outer plates realign, unlocking dormant hardware parameters hidden deep within his original chassis.
+NEW COGNITIVE SUB-ROUTINES UNLOCKED: ROOT_SHIELD_V2, COGNITIVE_RESONANCE_SCAN, CORE_BREACH_BURST.
+G5had0w lifts his transforming hand, his crimson eye flashing with a newly acquired, highly stable data pulse. He turns toward Viper, his voice echoing with a double-layered digital authority.
+G5HAD0W
+The script has opened a hidden directory partition. The baseline parameters are updating. I don't have all the answers yet... but my system just unlocked the secondary phase of my original core layout.
+The camera tracks tight into his eye, where the crimson light pulses with renewed, absolute focus. The screen cuts to black.
